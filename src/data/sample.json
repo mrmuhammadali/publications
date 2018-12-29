@@ -1,0 +1,41 @@
+{
+  "nodes": [
+    {
+      "id": "97879.56565",
+      "publicationYear": "1990",
+      "numberOfCitations": "35",
+      "title": "Fast animation and control of nonrigid structures",
+      "cluster": "Cluster13",
+      "color": 3
+    },
+    {
+      "id": "800031.8086",
+      "publicationYear": "2002",
+      "numberOfCitations": "3",
+      "title": "Creating models of truss structures with optimization",
+      "cluster": "Cluster9",
+      "color": 2
+    },
+    {
+      "id": "566570.5666520",
+      "publicationYear": "2002",
+      "numberOfCitations": "17",
+      "title": "Octree textures",
+      "cluster": "Cluster8",
+      "color": 1
+    },
+    {
+      "id": "97879.9788500",
+      "publicationYear": "1990",
+      "numberOfCitations": "1",
+      "title": "Cone-spheres",
+      "cluster": "Cluster13",
+      "color": 3
+    }
+  ],
+  "links": [
+    { "source": "97879.56565", "target": "800031.8086" },
+    { "source": "800031.8086", "target": "566570.5666520" },
+    { "source": "97879.56565", "target": "97879.9788500" }
+  ]
+}

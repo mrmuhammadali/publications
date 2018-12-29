@@ -1,0 +1,1038 @@
+[
+  {
+    "id": "383259.3832860",
+    "publicationYear": "2001",
+    "numberOfCitations": "53",
+    "title": "Rendering effective route maps: improving usability through generalization",
+    "cluster": "Cluster9"
+  },
+  {
+    "id": "383259.3832880",
+    "publicationYear": "2001",
+    "numberOfCitations": "24",
+    "title": "Automating gait generation",
+    "cluster": "Cluster10"
+  },
+  {
+    "id": "383259.3832890",
+    "publicationYear": "2001",
+    "numberOfCitations": "24",
+    "title": "Expressive expression mapping with ratio images",
+    "cluster": "Cluster10"
+  },
+  {
+    "id": "383259.3832900",
+    "publicationYear": "2001",
+    "numberOfCitations": "72",
+    "title": "Expression cloning",
+    "cluster": "Cluster10"
+  },
+  {
+    "id": "383259.3832910",
+    "publicationYear": "2001",
+    "numberOfCitations": "46",
+    "title": "The use of positional information in the modeling of plants",
+    "cluster": "Cluster9"
+  },
+  {
+    "id": "383259.3832920",
+    "publicationYear": "2001",
+    "numberOfCitations": "59",
+    "title": "Procedural modeling of cities",
+    "cluster": "Cluster9"
+  },
+  {
+    "id": "383259.3832930",
+    "publicationYear": "2001",
+    "numberOfCitations": "17",
+    "title": "Feature-based cellular texturing for architectural models",
+    "cluster": "Cluster5"
+  },
+  {
+    "id": "383259.3832940",
+    "publicationYear": "2001",
+    "numberOfCitations": "5",
+    "title": "Integrating shape and pattern in mammalian models",
+    "cluster": "Cluster5"
+  },
+  {
+    "id": "383259.3832950",
+    "publicationYear": "2001",
+    "numberOfCitations": "153",
+    "title": "Image analogies",
+    "cluster": "Cluster3"
+  },
+  {
+    "id": "383259.3832960",
+    "publicationYear": "2001",
+    "numberOfCitations": "196",
+    "title": "Image quilting for texture synthesis and transfer",
+    "cluster": "Cluster13"
+  },
+  {
+    "id": "383259.3832970",
+    "publicationYear": "2001",
+    "numberOfCitations": "84",
+    "title": "Texture synthesis on surfaces",
+    "cluster": "Cluster13"
+  },
+  {
+    "id": "383259.3832980",
+    "publicationYear": "2001",
+    "numberOfCitations": "76",
+    "title": "Texture synthesis over arbitrary manifold surfaces",
+    "cluster": "Cluster8"
+  },
+  {
+    "id": "383259.3832990",
+    "publicationYear": "2001",
+    "numberOfCitations": "42",
+    "title": "The randomized z-buffer algorithm: interactive rendering of highly complex scenes",
+    "cluster": "Cluster2"
+  },
+  {
+    "id": "383259.3833000",
+    "publicationYear": "2001",
+    "numberOfCitations": "98",
+    "title": "Surface splatting",
+    "cluster": "Cluster2"
+  },
+  {
+    "id": "383259.3833010",
+    "publicationYear": "2001",
+    "numberOfCitations": "44",
+    "title": "Spectral processing of point-sampled geometry",
+    "cluster": "Cluster13"
+  },
+  {
+    "id": "383259.3833020",
+    "publicationYear": "2001",
+    "numberOfCitations": "38",
+    "title": "Adaptive shadow maps",
+    "cluster": "Cluster4"
+  },
+  {
+    "id": "383259.3833030",
+    "publicationYear": "2001",
+    "numberOfCitations": "8",
+    "title": "Photorealistic rendering of knitwear using the lumislice",
+    "cluster": "Cluster6"
+  },
+  {
+    "id": "383259.3833060",
+    "publicationYear": "2001",
+    "numberOfCitations": "9",
+    "title": "A physically-based night sky model",
+    "cluster": "Cluster4"
+  },
+  {
+    "id": "383259.3833070",
+    "publicationYear": "2001",
+    "numberOfCitations": "128",
+    "title": "Texture mapping progressive meshes",
+    "cluster": "Cluster8"
+  },
+  {
+    "id": "383259.3833080",
+    "publicationYear": "2001",
+    "numberOfCitations": "30",
+    "title": "Constrained texture mapping for polygonal meshes",
+    "cluster": "Cluster13"
+  },
+  {
+    "id": "383259.3833090",
+    "publicationYear": "2001",
+    "numberOfCitations": "89",
+    "title": "Unstructured lumigraph rendering",
+    "cluster": "Cluster13"
+  },
+  {
+    "id": "383259.3833100",
+    "publicationYear": "2001",
+    "numberOfCitations": "61",
+    "title": "Image-based modeling and photo editing",
+    "cluster": "Cluster3"
+  },
+  {
+    "id": "383259.3833110",
+    "publicationYear": "2001",
+    "numberOfCitations": "18",
+    "title": "Plenoptic stitching: a scalable method for reconstructing 3D interactive walk throughs",
+    "cluster": "Cluster13"
+  },
+  {
+    "id": "383259.3833120",
+    "publicationYear": "2001",
+    "numberOfCitations": "9",
+    "title": "Hybrid stereo camera: an IBR approach for synthesis of very high resolution stereoscopic image sequences",
+    "cluster": "Cluster11"
+  },
+  {
+    "id": "383259.3833130",
+    "publicationYear": "2001",
+    "numberOfCitations": "48",
+    "title": "DAB: interactive haptic painting with 3D virtual brushesery high reso",
+    "cluster": "Cluster9"
+  },
+  {
+    "id": "383259.3833140",
+    "publicationYear": "2001",
+    "numberOfCitations": "15",
+    "title": "Project FEELEX: adding haptic surface to graphicsbrushesery high reso",
+    "cluster": "Cluster7"
+  },
+  {
+    "id": "383259.3833150",
+    "publicationYear": "2001",
+    "numberOfCitations": "113",
+    "title": "BEAT: the Behavior Expression Animation Toolkitcsbrushesery high reso",
+    "cluster": "Cluster10"
+  },
+  {
+    "id": "383259.3833160",
+    "publicationYear": "2001",
+    "numberOfCitations": "37",
+    "title": "WordsEye: an automatic text-to-scene conversion systemesery high reso",
+    "cluster": "Cluster12"
+  },
+  {
+    "id": "383259.3833170",
+    "publicationYear": "2001",
+    "numberOfCitations": "64",
+    "title": "An efficient representation for irradiance environment maps",
+    "cluster": "Cluster13"
+  },
+  {
+    "id": "383259.3833180",
+    "publicationYear": "2001",
+    "numberOfCitations": "9",
+    "title": "Applying appearance standards to light reflection models",
+    "cluster": "Cluster6"
+  },
+  {
+    "id": "383259.3833190",
+    "publicationYear": "2001",
+    "numberOfCitations": "122",
+    "title": "A practical model for subsurface light transport",
+    "cluster": "Cluster6"
+  },
+  {
+    "id": "383259.3833200",
+    "publicationYear": "2001",
+    "numberOfCitations": "71",
+    "title": "Polynomial texture maps",
+    "cluster": "Cluster5"
+  },
+  {
+    "id": "383259.3833210",
+    "publicationYear": "2001",
+    "numberOfCitations": "31",
+    "title": "Synthesizing sounds from physically based motion",
+    "cluster": "Cluster13"
+  },
+  {
+    "id": "383259.3833220",
+    "publicationYear": "2001",
+    "numberOfCitations": "52",
+    "title": "FoleyAutomatic: physically-based sound effects for interactive simulation and animation",
+    "cluster": "Cluster7"
+  },
+  {
+    "id": "383259.3833230",
+    "publicationYear": "2001",
+    "numberOfCitations": "28",
+    "title": "Modeling acoustics in virtual environments using the uniform theory of diffractionve simula",
+    "cluster": "Cluster13"
+  },
+  {
+    "id": "383259.3833240",
+    "publicationYear": "2001",
+    "numberOfCitations": "4",
+    "title": "An immersive",
+    "cluster": ""
+  },
+  {
+    "id": "383259.3833250",
+    "publicationYear": "2001",
+    "numberOfCitations": "10",
+    "title": "Image-based motion blur for stop motion animation",
+    "cluster": "Cluster10"
+  },
+  {
+    "id": "383259.3833260",
+    "publicationYear": "2001",
+    "numberOfCitations": "25",
+    "title": "A simple and efficient error-diffusion algorithm",
+    "cluster": "Cluster3"
+  },
+  {
+    "id": "383259.3833270",
+    "publicationYear": "2001",
+    "numberOfCitations": "40",
+    "title": "Simulating decorative mosaics",
+    "cluster": "Cluster13"
+  },
+  {
+    "id": "383259.3833280",
+    "publicationYear": "2001",
+    "numberOfCitations": "58",
+    "title": "Real-time hatching",
+    "cluster": "Cluster3"
+  },
+  {
+    "id": "566570.5665720",
+    "publicationYear": "2002",
+    "numberOfCitations": "39",
+    "title": "Video matting of complex scenes",
+    "cluster": "Cluster3"
+  },
+  {
+    "id": "566570.5665730",
+    "publicationYear": "2002",
+    "numberOfCitations": "114",
+    "title": "Gradient domain high dynamic range compression",
+    "cluster": "Cluster13"
+  },
+  {
+    "id": "566570.5665740",
+    "publicationYear": "2002",
+    "numberOfCitations": "117",
+    "title": "Fast bilateral filtering for the display of high-dynamic-range images",
+    "cluster": "Cluster3"
+  },
+  {
+    "id": "566570.5665750",
+    "publicationYear": "2002",
+    "numberOfCitations": "112",
+    "title": "Photographic tone reproduction for digital images",
+    "cluster": "Cluster11"
+  },
+  {
+    "id": "566570.5665760",
+    "publicationYear": "2002",
+    "numberOfCitations": "47",
+    "title": "Transferring color to greyscale images",
+    "cluster": "Cluster3"
+  },
+  {
+    "id": "566570.5665780",
+    "publicationYear": "2002",
+    "numberOfCitations": "76",
+    "title": "CHARMS: a simple framework for adaptive simulation",
+    "cluster": "Cluster8"
+  },
+  {
+    "id": "566570.5665790",
+    "publicationYear": "2002",
+    "numberOfCitations": "46",
+    "title": "Graphical modeling and animation of ductile fracture",
+    "cluster": "Cluster1"
+  },
+  {
+    "id": "566570.5665800",
+    "publicationYear": "2002",
+    "numberOfCitations": "3",
+    "title": "Creating models of truss structures with optimization",
+    "cluster": "Cluster9"
+  },
+  {
+    "id": "566570.5665810",
+    "publicationYear": "2002",
+    "numberOfCitations": "24",
+    "title": "A procedural approach to authoring solid models",
+    "cluster": "Cluster13"
+  },
+  {
+    "id": "566570.5665830",
+    "publicationYear": "2002",
+    "numberOfCitations": "36",
+    "title": "Cut-and-paste editing of multiresolution surfaces",
+    "cluster": "Cluster13"
+  },
+  {
+    "id": "566570.5665840",
+    "publicationYear": "2002",
+    "numberOfCitations": "61",
+    "title": "Pointshop 3D: an interactive system for point-based surface editing",
+    "cluster": "Cluster8"
+  },
+  {
+    "id": "566570.5665850",
+    "publicationYear": "2002",
+    "numberOfCitations": "41",
+    "title": "Level set surface editing operators",
+    "cluster": "Cluster8"
+  },
+  {
+    "id": "566570.5665860",
+    "publicationYear": "2002",
+    "numberOfCitations": "88",
+    "title": "Dual contouring of hermite data",
+    "cluster": "Cluster8"
+  },
+  {
+    "id": "566570.5665880",
+    "publicationYear": "2002",
+    "numberOfCitations": "53",
+    "title": "Interactive geometry remeshing",
+    "cluster": "Cluster8"
+  },
+  {
+    "id": "566570.5665890",
+    "publicationYear": "2002",
+    "numberOfCitations": "133",
+    "title": "Geometry images",
+    "cluster": "Cluster8"
+  },
+  {
+    "id": "566570.5665900",
+    "publicationYear": "2002",
+    "numberOfCitations": "161",
+    "title": "Least squares conformal maps for automatic texture atlas generation",
+    "cluster": "Cluster8"
+  },
+  {
+    "id": "566570.5665910",
+    "publicationYear": "2002",
+    "numberOfCitations": "27",
+    "title": "Progressive lossless compression of arbitrary simplicial complexes",
+    "cluster": "Cluster8"
+  },
+  {
+    "id": "566570.5665920",
+    "publicationYear": "2002",
+    "numberOfCitations": "32",
+    "title": "Linear combination of transformations",
+    "cluster": "Cluster13"
+  },
+  {
+    "id": "566570.5665940",
+    "publicationYear": "2002",
+    "numberOfCitations": "66",
+    "title": "Trainable videorealistic speech animation",
+    "cluster": "Cluster10"
+  },
+  {
+    "id": "566570.5665950",
+    "publicationYear": "2002",
+    "numberOfCitations": "34",
+    "title": "Turning to the masters: motion capturing cartoonsed surface editing",
+    "cluster": "Cluster10"
+  },
+  {
+    "id": "566570.5665960",
+    "publicationYear": "2002",
+    "numberOfCitations": "53",
+    "title": "Synthesis of complex dynamic character motion from simple animationsonsed surface editing",
+    "cluster": "Cluster10"
+  },
+  {
+    "id": "566570.5665970",
+    "publicationYear": "2002",
+    "numberOfCitations": "39",
+    "title": "Integrated learning for interactive synthetic characters",
+    "cluster": "Cluster10"
+  },
+  {
+    "id": "566570.5665990",
+    "publicationYear": "2002",
+    "numberOfCitations": "48",
+    "title": "Image-based 3D photography using opacity hulls",
+    "cluster": "Cluster11"
+  },
+  {
+    "id": "566570.5666000",
+    "publicationYear": "2002",
+    "numberOfCitations": "53",
+    "title": "Real-time 3D model acquisition",
+    "cluster": "Cluster13"
+  },
+  {
+    "id": "566570.5666010",
+    "publicationYear": "2002",
+    "numberOfCitations": "42",
+    "title": "Light field mapping: efficient representation and hardware rendering of surface light fields",
+    "cluster": "Cluster6"
+  },
+  {
+    "id": "566570.5666020",
+    "publicationYear": "2002",
+    "numberOfCitations": "10",
+    "title": "Feature-based light field morphing",
+    "cluster": "Cluster6"
+  },
+  {
+    "id": "566570.5666040",
+    "publicationYear": "2002",
+    "numberOfCitations": "102",
+    "title": "Motion texture: a two-level statistical model for character motion synthesis",
+    "cluster": "Cluster10"
+  },
+  {
+    "id": "566570.5666050",
+    "publicationYear": "2002",
+    "numberOfCitations": "202",
+    "title": "Motion graphs",
+    "cluster": "Cluster10"
+  },
+  {
+    "id": "566570.5666060",
+    "publicationYear": "2002",
+    "numberOfCitations": "132",
+    "title": "Interactive motion generation from examples",
+    "cluster": "Cluster10"
+  },
+  {
+    "id": "566570.5666070",
+    "publicationYear": "2002",
+    "numberOfCitations": "159",
+    "title": "Interactive control of avatars animated with human motion data",
+    "cluster": "Cluster10"
+  },
+  {
+    "id": "566570.5666080",
+    "publicationYear": "2002",
+    "numberOfCitations": "82",
+    "title": "Motion capture assisted animation: texturing and synthesisr motion",
+    "cluster": "Cluster13"
+  },
+  {
+    "id": "566570.5666100",
+    "publicationYear": "2002",
+    "numberOfCitations": "10",
+    "title": "Homomorphic factorization of BRDF-based lighting computationh",
+    "cluster": "Cluster6"
+  },
+  {
+    "id": "566570.5666110",
+    "publicationYear": "2002",
+    "numberOfCitations": "43",
+    "title": "Frequency space environment map rendering",
+    "cluster": "Cluster6"
+  },
+  {
+    "id": "566570.5666120",
+    "publicationYear": "2002",
+    "numberOfCitations": "168",
+    "title": "Precomputed radiance transfer for real-time rendering in dynamic",
+    "cluster": ""
+  },
+  {
+    "id": "566570.5666130",
+    "publicationYear": "2002",
+    "numberOfCitations": "35",
+    "title": "Interactive global illumination in dynamic scenes",
+    "cluster": "Cluster4"
+  },
+  {
+    "id": "566570.5666140",
+    "publicationYear": "2002",
+    "numberOfCitations": "25",
+    "title": "A lighting reproduction approach to live-action compositing",
+    "cluster": "Cluster11"
+  },
+  {
+    "id": "566570.5666160",
+    "publicationYear": "2002",
+    "numberOfCitations": "48",
+    "title": "Perspective shadow maps",
+    "cluster": "Cluster4"
+  },
+  {
+    "id": "566570.5666170",
+    "publicationYear": "2002",
+    "numberOfCitations": "15",
+    "title": "A user interface for interactive cinematic shadow design",
+    "cluster": "Cluster4"
+  },
+  {
+    "id": "566570.5666180",
+    "publicationYear": "2002",
+    "numberOfCitations": "12",
+    "title": "Robust epsilon visibility",
+    "cluster": "Cluster5"
+  },
+  {
+    "id": "566570.5666190",
+    "publicationYear": "2002",
+    "numberOfCitations": "41",
+    "title": "A rapid hierarchical rendering technique for translucent materials",
+    "cluster": "Cluster4"
+  },
+  {
+    "id": "566570.5666210",
+    "publicationYear": "2002",
+    "numberOfCitations": "48",
+    "title": "DyRT: dynamic response textures for real time deformation simulation with graphics hardware",
+    "cluster": "Cluster13"
+  },
+  {
+    "id": "566570.5666220",
+    "publicationYear": "2002",
+    "numberOfCitations": "56",
+    "title": "Interactive skeleton-driven dynamic deformations",
+    "cluster": "Cluster8"
+  },
+  {
+    "id": "566570.5666230",
+    "publicationYear": "2002",
+    "numberOfCitations": "104",
+    "title": "Robust treatment of collisions",
+    "cluster": ""
+  },
+  {
+    "id": "566570.5666240",
+    "publicationYear": "2002",
+    "numberOfCitations": "73",
+    "title": "Stable but responsive cloth",
+    "cluster": "Cluster1"
+  },
+  {
+    "id": "566570.5666260",
+    "publicationYear": "2002",
+    "numberOfCitations": "62",
+    "title": "Articulated body deformation from range scan data",
+    "cluster": "Cluster10"
+  },
+  {
+    "id": "566570.5666270",
+    "publicationYear": "2002",
+    "numberOfCitations": "32",
+    "title": "Interactive multiresolution hair modeling and editing",
+    "cluster": "Cluster13"
+  },
+  {
+    "id": "566570.5666280",
+    "publicationYear": "2002",
+    "numberOfCitations": "9",
+    "title": "Modeling and rendering of realistic feathers ",
+    "cluster": "Cluster6"
+  },
+  {
+    "id": "566570.5666290",
+    "publicationYear": "2002",
+    "numberOfCitations": "42",
+    "title": "Eyes alive",
+    "cluster": "Cluster10"
+  },
+  {
+    "id": "566570.5666300",
+    "publicationYear": "2002",
+    "numberOfCitations": "38",
+    "title": "Physiological measures of presence in stressful virtual environmentstionrmation simulation ",
+    "cluster": "Cluster7"
+  },
+  {
+    "id": "566570.5666320",
+    "publicationYear": "2002",
+    "numberOfCitations": "13",
+    "title": "Self-similarity based texture editing",
+    "cluster": "Cluster3"
+  },
+  {
+    "id": "566570.5666330",
+    "publicationYear": "2002",
+    "numberOfCitations": "27",
+    "title": "Jigsaw image mosaics",
+    "cluster": "Cluster3"
+  },
+  {
+    "id": "566570.5666340",
+    "publicationYear": "2002",
+    "numberOfCitations": "57",
+    "title": "Synthesis of bidirectional texture functions on arbitrary surfaces",
+    "cluster": "Cluster6"
+  },
+  {
+    "id": "566570.5666350",
+    "publicationYear": "2002",
+    "numberOfCitations": "44",
+    "title": "Hierarchical pattern mapping",
+    "cluster": "Cluster8"
+  },
+  {
+    "id": "566570.5666360",
+    "publicationYear": "2002",
+    "numberOfCitations": "30",
+    "title": "Improving noise",
+    "cluster": "Cluster13"
+  },
+  {
+    "id": "566570.5666380",
+    "publicationYear": "2002",
+    "numberOfCitations": "8",
+    "title": "The SAGE graphics architecture",
+    "cluster": "Cluster2"
+  },
+  {
+    "id": "566570.5666390",
+    "publicationYear": "2002",
+    "numberOfCitations": "103",
+    "title": "Chromium: a stream-processing framework for interactive rendering on clusters",
+    "cluster": "Cluster2"
+  },
+  {
+    "id": "566570.5666400",
+    "publicationYear": "2002",
+    "numberOfCitations": "96",
+    "title": "Ray tracing on programmable graphics hardware",
+    "cluster": "Cluster2"
+  },
+  {
+    "id": "566570.5666410",
+    "publicationYear": "2002",
+    "numberOfCitations": "2",
+    "title": "Shader-driven compilation of rendering assets",
+    "cluster": "Cluster2"
+  },
+  {
+    "id": "566570.5666430",
+    "publicationYear": "2002",
+    "numberOfCitations": "56",
+    "title": "Physically based modeling and animation of fire",
+    "cluster": "Cluster1"
+  },
+  {
+    "id": "566570.5666440",
+    "publicationYear": "2002",
+    "numberOfCitations": "30",
+    "title": "Structural modeling of flames for a production environment",
+    "cluster": "Cluster13"
+  },
+  {
+    "id": "566570.5666450",
+    "publicationYear": "2002",
+    "numberOfCitations": "118",
+    "title": "Animation and rendering of complex water surfaces",
+    "cluster": "Cluster1"
+  },
+  {
+    "id": "566570.5666460",
+    "publicationYear": "2002",
+    "numberOfCitations": "42",
+    "title": "Image based flow visualization",
+    "cluster": "Cluster13"
+  },
+  {
+    "id": "566570.5666480",
+    "publicationYear": "2002",
+    "numberOfCitations": "47",
+    "title": "WYSIWYG NPR: drawing strokes directly on 3D modelsctive rendering on ",
+    "cluster": "Cluster13"
+  },
+  {
+    "id": "566570.5666490",
+    "publicationYear": "2002",
+    "numberOfCitations": "17",
+    "title": "Painting and rendering textures on unparameterized models",
+    "cluster": "Cluster8"
+  },
+  {
+    "id": "566570.5666500",
+    "publicationYear": "2002",
+    "numberOfCitations": "78",
+    "title": "Stylization and abstraction of photographs",
+    "cluster": "Cluster13"
+  },
+  {
+    "id": "566570.5666510",
+    "publicationYear": "2002",
+    "numberOfCitations": "26",
+    "title": "Object-based image editing",
+    "cluster": "Cluster3"
+  },
+  {
+    "id": "566570.5666520",
+    "publicationYear": "2002",
+    "numberOfCitations": "17",
+    "title": "Octree textures",
+    "cluster": "Cluster8"
+  },
+  {
+    "id": "97879.56565",
+    "publicationYear": "1990",
+    "numberOfCitations": "35",
+    "title": "Fast animation and control of nonrigid structuresÖ a",
+    "cluster": "Cluster13"
+  },
+  {
+    "id": "97879.9788100",
+    "publicationYear": "1990",
+    "numberOfCitations": "50",
+    "title": "Curved surfaces and coherence for non-penetrating rigid body simulation",
+    "cluster": "Cluster7"
+  },
+  {
+    "id": "97879.9788200",
+    "publicationYear": "1990",
+    "numberOfCitations": "25",
+    "title": "Dynamic simulation of autonomous legged locomotion",
+    "cluster": "Cluster10"
+  },
+  {
+    "id": "97879.9788300",
+    "publicationYear": "1990",
+    "numberOfCitations": "26",
+    "title": "Geometric collisions for time-dependent parametric surfaces",
+    "cluster": "Cluster7"
+  },
+  {
+    "id": "97879.9788400",
+    "publicationYear": "1990",
+    "numberOfCitations": "66",
+    "title": "Rapid",
+    "cluster": ""
+  },
+  {
+    "id": "97879.9788500",
+    "publicationYear": "1990",
+    "numberOfCitations": "1",
+    "title": "Cone-spheres",
+    "cluster": "Cluster13"
+  },
+  {
+    "id": "97879.9788600",
+    "publicationYear": "1990",
+    "numberOfCitations": "20",
+    "title": "Particle transport and image synthesis",
+    "cluster": "Cluster4"
+  },
+  {
+    "id": "97879.9788700",
+    "publicationYear": "1990",
+    "numberOfCitations": "2",
+    "title": "Rendering CSG models with a ZZ-buffer",
+    "cluster": "Cluster13"
+  },
+  {
+    "id": "97879.9788800",
+    "publicationYear": "1990",
+    "numberOfCitations": "1",
+    "title": "Antialiasing of interlaced video animation",
+    "cluster": "Cluster13"
+  },
+  {
+    "id": "97879.9788900",
+    "publicationYear": "1990",
+    "numberOfCitations": "3",
+    "title": "Parallel object-space hidden surface removal ",
+    "cluster": "Cluster13"
+  },
+  {
+    "id": "97879.9789000",
+    "publicationYear": "1990",
+    "numberOfCitations": "22",
+    "title": "Hidden curve removal for free form surfaces",
+    "cluster": "Cluster13"
+  },
+  {
+    "id": "97879.9789100",
+    "publicationYear": "1990",
+    "numberOfCitations": "17",
+    "title": "Using tolerances to guarantee valid polyhedral modeling results",
+    "cluster": "Cluster12"
+  },
+  {
+    "id": "97879.9789200",
+    "publicationYear": "1990",
+    "numberOfCitations": "50",
+    "title": "Merging BSP trees yields polyhedral set operations",
+    "cluster": "Cluster2"
+  },
+  {
+    "id": "97879.9789300",
+    "publicationYear": "1990",
+    "numberOfCitations": "1",
+    "title": "An efficient radiosity solution for bump texture generation",
+    "cluster": "Cluster4"
+  },
+  {
+    "id": "97879.9789400",
+    "publicationYear": "1990",
+    "numberOfCitations": "16",
+    "title": "Incremental radiosity: an extension of progressive radiosity to an interactive image synthesis system",
+    "cluster": "Cluster4"
+  },
+  {
+    "id": "97879.9789500",
+    "publicationYear": "1990",
+    "numberOfCitations": "44",
+    "title": "Adaptive radiosity textures for bidirectional ray tracing",
+    "cluster": "Cluster4"
+  },
+  {
+    "id": "97879.9789600",
+    "publicationYear": "1990",
+    "numberOfCitations": "23",
+    "title": "Adaptive mesh generation for global diffuse illumination",
+    "cluster": "Cluster5"
+  },
+  {
+    "id": "97879.9789700",
+    "publicationYear": "1990",
+    "numberOfCitations": "26",
+    "title": "Artificial reality with force-feedback: development of desktop virtual space with compact master manipulator",
+    "cluster": "Cluster7"
+  },
+  {
+    "id": "97879.9789800",
+    "publicationYear": "1990",
+    "numberOfCitations": "86",
+    "title": "Rapid controlled movement through a virtual 3D workspace",
+    "cluster": "Cluster10"
+  },
+  {
+    "id": "97879.9790000",
+    "publicationYear": "1990",
+    "numberOfCitations": "113",
+    "title": "Extended free-form deformation: a sculpturing tool for 3D geometric modeling with compact m",
+    "cluster": "Cluster13"
+  },
+  {
+    "id": "97879.9790100",
+    "publicationYear": "1990",
+    "numberOfCitations": "123",
+    "title": "Comprehensible rendering of 3-D shapes",
+    "cluster": "Cluster12"
+  },
+  {
+    "id": "97879.9790200",
+    "publicationYear": "1990",
+    "numberOfCitations": "90",
+    "title": "Paint by numbers: abstract image representations",
+    "cluster": "Cluster13"
+  },
+  {
+    "id": "97879.9790400",
+    "publicationYear": "1990",
+    "numberOfCitations": "13",
+    "title": "Reusable motion synthesis using state-space controllers",
+    "cluster": "Cluster10"
+  },
+  {
+    "id": "97879.9790600",
+    "publicationYear": "1990",
+    "numberOfCitations": "85",
+    "title": "Performance-driven facial animation",
+    "cluster": "Cluster10"
+  },
+  {
+    "id": "97879.9790700",
+    "publicationYear": "1990",
+    "numberOfCitations": "10",
+    "title": "Strength guided motion",
+    "cluster": "Cluster10"
+  },
+  {
+    "id": "97879.9790800",
+    "publicationYear": "1990",
+    "numberOfCitations": "8",
+    "title": "Accurate rendering technique based on colorimetric conception",
+    "cluster": "Cluster13"
+  },
+  {
+    "id": "97879.9790900",
+    "publicationYear": "1990",
+    "numberOfCitations": "42",
+    "title": "A model for anisotropic reflection",
+    "cluster": "Cluster5"
+  },
+  {
+    "id": "97879.9791000",
+    "publicationYear": "1990",
+    "numberOfCitations": "13",
+    "title": "Building block shaders",
+    "cluster": "Cluster2"
+  },
+  {
+    "id": "97879.9791100",
+    "publicationYear": "1990",
+    "numberOfCitations": "52",
+    "title": "A language for shading and lighting calculations",
+    "cluster": "Cluster13"
+  },
+  {
+    "id": "97879.9791200",
+    "publicationYear": "1990",
+    "numberOfCitations": "14",
+    "title": "The rendering architecture of the DN10000VS",
+    "cluster": "Cluster13"
+  },
+  {
+    "id": "97879.9791300",
+    "publicationYear": "1990",
+    "numberOfCitations": "73",
+    "title": "The accumulation buffer: hardware support for high-quality renderingmodeling with compact m",
+    "cluster": "Cluster2"
+  },
+  {
+    "id": "97879.9791400",
+    "publicationYear": "1990",
+    "numberOfCitations": "5",
+    "title": "High speed high quality antialiased vector generation",
+    "cluster": "Cluster2"
+  },
+  {
+    "id": "97879.9791500",
+    "publicationYear": "1990",
+    "numberOfCitations": "37",
+    "title": "Real-time robot motion planning using rasterizing computer graphics hardware with compact m",
+    "cluster": "Cluster10"
+  },
+  {
+    "id": "97879.9791600",
+    "publicationYear": "1990",
+    "numberOfCitations": "38",
+    "title": "Ray tracing trimmed rational surface patches ",
+    "cluster": "Cluster5"
+  },
+  {
+    "id": "97879.9791700",
+    "publicationYear": "1990",
+    "numberOfCitations": "17",
+    "title": "Generalized B-spline surfaces of arbitrary topologya",
+    "cluster": "Cluster5"
+  },
+  {
+    "id": "97879.9791800",
+    "publicationYear": "1990",
+    "numberOfCitations": "41",
+    "title": "Rendering and animation of gaseous phenomena by combining fast volume and scanline A-buffer techniques",
+    "cluster": "Cluster1"
+  },
+  {
+    "id": "97879.9791900",
+    "publicationYear": "1990",
+    "numberOfCitations": "173",
+    "title": "Footprint evaluation for volume rendering",
+    "cluster": "Cluster13"
+  },
+  {
+    "id": "97879.9792000",
+    "publicationYear": "1990",
+    "numberOfCitations": "19",
+    "title": "Light-water interaction using backward beam tracinga",
+    "cluster": "Cluster13"
+  },
+  {
+    "id": "97879.9792100",
+    "publicationYear": "1990",
+    "numberOfCitations": "10",
+    "title": "A method of generating stone wall pattern",
+    "cluster": "Cluster13"
+  },
+  {
+    "id": "97879.9792200",
+    "publicationYear": "1990",
+    "numberOfCitations": "24",
+    "title": "A lighting model aiming at drive simulators",
+    "cluster": "Cluster5"
+  },
+  {
+    "id": "97879.9792300",
+    "publicationYear": "1990",
+    "numberOfCitations": "56",
+    "title": "Particle animation and rendering using data parallel computation",
+    "cluster": "Cluster13"
+  }
+]
