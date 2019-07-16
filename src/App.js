@@ -1,62 +1,47 @@
 // libs
 import React from 'react'
+import { ForceGraph, ForceGraphNode, ForceGraphLink } from 'react-vis-force'
 import ReactTooltip from 'react-tooltip'
 
 // src
-import ForceDirectedGraph from './ForceDirectedGraph'
 import linksData from './data/links.json'
 import nodesData from './data/nodes.json'
+import { filterData, getColor } from './utils'
 
-const filterData = data => {
-  const nodes = data.nodes.reduce((final, node) => {
-    return {
-      ...final,
-      [node.id]: node,
-    }
-  }, {})
-  const filteredLinks = data.links.filter(({ source, target }) => {
-    const isSourceCorrect = Boolean(nodes[source])
-    const isTargetCorrect = Boolean(nodes[target])
+const data = filterData({ nodes: nodesData, links: linksData })
 
-    return isSourceCorrect && isTargetCorrect
-  })
-  const filteredNodes = filteredLinks.reduce((final, { source, target }) => {
-    return [...final, nodes[source], nodes[target]]
-  }, [])
+export default function ForceDirectedExample() {
+  console.log(data)
+  const { nodes, links } = data
 
-  return { links: filteredLinks, nodes: filteredNodes }
-}
-
-const data = { nodes: nodesData, links: linksData }
-const filteredData = filterData(data)
-
-export default class ForceDirectedExample extends React.Component {
-  state = {
-    strength: Math.random() * 60 - 30,
-  }
-
-  render() {
-    const { strength } = this.state
-
-    console.log(filteredData, linksData.length)
-
-    return (
-      <div className="force-directed-example">
-        <button
-          className="showcase-button"
-          onClick={() => this.setState({ strength: Math.random() * 60 - 30 })}
-        >
-          {' Reweight '}
-        </button>
-        <ForceDirectedGraph
-          data={filteredData}
-          height={window.innerHeight}
-          width={window.innerHeight}
-          animation
-          strength={strength}
-        />
-        <ReactTooltip type="info" effect="solid" />
-      </div>
-    )
-  }
+  return (
+    <div className="force-directed-example">
+      <ForceGraph
+        simulationOptions={{
+          height: window.innerHeight,
+          width: window.innerHeight,
+          animate: true,
+          radiusMargin: 200,
+          velocityDecay: 1.02,
+        }}
+      >
+        {nodes.map((node, index) => (
+          <ForceGraphNode
+            key={node.id + index}
+            data-tip={node.title}
+            node={node}
+            fill={getColor(node)}
+          />
+        ))}
+        {links.map((link, index) => (
+          <ForceGraphLink
+            key={`${link.source}${link.target}${index}`}
+            link={link}
+            strokeWidth={2}
+          />
+        ))}
+      </ForceGraph>
+      <ReactTooltip type="info" effect="solid" />
+    </div>
+  )
 }
