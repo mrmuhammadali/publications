@@ -4,6 +4,8 @@
   "private": true,
   "dependencies": {
     "d3-array": "^2.2.0",
+    "d3-force": "^2.0.1",
+    "d3-hierarchy": "^1.1.8",
     "lodash": "^4.17.14",
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
