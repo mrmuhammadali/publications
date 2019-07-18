@@ -1,9 +1,9 @@
 // libs
 import flow from 'lodash/fp/flow'
-import { group } from 'd3-array'
 import reduce from 'lodash/fp/reduce'
-import replace from 'lodash/replace'
 import uniqBy from 'lodash/fp/uniqBy'
+import { hierarchy, pack } from 'd3-hierarchy'
+import { group } from 'd3-array'
 
 export const filterData = data => {
   const nodes = data.nodes.reduce((final, node) => {
@@ -27,25 +27,14 @@ export const filterData = data => {
   return { links: filteredLinks, nodes: filteredNodes, groupedNodes }
 }
 
-const COLORS = [
-  '#19CDD7',
-  '#DDB27C',
-  '#88572C',
-  '#FF991F',
-  '#F15C17',
-  '#223F9A',
-  '#DA70BF',
-  '#4DC19C',
-  '#12939A',
-  '#B7885E',
-  '#FFCB99',
-  '#F89570',
-  '#E79FD5',
-  '#89DAC1',
-]
-
-export function getColor({ cluster }) {
-  const index = replace(cluster, /cluster|Cluster/g, '')
-
-  return index ? COLORS[parseInt(index)] : COLORS[0]
+export const nodesHierarchy = (nodes, width, height, crieteria) => {
+  return pack()
+    .size([width, height])
+    .padding(1)(hierarchy(nodes).sum(d => d[crieteria]))
 }
+
+export const nodeTransformer = nodes => ({
+  children: Array.from(group(nodes, d => d.cluster), ([, children]) => ({
+    children,
+  })),
+})

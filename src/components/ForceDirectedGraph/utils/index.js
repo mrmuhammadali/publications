@@ -1,27 +1,14 @@
-import { rollup, group, pack } from 'd3-array'
-import { hierarchy } from 'd3-hierarchy'
-
-export const nodesHierarchy = (nodes, width, height, crieteria) => {
-  pack()
-    .size([width, height])
-    .padding(1)(hierarchy(nodes).sum(d => d[crieteria]))
-}
-
-export const nodeTransformer = nodes => ({
-  children: Array.from(group(nodes, d => d.group), ([, children]) => ({
-    children,
-  })),
-})
+import { rollup } from 'd3-array'
+import replace from 'lodash/replace'
 
 export const forceCluster = () => {
   const strength = 0.1
   let nodes
-
   function force(alpha) {
-    const centroids = rollup(nodes, centroid, d => d.data.group)
+    const centroids = rollup(nodes, centroid, d => d.data.cluster)
     const l = alpha * strength
     for (const d of nodes) {
-      const { x: cx, y: cy } = centroids.get(d.data.group)
+      const { x: cx, y: cy } = centroids.get(d.data.cluster)
       d.vx -= (d.x - cx) * l
       d.vy -= (d.y - cy) * l
     }
@@ -43,4 +30,27 @@ const centroid = nodes => {
     z += k
   }
   return { x: x / z, y: y / z }
+}
+
+const COLORS = [
+  '#19CDD7',
+  '#DDB27C',
+  '#88572C',
+  '#FF991F',
+  '#F15C17',
+  '#223F9A',
+  '#DA70BF',
+  '#4DC19C',
+  '#12939A',
+  '#B7885E',
+  '#FFCB99',
+  '#F89570',
+  '#E79FD5',
+  '#89DAC1',
+]
+
+export function getColor({ cluster }) {
+  const index = replace(cluster, /cluster|Cluster/g, '')
+
+  return index ? COLORS[parseInt(index)] : COLORS[0]
 }
