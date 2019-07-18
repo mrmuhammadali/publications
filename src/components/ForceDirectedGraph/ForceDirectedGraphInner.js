@@ -4,10 +4,9 @@ import React from 'react'
 import ReactTooltip from 'react-tooltip'
 
 // src
-// import styles from './ForceDirectedGraphInner.css'
 import { getColor } from './utils'
 
-const ForceDirectedGraphInner = ({ width, height, links, nodes }) => (
+const ForceDirectedGraphInner = ({ width, height, links, nodes, clusters }) => (
   <div>
     <svg width={width} height={height}>
       {links.map((link, index) => (
@@ -17,18 +16,22 @@ const ForceDirectedGraphInner = ({ width, height, links, nodes }) => (
           x2={link.target.x}
           y2={link.target.y}
           key={`line-${index}`}
-          stroke="gray"
+          stroke="#C0C0C0"
         />
       ))}
       {nodes.map((node, index) => (
         <circle
-          r={5}
+          key={index}
+          data-tip={node.data.title}
+          r={6}
           cx={node.x}
           cy={node.y}
           fill={getColor(node.data)}
-          key={index}
-          data-tip={node.data.title}
+          stroke="#999"
         />
+      ))}
+      {clusters.map(({ x, y, r }, index) => (
+        <circle key={index} r={r} cx={x} cy={y} fill="none" stroke="#999" />
       ))}
     </svg>
     <ReactTooltip type="info" effect="solid" />

@@ -8,8 +8,8 @@ import {
 } from 'd3-force'
 
 // src
+import { createClusters, forceCluster } from './utils'
 import ForceDirectedGraphInner from './ForceDirectedGraphInner'
-import { forceCluster } from './utils'
 
 class ForceDirectedGraph extends React.Component {
   constructor(props) {
@@ -17,6 +17,7 @@ class ForceDirectedGraph extends React.Component {
     this.state = {
       nodes: props.nodes,
       links: props.links,
+      clusters: [],
     }
   }
 
@@ -29,7 +30,7 @@ class ForceDirectedGraph extends React.Component {
         'link',
         forceLink(links)
           .id(({ data }) => data.id)
-          .strength(0.04),
+          .strength(0.002),
       )
       .force('charge', forceManyBody())
       .force('center', forceCenter(width / 2, height / 2))
@@ -39,6 +40,7 @@ class ForceDirectedGraph extends React.Component {
       this.setState(() => ({
         links: this.state.links,
         nodes: this.state.nodes,
+        clusters: createClusters(this.state.nodes),
       })),
     )
   }
@@ -49,8 +51,7 @@ class ForceDirectedGraph extends React.Component {
 
   render() {
     const { width, height } = this.props
-    const { links, nodes } = this.state
-    console.log(nodes)
+    const { links, nodes, clusters } = this.state
 
     return (
       <ForceDirectedGraphInner
@@ -58,6 +59,7 @@ class ForceDirectedGraph extends React.Component {
         height={height}
         links={links}
         nodes={nodes}
+        clusters={clusters}
       />
     )
   }
@@ -66,4 +68,5 @@ class ForceDirectedGraph extends React.Component {
 ForceDirectedGraph.defaultProps = {
   linkDistance: 30,
 }
+
 export default ForceDirectedGraph

@@ -1,5 +1,27 @@
-import { rollup } from 'd3-array'
+// libs
+import { group, rollup } from 'd3-array'
+import { packEnclose } from 'd3-hierarchy'
 import replace from 'lodash/replace'
+
+export const createClusters = nodes => {
+  return Array.from(
+    group(nodes, d => d.data.cluster),
+    ([, children]) => children,
+  ).map(cluster => packEnclose(cluster))
+}
+
+const centroid = nodes => {
+  let x = 0
+  let y = 0
+  let z = 0
+  for (const d of nodes) {
+    let k = 5 ** 2
+    x += d.x * k
+    y += d.y * k
+    z += k
+  }
+  return { x: x / z, y: y / z }
+}
 
 export const forceCluster = () => {
   const strength = 0.1
@@ -17,19 +39,6 @@ export const forceCluster = () => {
   force.initialize = _ => (nodes = _)
 
   return force
-}
-
-const centroid = nodes => {
-  let x = 0
-  let y = 0
-  let z = 0
-  for (const d of nodes) {
-    let k = 5 ** 2
-    x += d.x * k
-    y += d.y * k
-    z += k
-  }
-  return { x: x / z, y: y / z }
 }
 
 const COLORS = [

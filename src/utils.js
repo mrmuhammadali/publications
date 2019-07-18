@@ -27,13 +27,14 @@ export const filterData = data => {
   return { links: filteredLinks, nodes: filteredNodes, groupedNodes }
 }
 
-export const nodesHierarchy = (nodes, width, height, crieteria) => {
+export const createNodesHierarchy = (width, height, crieteria, nodes) => {
   return pack()
     .size([width, height])
     .padding(1)(hierarchy(nodes).sum(d => d[crieteria]))
+    .leaves()
 }
 
-export const nodeTransformer = nodes => ({
+export const groupNodes = nodes => ({
   children: Array.from(group(nodes, d => d.cluster), ([, children]) => ({
     children,
   })),

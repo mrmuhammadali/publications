@@ -4,20 +4,21 @@ import React from 'react'
 // src
 import linksData from './data/links.json'
 import nodesData from './data/nodes.json'
-import { filterData, nodesHierarchy, nodeTransformer } from './utils'
+import { createNodesHierarchy, filterData, groupNodes } from './utils'
 import ForceDirectedGraph from './components/ForceDirectedGraph/ForceDirectedGraph'
 
-const data = filterData({ nodes: nodesData, links: linksData })
-
 export default function ForceDirectedExample() {
-  const { nodes: rawNodes, links } = data
-  const groupedNodes = nodeTransformer(rawNodes)
-  const nodes = nodesHierarchy(
-    groupedNodes,
+  const { nodes: rawNodes, links } = filterData({
+    nodes: nodesData,
+    links: linksData,
+  })
+  const groupedNodes = groupNodes(rawNodes)
+  const nodes = createNodesHierarchy(
     window.innerHeight,
     window.innerWidth,
     'numberOfCitations',
-  ).leaves()
+    groupedNodes,
+  )
 
   return (
     <ForceDirectedGraph
