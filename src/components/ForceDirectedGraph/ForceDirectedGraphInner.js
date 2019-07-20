@@ -9,12 +9,12 @@ import { getColor } from './utils'
 const ForceDirectedGraphInner = ({ width, height, links, nodes, clusters }) => (
   <div>
     <svg width={width} height={height}>
-      {links.map((link, index) => (
+      {links.map(({ source, target }, index) => (
         <line
-          x1={link.source.x}
-          y1={link.source.y}
-          x2={link.target.x}
-          y2={link.target.y}
+          x1={source.x}
+          y1={source.y}
+          x2={target.x}
+          y2={target.y}
           key={`line-${index}`}
           stroke="#C0C0C0"
         />
@@ -23,7 +23,7 @@ const ForceDirectedGraphInner = ({ width, height, links, nodes, clusters }) => (
         <circle
           key={index}
           data-tip={node.data.title}
-          r={6}
+          r={node.r - 6}
           cx={node.x}
           cy={node.y}
           fill={getColor(node.data)}

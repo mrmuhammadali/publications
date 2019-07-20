@@ -22,14 +22,14 @@ export const filterData = data => {
     ),
     uniqBy('id'),
   )(filteredLinks)
-  const groupedNodes = group(filteredNodes, d => d.cluster)
 
-  return { links: filteredLinks, nodes: filteredNodes, groupedNodes }
+  return { links: filteredLinks, nodes: filteredNodes }
 }
 
 export const createNodesHierarchy = (width, height, crieteria, nodes) => {
   return pack()
     .size([width, height])
+    .radius(() => 12)
     .padding(1)(hierarchy(nodes).sum(d => d[crieteria]))
     .leaves()
 }

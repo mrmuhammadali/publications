@@ -35,12 +35,11 @@ class ForceDirectedGraph extends React.Component {
       .force('charge', forceManyBody())
       .force('center', forceCenter(width / 2, height / 2))
       .force('cluster', forceCluster())
+      .tick(280)
 
     this.force.on('tick', () =>
       this.setState(() => ({
-        links: this.state.links,
-        nodes: this.state.nodes,
-        clusters: createClusters(this.state.nodes),
+        clusters: createClusters(nodes),
       })),
     )
   }
