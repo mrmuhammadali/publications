@@ -5,12 +5,15 @@ import { packEnclose } from 'd3-hierarchy'
 import replace from 'lodash/replace'
 import { scaleLinear } from 'd3-scale'
 
+// src
+import clustersData from '../../data/clusters.json'
+
 export const createClusters = nodes => {
   return Array.from(
     group(nodes, d => d.data.cluster),
-    ([, children]) => children,
-  ).map(cluster => {
-    return packEnclose(cluster)
+    ([cluster, children]) => ({ cluster, children }),
+  ).map(({ cluster, children }) => {
+    return { cluster, title: clustersData[cluster], ...packEnclose(children) }
   })
 }
 
