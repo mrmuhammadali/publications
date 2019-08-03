@@ -29,7 +29,7 @@ export const filterData = data => {
 export const createNodesHierarchy = (width, height, crieteria, nodes) => {
   return pack()
     .size([width, height])
-    .radius(() => 12)
+    .radius(() => 14)
     .padding(1)(hierarchy(nodes).sum(d => d[crieteria]))
     .leaves()
 }

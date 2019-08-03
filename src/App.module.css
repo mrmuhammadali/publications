@@ -1,0 +1,15 @@
+.root {
+  background: #333;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  height: -webkit-fill-available;
+}
+
+.title {
+  background: #ccc;
+  color: #333;
+  margin: 0;
+  padding: 10px;
+  width: 260px;
+}

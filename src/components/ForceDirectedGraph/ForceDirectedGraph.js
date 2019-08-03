@@ -35,7 +35,6 @@ class ForceDirectedGraph extends React.Component {
       .force('charge', forceManyBody())
       .force('center', forceCenter(width / 2, height / 2))
       .force('cluster', forceCluster())
-      .tick(280)
 
     this.force.on('tick', () =>
       this.setState(() => ({
@@ -49,16 +48,16 @@ class ForceDirectedGraph extends React.Component {
   }
 
   render() {
-    const { width, height } = this.props
     const { links, nodes, clusters } = this.state
+    const { onMouseMove, onMouseLeave } = this.props
 
     return (
       <ForceDirectedGraphInner
-        width={width}
-        height={height}
         links={links}
         nodes={nodes}
         clusters={clusters}
+        onMouseMove={onMouseMove}
+        onMouseLeave={onMouseLeave}
       />
     )
   }
