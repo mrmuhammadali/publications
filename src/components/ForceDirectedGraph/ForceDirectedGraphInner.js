@@ -30,7 +30,7 @@ export default function ForceDirectedGraphInner(props) {
           x2={target.x}
           y2={target.y}
           key={`line-${index}`}
-          stroke="#AAA"
+          stroke="#888"
         />
       ))}
       {nodes.map((node, index) => (

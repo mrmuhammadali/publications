@@ -5,7 +5,22 @@ import uniqBy from 'lodash/fp/uniqBy'
 import { hierarchy, pack } from 'd3-hierarchy'
 import { group } from 'd3-array'
 
-export const filterData = data => {
+const transformData = data => {
+  const nodes = data.nodes.map(({ Id: id, Title: title, cluster }) => ({
+    id,
+    title,
+    cluster: `Cluster${cluster}`,
+  }))
+  const links = data.links.map(({ Source: source, target }) => ({
+    source,
+    target,
+  }))
+
+  return { nodes, links }
+}
+
+export const filterData = _data => {
+  const data = transformData(_data)
   const nodes = data.nodes.reduce((final, node) => {
     return {
       ...final,

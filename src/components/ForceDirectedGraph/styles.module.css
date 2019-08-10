@@ -5,10 +5,10 @@
 
 .cluster {
   fill: #333;
-  stroke: #777;
+  stroke: #ccc;
   transition: fill 0.5s;
 }
 
 .cluster:hover {
-  fill: #555;
+  fill: #666;
 }

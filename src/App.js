@@ -3,8 +3,12 @@ import React from 'react'
 import ReactTooltip from 'react-tooltip'
 
 // src
-import linksData from './data/links.json'
-import nodesData from './data/nodes.json'
+// import linksData from './data/links.json'
+// import nodesData from './data/nodes.json'
+import {
+  node as nodesData,
+  link as linksData,
+} from './data/citation_network.json'
 import { createNodesHierarchy, filterData, groupNodes } from './utils'
 import ForceDirectedGraph from './components/ForceDirectedGraph/ForceDirectedGraph'
 import styles from './App.module.css'
