@@ -4,10 +4,28 @@ import { interpolateHcl } from 'd3-interpolate'
 import { packEnclose } from 'd3-hierarchy'
 import replace from 'lodash/replace'
 import { scaleLinear } from 'd3-scale'
+import { min, max } from 'd3-array'
 
 // src
 import clustersData from '../../data/clusters.json'
 
+export const getScaleFactor = (nodes, width, height) => {
+  const minX = min(nodes, node => node.x)
+  const maxX = max(nodes, node => node.x)
+  const minY = min(nodes, node => node.y)
+  const maxY = max(nodes, node => node.y)
+  const dx =
+    minX <= 0
+      ? Math.abs(minX) + Math.abs(maxX)
+      : Math.abs(maxX) - Math.abs(minX)
+  const dy =
+    minY <= 0
+      ? Math.abs(minY) + Math.abs(maxY)
+      : Math.abs(maxY) - Math.abs(minY)
+  const scaleXY = max([dx, dy])
+  const scaleScreen = min([width, height])
+  return Math.ceil(scaleXY / scaleScreen)
+}
 export const createClusters = nodes => {
   return Array.from(
     group(nodes, d => d.data.cluster),

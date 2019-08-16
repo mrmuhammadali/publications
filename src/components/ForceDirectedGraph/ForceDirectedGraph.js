@@ -8,7 +8,7 @@ import {
 } from 'd3-force'
 
 // src
-import { createClusters, forceCluster } from './utils'
+import { createClusters, forceCluster, getScaleFactor } from './utils'
 import ForceDirectedGraphInner from './ForceDirectedGraphInner'
 
 class ForceDirectedGraph extends React.Component {
@@ -33,9 +33,18 @@ class ForceDirectedGraph extends React.Component {
           .strength(0.002),
       )
       .force('charge', forceManyBody())
-      .force('center', forceCenter(width / 2, height / 2))
       .force('cluster', forceCluster())
-      .tick(300)
+      .tick(280)
+
+    const scale = getScaleFactor(nodes, window.innerWidth, window.innerHeight)
+
+    this.force.force(
+      'center',
+      forceCenter(width * (scale / 2), height * (scale / 2)),
+    )
+    this.setState(() => ({
+      scale,
+    }))
 
     this.force.on('tick', () =>
       this.setState(() => ({
@@ -49,7 +58,7 @@ class ForceDirectedGraph extends React.Component {
   }
 
   render() {
-    const { links, nodes, clusters } = this.state
+    const { links, nodes, clusters, scale } = this.state
     const { onMouseMove, onMouseLeave } = this.props
 
     return (
@@ -57,15 +66,12 @@ class ForceDirectedGraph extends React.Component {
         links={links}
         nodes={nodes}
         clusters={clusters}
+        scale={scale}
         onMouseMove={onMouseMove}
         onMouseLeave={onMouseLeave}
       />
     )
   }
-}
-
-ForceDirectedGraph.defaultProps = {
-  linkDistance: 30,
 }
 
 export default ForceDirectedGraph

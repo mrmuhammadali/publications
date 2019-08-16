@@ -1,33 +1,20 @@
 // @flow
 // libs
-import React, { useEffect, useState } from 'react'
-import maxBy from 'lodash/fp/maxBy'
-import minBy from 'lodash/fp/minBy'
+import React from 'react'
 
 // src
 import { getColor } from './utils'
 import styles from './styles.module.css'
 
 export default function ForceDirectedGraphInner(props) {
-  const { links, nodes, clusters, onMouseMove, onMouseLeave } = props
-  const [scale, setScale] = useState(1)
-
-  useEffect(() => {
-    if (clusters.length > 0) {
-      const maxY = maxBy('y')(clusters).y
-      const minY = minBy('y')(clusters).y
-      const maxX = maxBy('x')(clusters).x
-      const minX = minBy('x')(clusters).x
-      const scaleY = window.innerHeight / (Math.abs(maxY) + Math.abs(minY))
-      const scaleX = window.innerWidth / (Math.abs(maxX) + Math.abs(minX))
-
-      setScale(scaleY < scaleX ? scaleY : scaleX)
-    }
-  }, [clusters])
+  const { links, nodes, clusters, onMouseMove, onMouseLeave, scale } = props
 
   return (
-    <svg className={styles.root}>
-      <g transform={`scale(${scale})`}>
+    <svg
+      className={styles.root}
+      viewBox={`0 0 ${window.innerWidth * scale} ${window.innerHeight * scale}`}
+    >
+      <g>
         {clusters.map(({ x, y, r, title, cluster }, index) => (
           <circle
             key={cluster}
