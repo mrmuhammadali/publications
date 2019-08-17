@@ -11,6 +11,7 @@
     "lodash": "^4.17.14",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
+    "react-draggable": "^3.3.2",
     "react-scripts": "2.0.5",
     "react-tooltip": "^3.10.0"
   },

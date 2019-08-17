@@ -67,7 +67,7 @@ export const forceCluster = () => {
 }
 
 const color = scaleLinear()
-  .domain([0, 3, 6, 9, 12, 15])
+  .domain([0, 3, 6, 9, 12, 15, 18])
   .interpolate(interpolateHcl)
   .range(['red', 'green', 'blue', 'yellow', 'brown', 'orange'])
 

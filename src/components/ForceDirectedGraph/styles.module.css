@@ -1,9 +1,23 @@
+.root {
+  cursor: grab;
+}
+
+.root:active {
+  cursor: grabbing;
+}
+
 .cluster {
-  fill: #333;
+  fill: transparent;
   stroke: #ccc;
-  transition: fill 0.5s;
+  transition: stroke-width 0.5s;
+  cursor: default;
 }
 
 .cluster:hover {
-  fill: #666;
+  stroke-width: 4px;
+}
+
+.node {
+  stroke: #999;
+  cursor: default;
 }

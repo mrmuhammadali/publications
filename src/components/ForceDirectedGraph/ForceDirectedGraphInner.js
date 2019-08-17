@@ -5,6 +5,7 @@ import React from 'react'
 // src
 import { getColor } from './utils'
 import styles from './styles.module.css'
+import Draggable from 'react-draggable'
 
 export default function ForceDirectedGraphInner(props) {
   const { links, nodes, clusters, onMouseMove, onMouseLeave, scale } = props
@@ -13,41 +14,50 @@ export default function ForceDirectedGraphInner(props) {
     <svg
       viewBox={`0 0 ${window.innerWidth * scale} ${window.innerHeight * scale}`}
     >
-      {clusters.map(({ x, y, r, title, cluster }, index) => (
-        <circle
-          key={cluster}
-          className={styles.cluster}
-          data-tip={title || 'N/A'}
-          r={r < 20 ? 20 : r}
-          cx={x}
-          cy={y}
-          onMouseMove={onMouseMove}
-          onMouseLeave={onMouseLeave}
-        />
-      ))}
-      {links.map(({ source, target }, index) => (
-        <line
-          x1={source.x}
-          y1={source.y}
-          x2={target.x}
-          y2={target.y}
-          key={`line-${index}`}
-          stroke="#888"
-        />
-      ))}
-      {nodes.map((node, index) => (
-        <circle
-          key={index}
-          data-tip={node.data.title}
-          r={node.r - 7}
-          cx={node.x}
-          cy={node.y}
-          fill={getColor(node.data)}
-          stroke="#999"
-          onMouseMove={onMouseMove}
-          onMouseLeave={onMouseLeave}
-        />
-      ))}
+      <Draggable>
+        <g className={styles.root}>
+          <rect
+            width={window.innerWidth * scale}
+            height={window.innerHeight * scale}
+            fill="transparent"
+          />
+          {links.map(({ source, target }, index) => (
+            <line
+              x1={source.x}
+              y1={source.y}
+              x2={target.x}
+              y2={target.y}
+              key={`line-${index}`}
+              stroke="#888"
+            />
+          ))}
+          {clusters.map(({ x, y, r, title, cluster }, index) => (
+            <circle
+              key={cluster}
+              className={styles.cluster}
+              data-tip={title || 'N/A'}
+              r={r < 20 ? 20 : r}
+              cx={x}
+              cy={y}
+              onMouseMove={onMouseMove}
+              onMouseLeave={onMouseLeave}
+            />
+          ))}
+          {nodes.map((node, index) => (
+            <circle
+              key={index}
+              className={styles.node}
+              data-tip={node.data.title}
+              r={node.r - 7}
+              cx={node.x}
+              cy={node.y}
+              fill={getColor(node.data)}
+              onMouseMove={onMouseMove}
+              onMouseLeave={onMouseLeave}
+            />
+          ))}
+        </g>
+      </Draggable>
     </svg>
   )
 }

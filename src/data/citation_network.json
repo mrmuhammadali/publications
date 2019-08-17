@@ -5926,79 +5926,54 @@
       "cluster": 19
     },
     {
-      "Id": 11868221073335,
-      "Title": "Local",
-      "cluster": 20
-    },
-    {
       "Id": 13606121360674,
       "Title": "Curved folding",
-      "cluster": 21
+      "cluster": 19
     },
     {
       "Id": 13606121360698,
       "Title": "Markerless garment capture ",
-      "cluster": 22
+      "cluster": 19
     },
     {
       "Id": 13606121360701,
       "Title": "Interactive visual editing of grammars for procedural architecture",
-      "cluster": 23
+      "cluster": 19
     },
     {
       "Id": 13606121360702,
       "Title": "Interactive procedural street modeling",
-      "cluster": 24
-    },
-    {
-      "Id": 14090601409081,
-      "Title": "Fast",
-      "cluster": 25
+      "cluster": 19
     },
     {
       "Id": 14090601409093,
       "Title": "A layered",
-      "cluster": 26
+      "cluster": 19
     },
     {
       "Id": 14090601409094,
       "Title": "Phong Tessellation",
-      "cluster": 27
+      "cluster": 19
     },
     {
       "Id": 14090601409099,
       "Title": "Deducing interpolating subdivision schemes from approximating subdivision schemesed paramet",
-      "cluster": 28
+      "cluster": 19
     },
     {
       "Id": 14090601409113,
       "Title": "Interactive example based urban layout synthesis",
-      "cluster": 29
+      "cluster": 19
     },
     {
       "Id": 15762461531347,
       "Title": "Directable",
-      "cluster": 30
+      "cluster": 19
     },
     {
       "Id": 1576246153139,
       "Title": "Local layering",
-      "cluster": 31
-    },
-    {
-      "Id": 344779344795,
-      "Title": "A simple",
-      "cluster": 32
-    },
-    {
-      "Id": 383259383324,
-      "Title": "An immersive",
-      "cluster": 33
-    },
-    {
-      "Id": 9787997884,
-      "Title": "Rapid",
-      "cluster": 34
+      "cluster": 19
     }
   ],
   "link": [

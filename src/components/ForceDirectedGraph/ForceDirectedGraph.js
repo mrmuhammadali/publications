@@ -35,7 +35,7 @@ class ForceDirectedGraph extends React.Component {
       )
       .force('charge', forceManyBody())
       .force('cluster', forceCluster())
-      .tick(20)
+      .tick(30)
     const scale = getScaleFactor(nodes, window.innerWidth, window.innerHeight)
 
     this.force.force(
