@@ -1,8 +1,3 @@
-.root {
-  flex-grow: 1;
-  overflow-y: auto;
-}
-
 .cluster {
   fill: #333;
   stroke: #ccc;

@@ -18,6 +18,7 @@ class ForceDirectedGraph extends React.Component {
       nodes: props.nodes,
       links: props.links,
       clusters: [],
+      scale: 1,
     }
   }
 
@@ -34,23 +35,20 @@ class ForceDirectedGraph extends React.Component {
       )
       .force('charge', forceManyBody())
       .force('cluster', forceCluster())
-      .tick(280)
-
+      .tick(20)
     const scale = getScaleFactor(nodes, window.innerWidth, window.innerHeight)
 
     this.force.force(
       'center',
       forceCenter(width * (scale / 2), height * (scale / 2)),
     )
-    this.setState(() => ({
-      scale,
-    }))
 
-    this.force.on('tick', () =>
+    this.force.on('tick', () => {
       this.setState(() => ({
         clusters: createClusters(nodes),
-      })),
-    )
+        scale,
+      }))
+    })
   }
 
   componentWillUnmount() {
