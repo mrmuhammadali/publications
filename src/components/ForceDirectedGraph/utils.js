@@ -1,9 +1,6 @@
 // libs
 import { group, rollup } from 'd3-array'
-import { interpolateHcl } from 'd3-interpolate'
 import { packEnclose } from 'd3-hierarchy'
-import replace from 'lodash/replace'
-import { scaleLinear } from 'd3-scale'
 import { min, max } from 'd3-array'
 
 // src
@@ -64,15 +61,4 @@ export const forceCluster = () => {
   force.initialize = _ => (nodes = _)
 
   return force
-}
-
-const color = scaleLinear()
-  .domain([0, 3, 6, 9, 12, 15, 18])
-  .interpolate(interpolateHcl)
-  .range(['red', 'green', 'blue', 'yellow', 'brown', 'orange'])
-
-export function getColor({ cluster }) {
-  const index = parseInt(replace(cluster, /cluster|Cluster/g, '')) || 0
-
-  return color(index)
 }

@@ -3,7 +3,6 @@
 import React from 'react'
 
 // src
-import { getColor } from './utils'
 import styles from './styles.module.css'
 import Draggable from 'react-draggable'
 import useZoom from './useZoom'
@@ -54,7 +53,7 @@ export default function ForceDirectedGraphInner(props) {
                 r={node.r - 7}
                 cx={node.x}
                 cy={node.y}
-                fill={getColor(node.data)}
+                fill={node.data.color}
                 onMouseMove={onMouseMove}
                 onMouseLeave={onMouseLeave}
               />
