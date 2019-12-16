@@ -3,7 +3,7 @@ Created using `d3.js`.
 # Installation Instructions
 1. Install `node.js` from [official website](https://nodejs.org/en/download/)
 2. Install Git bash from [here](https://git-scm.com/download/win)
-3. Open Git bash and run this command:
+3. Open Git bash and run this command in your desired folder where you want to create the project:
 ```
 git clone https://github.com/mrmuhammadali/publications.git
 ```
