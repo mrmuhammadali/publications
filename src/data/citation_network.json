@@ -703,3097 +703,3097 @@
     {
       "Id": 11793521141926,
       "Title": "Perfect spatial hashing",
-      "cluster": 2
+      "cluster": 0
     },
     {
       "Id": 11793521141955,
       "Title": "Natural video matting using camera arrays",
-      "cluster": 2
+      "cluster": 0
     },
     {
       "Id": 1179352114196,
       "Title": "Multiple interacting liquids",
-      "cluster": 2
+      "cluster": 0
     },
     {
       "Id": 11793521141993,
       "Title": "Spectral surface quadrangulation",
-      "cluster": 2
+      "cluster": 0
     },
     {
       "Id": 11793521142011,
       "Title": "Inverse kinematics for reduced deformable models",
-      "cluster": 2
+      "cluster": 0
     },
     {
       "Id": 11865621015713,
       "Title": "Defining point set surfaces",
-      "cluster": 2
+      "cluster": 0
     },
     {
       "Id": 11865621015733,
       "Title": "Rigid fluid  animating the interplay between rigid bodies and fluidut",
-      "cluster": 2
+      "cluster": 0
     },
     {
       "Id": 11865621015761,
       "Title": "Obscuring length changes during animated motion",
-      "cluster": 2
+      "cluster": 0
     },
     {
       "Id": 11865621015787,
       "Title": "Perceptually supported image editing of text and graphics",
-      "cluster": 2
+      "cluster": 0
     },
     {
       "Id": 11865621015795,
       "Title": "Perceptual illumination components a new approach to efficient",
-      "cluster": 2
+      "cluster": 0
     },
     {
       "Id": 11868221073223,
       "Title": "Motion magnification",
-      "cluster": 2
+      "cluster": 0
     },
     {
       "Id": 11868221073283,
       "Title": "Discontinuous fluids",
-      "cluster": 2
+      "cluster": 0
     },
     {
       "Id": 11868221073284,
       "Title": "Water drops on surfaces",
-      "cluster": 2
+      "cluster": 0
     },
     {
       "Id": 11868221073308,
       "Title": "Light diffusion in multilayered translucent materials",
-      "cluster": 2
+      "cluster": 0
     },
     {
       "Id": 120177588232,
       "Title": "Interactive boolean operations on surfelbounded solids",
-      "cluster": 2
+      "cluster": 0
     },
     {
       "Id": 1201775882337,
       "Title": "Keyframe control of smoke simulation",
-      "cluster": 2
+      "cluster": 0
     },
     {
       "Id": 1201775882342,
       "Title": "Linear light source reflectometry",
-      "cluster": 2
+      "cluster": 0
     },
     {
       "Id": 1201775882343,
       "Title": "A data driven reflectance model",
-      "cluster": 2
+      "cluster": 0
     },
     {
       "Id": 122718122738,
       "Title": "A comprehensive physical model for light reflectiona",
-      "cluster": 2
+      "cluster": 0
     },
     {
       "Id": 122718122739,
       "Title": "A global illumination solution for general reflectance distributionsation techniques",
-      "cluster": 2
+      "cluster": 0
     },
     {
       "Id": 12758081276454,
       "Title": "A theory of locally low dimensional light transport",
-      "cluster": 2
+      "cluster": 0
     },
     {
       "Id": 12758081276501,
       "Title": "Wave particles",
-      "cluster": 2
+      "cluster": 0
     },
     {
       "Id": 13606121360656,
       "Title": "Light field transferglobal illumination between real and synthetic objec",
-      "cluster": 2
+      "cluster": 0
     },
     {
       "Id": 13606121360662,
       "Title": "Discrete elastic rods",
-      "cluster": 2
+      "cluster": 0
     },
     {
       "Id": 13606121360663,
       "Title": "A mass spring model for hair simulation",
-      "cluster": 2
+      "cluster": 0
     },
     {
       "Id": 14090601409083,
       "Title": "Progressive photon mapping",
-      "cluster": 2
+      "cluster": 0
     },
     {
       "Id": 14090601409088,
       "Title": "Random access rendering of general vector graphics",
-      "cluster": 2
+      "cluster": 0
     },
     {
       "Id": 15762461531386,
       "Title": "Momentum control for balance",
-      "cluster": 2
+      "cluster": 0
     },
     {
       "Id": 15762461531393,
       "Title": "Asynchronous contact mechanics",
-      "cluster": 2
+      "cluster": 0
     },
     {
       "Id": 15762461618474,
       "Title": "Printing spatially varying reflectance",
-      "cluster": 2
+      "cluster": 0
     },
     {
       "Id": 15762461618475,
       "Title": "Interactive reflection editing",
-      "cluster": 2
+      "cluster": 0
     },
     {
       "Id": 15762461618508,
       "Title": "Structure aware error diffusion",
-      "cluster": 2
+      "cluster": 0
     },
     {
       "Id": 18333491778771,
       "Title": "envyLight an interface for editing natural illumination",
-      "cluster": 2
+      "cluster": 0
     },
     {
       "Id": 1833349177879,
       "Title": "A radiative transfer framework for rendering materials with anisotropic structure monocular",
-      "cluster": 2
+      "cluster": 0
     },
     {
       "Id": 18333491778795,
       "Title": "Illustrating how mechanical assemblies work",
-      "cluster": 2
+      "cluster": 0
     },
     {
       "Id": 18333491778814,
       "Title": "NETRA interactive display for estimating refractive errors and focal",
-      "cluster": 2
+      "cluster": 0
     },
     {
       "Id": 18333491778841,
       "Title": "A connection between partial symmetry and inverse procedural modelingand surface reflectanc",
-      "cluster": 2
+      "cluster": 0
     },
     {
       "Id": 18333491778847,
       "Title": "Apparent layer operations for the manipulation of deformable objectsgand surface reflectanc",
-      "cluster": 2
+      "cluster": 0
     },
     {
       "Id": 18333491778851,
       "Title": "A novel algorithm for incompressible flow using only a coarse grid projectionace reflectanc",
-      "cluster": 2
+      "cluster": 0
     },
     {
       "Id": 18333491778852,
       "Title": "Filamentbased smoke with vortex shedding and variational reconnectionjectionace reflectanc",
-      "cluster": 2
+      "cluster": 0
     },
     {
       "Id": 18333491778853,
       "Title": "Discrete viscous threads",
-      "cluster": 2
+      "cluster": 0
     },
     {
       "Id": 19216119217,
       "Title": "Artificial fishes physics",
-      "cluster": 2
+      "cluster": 0
     },
     {
       "Id": 192161192213,
       "Title": "Generalization of Lamberts reflectance model",
-      "cluster": 2
+      "cluster": 0
     },
     {
       "Id": 383259383273,
       "Title": "Lightning a high performance display subsystem for PC clustersbles",
-      "cluster": 2
+      "cluster": 0
     },
     {
       "Id": 383259383274,
       "Title": "A user programmable vertex engine",
-      "cluster": 2
+      "cluster": 0
     },
     {
       "Id": 566570566639,
       "Title": "Chromium a stream processing framework for interactive rendering on clusters",
-      "cluster": 2
+      "cluster": 0
     },
     {
       "Id": 56657056664,
       "Title": "Ray tracing on programmable graphics hardware",
-      "cluster": 2
+      "cluster": 0
     },
     {
       "Id": 566570566641,
       "Title": "Shader driven compilation of rendering assets",
-      "cluster": 2
+      "cluster": 0
     },
     {
       "Id": 9787997909,
       "Title": "A model for anisotropic reflection",
-      "cluster": 2
+      "cluster": 0
     },
     {
       "Id": 9787997917,
       "Title": "Generalized B spline surfaces of arbitrary topology",
-      "cluster": 2
+      "cluster": 0
     },
     {
       "Id": 11793521141949,
       "Title": "Inverse shade trees for non-parametric material representation and editing",
-      "cluster": 3
+      "cluster": 2
     },
     {
       "Id": 1179352114195,
       "Title": "A compact factored representation of heterogeneous subsurface scattering",
-      "cluster": 3
+      "cluster": 2
     },
     {
       "Id": 11793521141974,
       "Title": "Projection defocus analysis for scene capture and image display",
-      "cluster": 3
+      "cluster": 2
     },
     {
       "Id": 11793521141975,
       "Title": "Multiview radial catadioptric imaging for scene capture",
-      "cluster": 3
+      "cluster": 2
     },
     {
       "Id": 11793521142007,
       "Title": "Resolving surface collisions through intersection contour minimizationnoi diagram",
-      "cluster": 3
+      "cluster": 2
     },
     {
       "Id": 11793521142008,
       "Title": "Continuum crowd",
-      "cluster": 3
+      "cluster": 2
     },
     {
       "Id": 1186562101572,
       "Title": "GrabCutinteractive foreground extraction using iterated graph cuts",
-      "cluster": 3
+      "cluster": 2
     },
     {
       "Id": 11865621015721,
       "Title": "Poisson matting",
-      "cluster": 3
+      "cluster": 2
     },
     {
       "Id": 11865621015744,
       "Title": "Fluid control using the adjoint method",
-      "cluster": 3
+      "cluster": 2
     },
     {
       "Id": 11865621015766,
       "Title": "Highquality video view interpolation using a layered representationetsling and animation",
-      "cluster": 3
+      "cluster": 2
     },
     {
       "Id": 1186562101578,
       "Title": "Colorization using optimization",
-      "cluster": 3
+      "cluster": 2
     },
     {
       "Id": 11865621015802,
       "Title": "Adaptive tetrapuzzlesefficient outofcore construction and visualization of gigantic multiresolution polygonal models",
-      "cluster": 3
+      "cluster": 2
     },
     {
       "Id": 11868221073214,
       "Title": "Lpicsa hybrid hardwareaccelerated relighting engine for computer cinematography",
-      "cluster": 3
+      "cluster": 2
     },
     {
       "Id": 11868221073221,
       "Title": "MoXirealtime ink dispersion in absorbent paperngine for computer",
-      "cluster": 3
+      "cluster": 2
     },
     {
       "Id": 11868221073288,
       "Title": "DARa toolkit for rapid design exploration of augmented reality experience",
-      "cluster": 3
+      "cluster": 2
     },
     {
       "Id": 11868221073318,
       "Title": "Lightcutsa scalable approach to illuminationionons of freeform tri",
-      "cluster": 3
+      "cluster": 2
     },
     {
       "Id": 122718122725,
       "Title": "Visibility preprocessing for interactive walkthroughs",
-      "cluster": 3
+      "cluster": 2
     },
     {
       "Id": 122718122745,
       "Title": "Generalized implicit functions for computer graphics",
-      "cluster": 3
+      "cluster": 2
     },
     {
       "Id": 12758081276451,
       "Title": "Eikonal renderingefficient light transport in refractive objectsgle",
-      "cluster": 3
+      "cluster": 2
     },
     {
       "Id": 13606121360631,
       "Title": "Dual scattering approximation for fast multiple scattering in hair",
-      "cluster": 3
+      "cluster": 2
     },
     {
       "Id": 13606121360686,
       "Title": "Fluorescent immersion range scanning",
-      "cluster": 3
+      "cluster": 2
     },
     {
       "Id": 15762461531335,
       "Title": "Kernel Nystrm method for light transport",
-      "cluster": 3
+      "cluster": 2
     },
     {
       "Id": 15762461618492,
       "Title": "Noise brushinteractive high quality imagenoise separationelapse s",
-      "cluster": 3
+      "cluster": 2
     },
     {
       "Id": 18333491778832,
       "Title": "Ambient point clouds for view interpolation",
-      "cluster": 3
+      "cluster": 2
     },
     {
       "Id": 1833349177886,
       "Title": "A syntheticvision based steering approach for crowd simulation",
-      "cluster": 3
+      "cluster": 2
     },
     {
       "Id": 18333491778862,
       "Title": "Multiscale image harmonization",
-      "cluster": 3
+      "cluster": 2
     },
     {
       "Id": 192161192191,
       "Title": "A model for efficient and flexible image computing",
-      "cluster": 3
+      "cluster": 2
     },
     {
       "Id": 192161192244,
       "Title": "Efficient algorithms for local and global accessibility shading",
-      "cluster": 3
+      "cluster": 2
     },
     {
       "Id": 344779344831,
       "Title": "Normal meshes",
-      "cluster": 3
+      "cluster": 2
     },
     {
       "Id": 344779344969,
       "Title": "Examplebased hinting of true type fonts",
-      "cluster": 3
+      "cluster": 2
     },
     {
       "Id": 344779345009,
       "Title": "Fast texture synthesis using treestructured vector quantization",
-      "cluster": 3
+      "cluster": 2
     },
     {
       "Id": 344779345022,
       "Title": "Escherization",
-      "cluster": 3
+      "cluster": 2
     },
     {
       "Id": 383259383285,
       "Title": "Interactive stereoscopic display for three or more users",
-      "cluster": 3
+      "cluster": 2
     },
     {
       "Id": 383259383295,
       "Title": "Image analogies",
-      "cluster": 3
+      "cluster": 2
     },
     {
       "Id": 38325938331,
       "Title": "Imagebased modeling and photo editing",
-      "cluster": 3
+      "cluster": 2
     },
     {
       "Id": 383259383326,
       "Title": "A simple and efficient errordiffusion algorithm",
-      "cluster": 3
+      "cluster": 2
     },
     {
       "Id": 566570566574,
       "Title": "Fast bilateral filtering for the display of highdynamicrange images",
-      "cluster": 3
+      "cluster": 2
     },
     {
       "Id": 566570566576,
       "Title": "Transferring color to greyscale images",
-      "cluster": 3
+      "cluster": 2
     },
     {
       "Id": 11793521141929,
       "Title": "Imagebased plant modeling",
-      "cluster": 4
+      "cluster": 3
     },
     {
       "Id": 11793521142,
       "Title": "Editing arbitrarily deforming surface animations",
-      "cluster": 4
+      "cluster": 3
     },
     {
       "Id": 11865621015743,
       "Title": "Targetdriven smoke animation",
-      "cluster": 4
+      "cluster": 3
     },
     {
       "Id": 11865621015809,
       "Title": "Painting detail",
-      "cluster": 4
+      "cluster": 3
     },
     {
       "Id": 11868221073207,
       "Title": "SCAPEshape completion and animation of people",
-      "cluster": 4
+      "cluster": 3
     },
     {
       "Id": 11868221073212,
       "Title": "Userconfigurable automatic shader simplification",
-      "cluster": 4
+      "cluster": 3
     },
     {
       "Id": 11868221073316,
       "Title": "A datadriven approach to quantifying natural human motion",
-      "cluster": 4
+      "cluster": 3
     },
     {
       "Id": 1201775882272,
       "Title": "Viewdependent displacement mapping",
-      "cluster": 4
+      "cluster": 3
     },
     {
       "Id": 120177588231,
       "Title": "Continuous capture of skin deformation",
-      "cluster": 4
+      "cluster": 3
     },
     {
       "Id": 122718122741,
       "Title": "NC machining with buffer metho",
-      "cluster": 4
+      "cluster": 3
     },
     {
       "Id": 12758081276387,
       "Title": "Constraintbased motion optimization using a statistical dynamic model",
-      "cluster": 4
+      "cluster": 3
     },
     {
       "Id": 13606121360619,
       "Title": "Parallel Poisson disk sampling",
-      "cluster": 4
+      "cluster": 3
     },
     {
       "Id": 13606121360691,
       "Title": "Diffusion curvesa vector representation for smooth shaded images",
-      "cluster": 4
+      "cluster": 3
     },
     {
       "Id": 14090601409084,
       "Title": "Shield fieldsmodeling and capturing D occludersmationpired laughte",
-      "cluster": 4
+      "cluster": 3
     },
     {
       "Id": 14090601409085,
       "Title": "Timeresolved d capture of non stationary gas flows",
-      "cluster": 4
+      "cluster": 3
     },
     {
       "Id": 14090601409119,
       "Title": "Fast animation of turbulence using energy transport and procedural synthesisnvironmentsamet",
-      "cluster": 4
+      "cluster": 3
     },
     {
       "Id": 15762461531342,
       "Title": "Semantic deformation transfer",
-      "cluster": 4
+      "cluster": 3
     },
     {
       "Id": 18333491778772,
       "Title": "Toward evaluating material design interface paradigms for novice usersal illuminationhotogr",
-      "cluster": 4
+      "cluster": 3
     },
     {
       "Id": 18333491778782,
       "Title": "Paneling architectural freeform surfaces",
-      "cluster": 4
+      "cluster": 3
     },
     {
       "Id": 18333491778837,
       "Title": "Smoothed local histogram filters",
-      "cluster": 4
+      "cluster": 3
     },
     {
       "Id": 192161192186,
       "Title": "Drawing and animation using skeletal strokes",
-      "cluster": 4
+      "cluster": 3
     },
     {
       "Id": 383259383267,
       "Title": "Reliable twodimensional graphing methods for mathematical formulae with two free variables",
-      "cluster": 4
+      "cluster": 3
     },
     {
       "Id": 383259383284,
       "Title": "Perceptionguided global illumination solution for animation renderingesfor PC clustersbles",
-      "cluster": 4
+      "cluster": 3
     },
     {
       "Id": 383259383306,
       "Title": "A physicallybased night sky mode",
-      "cluster": 4
+      "cluster": 3
     },
     {
       "Id": 566570566613,
       "Title": "Interactive global illumination in dynamic scenes",
-      "cluster": 4
+      "cluster": 3
     },
     {
       "Id": 566570566617,
       "Title": "A user interface for interactive cinematic shadow design",
-      "cluster": 4
+      "cluster": 3
     },
     {
       "Id": 566570566621,
       "Title": "DyRTdynamic response textures for real time deformation simulation with graphics hardware",
-      "cluster": 4
+      "cluster": 3
     },
     {
       "Id": 566570566638,
       "Title": "The SAGE graphics architecture",
-      "cluster": 4
+      "cluster": 3
     },
     {
       "Id": 9787997915,
       "Title": "Realtime robot motion planning using rasterizing computer graphics hardware with compact m",
-      "cluster": 4
+      "cluster": 3
     },
     {
       "Id": 11793521141983,
       "Title": "Precomputed acoustic transfeoutputsensitive",
-      "cluster": 5
+      "cluster": 3
     },
     {
       "Id": 11793521141991,
       "Title": "Edge subdivision schemes and the construction of smooth vector fieldsdelccurate sound gener",
-      "cluster": 5
+      "cluster": 3
     },
     {
       "Id": 11865621015719,
       "Title": "Lazy snapping",
-      "cluster": 5
+      "cluster": 3
     },
     {
       "Id": 1186562101575,
       "Title": "Fast hierarchical importance sampling with blue noise properties",
-      "cluster": 5
+      "cluster": 3
     },
     {
       "Id": 11865621015789,
       "Title": "GADGETa toolkit for optimizationbased approaches to interface and display generation",
-      "cluster": 5
+      "cluster": 3
     },
     {
       "Id": 11865621015791,
       "Title": "The CAT for efficient D and D interaction as an alternative to mouse adaptationsface and",
-      "cluster": 5
+      "cluster": 3
     },
     {
       "Id": 11865621015792,
       "Title": "Super wide viewer using catadioptrical optics",
-      "cluster": 5
+      "cluster": 3
     },
     {
       "Id": 11865621015806,
       "Title": "Synthetic aperture confocal imaging",
-      "cluster": 5
+      "cluster": 3
     },
     {
       "Id": 11868221073206,
       "Title": "Skinning mesh animations",
-      "cluster": 5
+      "cluster": 3
     },
     {
       "Id": 11868221073276,
       "Title": "GoLD interactive display of huge colored and textured modelsgtioning",
-      "cluster": 5
+      "cluster": 3
     },
     {
       "Id": 11868221073279,
       "Title": "The VarrierTM autostereoscopic virtual reality display",
-      "cluster": 5
+      "cluster": 3
     },
     {
       "Id": 11868221073286,
       "Title": "CrossY a crossin based drawing application",
-      "cluster": 5
+      "cluster": 3
     },
     {
       "Id": 11868221073329,
       "Title": "Mult level ray tracing algorithm",
-      "cluster": 5
+      "cluster": 3
     },
     {
       "Id": 1201775882269,
       "Title": "Poisson image editing",
-      "cluster": 5
+      "cluster": 3
     },
     {
       "Id": 1201775882308,
       "Title": "Building efficient",
-      "cluster": 5
+      "cluster": 3
     },
     {
       "Id": 1201775882324,
       "Title": "Instant architecture",
-      "cluster": 5
+      "cluster": 3
     },
     {
       "Id": 120177588233,
       "Title": "Noninvasive interactive visualization of dynamic architectural environmentsvoice and gestu",
-      "cluster": 5
+      "cluster": 3
     },
     {
       "Id": 1201775882352,
       "Title": "Designing effective stepbystep assembly instructions",
-      "cluster": 5
+      "cluster": 3
     },
     {
       "Id": 12271812273,
       "Title": "An objectoriented framework for the integration of interactive animation techniquesechniqu",
-      "cluster": 5
+      "cluster": 3
     },
     {
       "Id": 12271812274,
       "Title": "A rapid hierarchical radiosity algorithm",
-      "cluster": 5
+      "cluster": 3
     },
     {
       "Id": 122718122751,
       "Title": "Spot noise texture synthesis for data visualization",
-      "cluster": 5
+      "cluster": 3
     },
     {
       "Id": 1275808127641,
       "Title": "Matrix rowcolumn sampling for the manylight problem",
-      "cluster": 5
+      "cluster": 3
     },
     {
       "Id": 12758081276472,
       "Title": "Visual equivalencetowards a new standard for image fidelityght fiel",
-      "cluster": 5
+      "cluster": 3
     },
     {
       "Id": 12758081276512,
       "Title": "Efficient symbolic differentiation for graphics application",
-      "cluster": 5
+      "cluster": 3
     },
     {
       "Id": 13606121360617,
       "Title": "Larrabeea manycore architecture for visual computing",
-      "cluster": 5
+      "cluster": 3
     },
     {
       "Id": 13606121360655,
       "Title": "Glare aware photograph ray sampling for reducing glare effects of camera lenses",
-      "cluster": 5
+      "cluster": 3
     },
     {
       "Id": 1360612136069,
       "Title": "Realtime data driven deformation using kernel canonical correlation analysi",
-      "cluster": 5
+      "cluster": 3
     },
     {
       "Id": 13606121360695,
       "Title": "Datadriven modeling of skin and muscle deformationa",
-      "cluster": 5
+      "cluster": 3
     },
     {
       "Id": 13606121360699,
       "Title": "Automatic generation of tourist map",
-      "cluster": 5
+      "cluster": 3
     },
     {
       "Id": 14090601409072,
       "Title": "Interactive normal reconstruction from a single image",
-      "cluster": 5
+      "cluster": 3
     },
     {
       "Id": 14090601409073,
       "Title": "Depicting procedural caustics in single images",
-      "cluster": 5
+      "cluster": 3
     },
     {
       "Id": 1576246153136,
       "Title": "Procedural noise using sparse Gabor convolution",
-      "cluster": 5
+      "cluster": 3
     },
     {
       "Id": 15762461531361,
       "Title": "Eyecatching crowdssaliency based selective variationegular maps",
-      "cluster": 5
+      "cluster": 3
     },
     {
       "Id": 15762461531377,
       "Title": "Curve skeleton extraction from incomplete point cloud",
-      "cluster": 5
+      "cluster": 3
     },
     {
       "Id": 15762461531384,
       "Title": "Cyclic plainweaving on polygonal mesh surfaces with graph rotation systemsetrahedron mesh",
-      "cluster": 5
+      "cluster": 3
     },
     {
       "Id": 15762461531404,
       "Title": "Bokodemperceptible visual tags for camera based interaction from a distanc",
-      "cluster": 5
+      "cluster": 3
     },
     {
       "Id": 15762461618467,
       "Title": "Synthetic turbulence using artificial boundary layers",
-      "cluster": 5
+      "cluster": 3
     },
     {
       "Id": 157624616185,
       "Title": "Realtime parallel hashing on the GPU",
-      "cluster": 5
+      "cluster": 3
     },
     {
       "Id": 18333491778789,
       "Title": "Structurebased ASCII art",
-      "cluster": 5
+      "cluster": 3
     },
     {
       "Id": 18333491778803,
       "Title": "OptiXa general purpose ray tracing engine",
-      "cluster": 5
+      "cluster": 3
     },
     {
       "Id": 18333491778804,
       "Title": "Reducing shading on GPUs using quadfragment merging",
-      "cluster": 5
+      "cluster": 3
     },
     {
       "Id": 18333491778816,
       "Title": "Multiclass blue noise sampling",
-      "cluster": 5
+      "cluster": 3
     },
     {
       "Id": 192161192179,
       "Title": "A framework for the analysis of error in global illumination algorithmsreflection with text",
-      "cluster": 5
+      "cluster": 3
     },
     {
       "Id": 192161192188,
       "Title": "Rotated dispersed dithera new technique for digital halftoning text",
-      "cluster": 5
+      "cluster": 3
     },
     {
       "Id": 192161192199,
       "Title": "Improving static and dynamic registration in an optical seethrough HMD lipsullftoning text",
-      "cluster": 5
+      "cluster": 3
     },
     {
       "Id": 192161192246,
       "Title": "Illumination in diverse codimensions",
-      "cluster": 5
+      "cluster": 3
     },
     {
       "Id": 192161192276,
       "Title": "TBAGa high level framework for interactive",
-      "cluster": 5
+      "cluster": 3
     },
     {
       "Id": 344779344849,
       "Title": "The digital Michelangelo project scanning of large statuesaltime",
-      "cluster": 5
+      "cluster": 3
     },
     {
       "Id": 383259383266,
       "Title": "Reconstruction and representation ofD objects with radial basis functions",
-      "cluster": 5
+      "cluster": 3
     },
     {
       "Id": 383259383293,
       "Title": "Featurebased cellular texturing for architectural models",
-      "cluster": 5
+      "cluster": 3
     },
     {
       "Id": 383259383294,
       "Title": "Integrating shape and pattern in mammalian models",
-      "cluster": 5
+      "cluster": 3
     },
     {
       "Id": 566570566618,
       "Title": "Robust epsilon visibility",
-      "cluster": 5
+      "cluster": 3
     },
     {
       "Id": 566570566646,
       "Title": "Image based flow visualization",
-      "cluster": 5
+      "cluster": 3
     },
     {
       "Id": 9787997897,
       "Title": "Artificial reality with forcefeedbackdevelopment of desktop virtual space with compact master manipulato",
-      "cluster": 5
+      "cluster": 3
     },
     {
       "Id": 9787997921,
       "Title": "A method of generating stone wall pattern",
-      "cluster": 5
+      "cluster": 3
     },
     {
       "Id": 11793521141915,
       "Title": "A spatial data structure for fast Poissondisk sample generation",
-      "cluster": 6
+      "cluster": 4
     },
     {
       "Id": 1179352114199,
       "Title": "Modified subdivision surfaces with continuous curvature",
-      "cluster": 6
+      "cluster": 4
     },
     {
       "Id": 11865621015714,
       "Title": "A simple manifoldbased construction of surfaces of arbitrary smoothnessngendering of gemst",
-      "cluster": 6
+      "cluster": 4
     },
     {
       "Id": 11865621015726,
       "Title": "Shell texture function",
-      "cluster": 6
+      "cluster": 4
     },
     {
       "Id": 11865621015736,
       "Title": "Deformation transfer for triangle meshes",
-      "cluster": 6
+      "cluster": 4
     },
     {
       "Id": 11865621015764,
       "Title": "Keyframe based tracking for rotoscoping and animation",
-      "cluster": 6
+      "cluster": 4
     },
     {
       "Id": 11865621015785,
       "Title": "Volumetric reconstruction and interactive rendering of trees from photographslized renderin",
-      "cluster": 6
+      "cluster": 4
     },
     {
       "Id": 11865621015796,
       "Title": "Supra threshold control of peripheral LO",
-      "cluster": 6
+      "cluster": 4
     },
     {
       "Id": 11865621015814,
       "Title": "Context based surface completion",
-      "cluster": 6
+      "cluster": 4
     },
     {
       "Id": 11868221073222,
       "Title": "Line drawings from volume data",
-      "cluster": 6
+      "cluster": 4
     },
     {
       "Id": 11868221073229,
       "Title": "Mean value coordinates for closed triangular meshes",
-      "cluster": 6
+      "cluster": 4
     },
     {
       "Id": 11868221073244,
       "Title": "Mesh saliency",
-      "cluster": 6
+      "cluster": 4
     },
     {
       "Id": 11868221073251,
       "Title": "Modeling and visualization of leaf venation pattern",
-      "cluster": 6
+      "cluster": 4
     },
     {
       "Id": 1186822107329,
       "Title": "Geopostor time geometry impostor crowd rendering systemy exp",
-      "cluster": 6
+      "cluster": 4
     },
     {
       "Id": 11868221073309,
       "Title": "A practical analytic single scattering model for real time renderingations of free form tri",
-      "cluster": 6
+      "cluster": 4
     },
     {
       "Id": 11868221073311,
       "Title": "Modeling and rendering of quasi homogeneous materials",
-      "cluster": 6
+      "cluster": 4
     },
     {
       "Id": 11868221073323,
       "Title": "A rigid as possible shape manipulation",
-      "cluster": 6
+      "cluster": 4
     },
     {
       "Id": 1201775882303,
       "Title": "Evaluating the visual fidelity of physically based animation",
-      "cluster": 6
+      "cluster": 4
     },
     {
       "Id": 1201775882318,
       "Title": "Combining edges and points for interactive highquality renderin",
-      "cluster": 6
+      "cluster": 4
     },
     {
       "Id": 1201775882326,
       "Title": "Billboard clouds for extreme model simplification",
-      "cluster": 6
+      "cluster": 4
     },
     {
       "Id": 12271812272,
       "Title": "Animated free form deformation an interactive animation techniqu",
-      "cluster": 6
+      "cluster": 4
     },
     {
       "Id": 122718122727,
       "Title": "Digital halftoning with space filling curves",
-      "cluster": 6
+      "cluster": 4
     },
     {
       "Id": 122718122746,
       "Title": "Deformable curve and surface finiteelements for free form shape",
-      "cluster": 6
+      "cluster": 4
     },
     {
       "Id": 12758081276447,
       "Title": "Design of tangent vector fields",
-      "cluster": 6
+      "cluster": 4
     },
     {
       "Id": 12758081276456,
       "Title": "Symmetrization",
-      "cluster": 6
+      "cluster": 4
     },
     {
       "Id": 12758081276478,
       "Title": "Embedded deformation for shape manipulation",
-      "cluster": 6
+      "cluster": 4
     },
     {
       "Id": 12758081276482,
       "Title": "Gradient domain editing of deforming mesh sequences",
-      "cluster": 6
+      "cluster": 4
     },
     {
       "Id": 12758081276486,
       "Title": "Image based tree modeling",
-      "cluster": 6
+      "cluster": 4
     },
     {
       "Id": 12758081276487,
       "Title": "Approximate image based tre modeling using particle flows",
-      "cluster": 6
+      "cluster": 4
     },
     {
       "Id": 12758081276489,
       "Title": "Fast triangle reordering for vertex locality and reduced overdra",
-      "cluster": 6
+      "cluster": 4
     },
     {
       "Id": 12758081276495,
       "Title": "Efficient gradient domain compositing using quadtrees",
-      "cluster": 6
+      "cluster": 4
     },
     {
       "Id": 13606121360624,
       "Title": "Backward steps in rigid body simulation",
-      "cluster": 6
+      "cluster": 4
     },
     {
       "Id": 13606121360625,
       "Title": "Clone attack Perception of crowd variety",
-      "cluster": 6
+      "cluster": 4
     },
     {
       "Id": 13606121360676,
       "Title": "Conformal equivalence of triangle meshes",
-      "cluster": 6
+      "cluster": 4
     },
     {
       "Id": 13606121360677,
       "Title": "Green Coordinates",
-      "cluster": 6
+      "cluster": 4
     },
     {
       "Id": 14090601409061,
       "Title": "Single image tree modeling",
-      "cluster": 6
+      "cluster": 4
     },
     {
       "Id": 1409060140908,
       "Title": "Automated reprojection based pixel shader optimization",
-      "cluster": 6
+      "cluster": 4
     },
     {
       "Id": 1409060140909,
       "Title": "IGT inverse geometric textures",
-      "cluster": 6
+      "cluster": 4
     },
     {
       "Id": 140906014091,
       "Title": "Spectral quadrangulation with orientation and alignment control",
-      "cluster": 6
+      "cluster": 4
     },
     {
       "Id": 14090601409117,
       "Title": "Staggered projections for frictional contact in multibody system",
-      "cluster": 6
+      "cluster": 4
     },
     {
       "Id": 15762461531339,
       "Title": "iWIRES an analyze and edit approach to shape manipulationus subsurfa",
-      "cluster": 6
+      "cluster": 4
     },
     {
       "Id": 15762461531355,
       "Title": "Symmetric tiling of closed surface visualization of regular maps",
-      "cluster": 6
+      "cluster": 4
     },
     {
       "Id": 1576246153138,
       "Title": "Interactive Hausdorff distance computation for general polygonal modelsocalized classifiers",
-      "cluster": 6
+      "cluster": 4
     },
     {
       "Id": 15762461531383,
       "Title": "Mixed integer quadrangulation",
-      "cluster": 6
+      "cluster": 4
     },
     {
       "Id": 15762461531398,
       "Title": "Single scattering in refractive media with triangle mesh boundaries",
-      "cluster": 6
+      "cluster": 4
     },
     {
       "Id": 15762461618459,
       "Title": "Symmetric architecture modeling with a single image",
-      "cluster": 6
+      "cluster": 4
     },
     {
       "Id": 1576246161846,
       "Title": "Image based street side city modeling",
-      "cluster": 6
+      "cluster": 4
     },
     {
       "Id": 15762461618484,
       "Title": "Partial intrinsic reflectional symmetry of",
-      "cluster": 6
+      "cluster": 4
     },
     {
       "Id": 15762461618495,
       "Title": "Analytic drawing of",
-      "cluster": 6
+      "cluster": 4
     },
     {
       "Id": 15762461618506,
       "Title": "Evaluation of reverse tone mapping through varying exposure conditionsteraction using light",
-      "cluster": 6
+      "cluster": 4
     },
     {
       "Id": 18333491778783,
       "Title": "Triangle surfaces with discrete equivalence classes",
-      "cluster": 6
+      "cluster": 4
     },
     {
       "Id": 18333491778801,
       "Title": "Micropolygon ray tracing with defocus and motion blur",
-      "cluster": 6
+      "cluster": 4
     },
     {
       "Id": 18333491778819,
       "Title": "Volume contact constraints at arbitrary resolution",
-      "cluster": 6
+      "cluster": 4
     },
     {
       "Id": 18333491778836,
       "Title": "A coaxial optical scanner for synchronous acquisition of D geometry and surface reflectance",
-      "cluster": 6
+      "cluster": 4
     },
     {
       "Id": 18333491778848,
       "Title": "Popup automatic paper architectures from D modelssurface reflectanc",
-      "cluster": 6
+      "cluster": 4
     },
     {
       "Id": 18333491778855,
       "Title": "A wave based anisotropic quadrangulation method",
-      "cluster": 6
+      "cluster": 4
     },
     {
       "Id": 18333491778856,
       "Title": "Lp Centroidal Voronoi Tessellation and its applications reflectanc",
-      "cluster": 6
+      "cluster": 4
     },
     {
       "Id": 192161192189,
       "Title": "Energy preserving non linear filter",
-      "cluster": 6
+      "cluster": 4
     },
     {
       "Id": 192161192216,
       "Title": "Freeform shape design using triangulated surfaces",
-      "cluster": 6
+      "cluster": 4
     },
     {
       "Id": 192161192233,
       "Title": "Piecewise smooth surface reconstruction",
-      "cluster": 6
+      "cluster": 4
     },
     {
       "Id": 344779344801,
       "Title": "Animating explosions",
-      "cluster": 6
+      "cluster": 4
     },
     {
       "Id": 344779344829,
       "Title": "Displaced subdivision surfaces",
-      "cluster": 6
+      "cluster": 4
     },
     {
       "Id": 344779344835,
       "Title": "subdivision",
-      "cluster": 6
+      "cluster": 4
     },
     {
       "Id": 344779344841,
       "Title": "Piecewise smooth subdivision surfaces with normal control",
-      "cluster": 6
+      "cluster": 4
     },
     {
       "Id": 344779344984,
       "Title": "Illuminating micro geometry based on precomputed visibility",
-      "cluster": 6
+      "cluster": 4
     },
     {
       "Id": 383259383271,
       "Title": "A signaprocessing framework for inverse rendering",
-      "cluster": 6
+      "cluster": 4
     },
     {
       "Id": 383259383276,
       "Title": "Homomorphic factorization of BRDFs for highperformance rendering",
-      "cluster": 6
+      "cluster": 4
     },
     {
       "Id": 383259383303,
       "Title": "Photorealistic rendering of knitwear using the lumislice",
-      "cluster": 6
+      "cluster": 4
     },
     {
       "Id": 383259383318,
       "Title": "Applying appearance standards to light reflection models",
-      "cluster": 6
+      "cluster": 4
     },
     {
       "Id": 383259383319,
       "Title": "A practical model for subsurface light transport",
-      "cluster": 6
+      "cluster": 4
     },
     {
       "Id": 566570566579,
       "Title": "Graphical modeling and animation of ductile fracture",
-      "cluster": 6
+      "cluster": 4
     },
     {
       "Id": 566570566601,
       "Title": "Light field mappingefficient representation and hardware rendering of surface light fields",
-      "cluster": 6
+      "cluster": 4
     },
     {
       "Id": 566570566602,
       "Title": "Featurebased light field morphing",
-      "cluster": 6
+      "cluster": 4
     },
     {
       "Id": 1201775882321,
       "Title": "Sequential point trees",
-      "cluster": 6
+      "cluster": 4
     },
     {
       "Id": 566570566611,
       "Title": "Frequency space environment map rendering",
-      "cluster": 6
+      "cluster": 4
     },
     {
       "Id": 566570566634,
       "Title": "Synthesis of bidirectional texture functions on arbitrary surfaces",
-      "cluster": 6
+      "cluster": 4
     },
     {
       "Id": 978799789,
       "Title": "Hidden curve removal for free form surfaces",
-      "cluster": 6
+      "cluster": 4
     },
     {
       "Id": 9787997891,
       "Title": "Using tolerances to guarantee valid polyhedral modeling results",
-      "cluster": 6
+      "cluster": 4
     },
     {
       "Id": 9787997916,
       "Title": "Ray tracing trimmed rational surface patches",
-      "cluster": 6
+      "cluster": 4
     },
     {
       "Id": 11793521141936,
       "Title": "Interactive local adjustment of tonal values  \u001e",
-      "cluster": 7
+      "cluster": 5
     },
     {
       "Id": 11793521141986,
       "Title": "Acquiring scattering properties of participating media by dilution",
-      "cluster": 7
+      "cluster": 5
     },
     {
       "Id": 11793521142015,
       "Title": "Exaggerated shading for depicting shape and detail",
-      "cluster": 7
+      "cluster": 5
     },
     {
       "Id": 1186562101573,
       "Title": "Feature matching and deformation for texture synthesis",
-      "cluster": 7
+      "cluster": 5
     },
     {
       "Id": 11865621015749,
       "Title": "Triple product wavelet integrals for allfrequency relighting",
-      "cluster": 7
+      "cluster": 5
     },
     {
       "Id": 11865621015753,
       "Title": "Speaking with handscreating animated conversational characters from recordings of human performance",
-      "cluster": 7
+      "cluster": 5
     },
     {
       "Id": 11865621015756,
       "Title": "Synthesizing animations of human manipulation tasks",
-      "cluster": 7
+      "cluster": 5
     },
     {
       "Id": 1186562101576,
       "Title": "Automated extraction and parameterization of motions in large data setsling and animation i",
-      "cluster": 7
+      "cluster": 5
     },
     {
       "Id": 11868221073216,
       "Title": "Meshless deformations based on shape matching",
-      "cluster": 7
+      "cluster": 5
     },
     {
       "Id": 11868221073282,
       "Title": "A vortex particle method for smoke",
-      "cluster": 7
+      "cluster": 5
     },
     {
       "Id": 118682210733,
       "Title": "RealTime subspace integration for St VenantKirchhoff deformable modelsdering systemy exp",
-      "cluster": 7
+      "cluster": 5
     },
     {
       "Id": 11868221073315,
       "Title": "Style translation for human motion",
-      "cluster": 7
+      "cluster": 5
     },
     {
       "Id": 1186822107333,
       "Title": "Energy redistribution path tracing",
-      "cluster": 7
+      "cluster": 5
     },
     {
       "Id": 11868221073333,
       "Title": "Allfrequency interactive relighting of translucent objects with single and multiple",
-      "cluster": 7
+      "cluster": 5
     },
     {
       "Id": 1201775882286,
       "Title": "Efficient synthesis of physically valid human motion",
-      "cluster": 7
+      "cluster": 5
     },
     {
       "Id": 1201775882335,
       "Title": "Smoke simulation for large scale phenomena",
-      "cluster": 7
+      "cluster": 5
     },
     {
       "Id": 1201775882359,
       "Title": "Precomputing interactive dynamic deformable scenes",
-      "cluster": 7
+      "cluster": 5
     },
     {
       "Id": 12271812275,
       "Title": "Reactiondiffusion textures",
-      "cluster": 7
+      "cluster": 5
     },
     {
       "Id": 122718122755,
       "Title": "Animation of dynamic legged locomotion",
-      "cluster": 7
+      "cluster": 5
     },
     {
       "Id": 122718122756,
       "Title": "Interactive behaviors for bipedal articulated figures",
-      "cluster": 7
+      "cluster": 5
     },
     {
       "Id": 12758081276384,
       "Title": "Active learning for realtime motion controller",
-      "cluster": 7
+      "cluster": 5
     },
     {
       "Id": 12758081276385,
       "Title": "Responsive characters from motion fragments",
-      "cluster": 7
+      "cluster": 5
     },
     {
       "Id": 12758081276392,
       "Title": "Detail preserving shape deformation in image editing",
-      "cluster": 7
+      "cluster": 5
     },
     {
       "Id": 12758081276496,
       "Title": "Image upsampling via imposed edge statistics",
-      "cluster": 7
+      "cluster": 5
     },
     {
       "Id": 12758081276497,
       "Title": "Joint bilateral upsampling",
-      "cluster": 7
+      "cluster": 5
     },
     {
       "Id": 13606121360657,
       "Title": "Towards passive D reflectance field displays",
-      "cluster": 7
+      "cluster": 5
     },
     {
       "Id": 13606121360673,
       "Title": "Progressive interscale and intrascale nonblind image deconvolutionlation asymmetric patt",
-      "cluster": 7
+      "cluster": 5
     },
     {
       "Id": 13606121360682,
       "Title": "Musculotendon simulation for hand animation",
-      "cluster": 7
+      "cluster": 5
     },
     {
       "Id": 14090601409066,
       "Title": "Synthesis of constrained walking skills",
-      "cluster": 7
+      "cluster": 5
     },
     {
       "Id": 14090601409068,
       "Title": "Motion overview of human actions",
-      "cluster": 7
+      "cluster": 5
     },
     {
       "Id": 14090601409118,
       "Title": "Optimizing cubature for efficient integration of subspace deformationsreal environmentsamet",
-      "cluster": 7
+      "cluster": 5
     },
     {
       "Id": 15762461531358,
       "Title": "Preserving topology and elasticity for embedded deformable models",
-      "cluster": 7
+      "cluster": 5
     },
     {
       "Id": 15762461531359,
       "Title": "Deformable object animation using reduced optimal control",
-      "cluster": 7
+      "cluster": 5
     },
     {
       "Id": 15762461531382,
       "Title": "Deforming meshes that split and merge",
-      "cluster": 7
+      "cluster": 5
     },
     {
       "Id": 15762461531396,
       "Title": "Physically guided liquid surface modeling from videos",
-      "cluster": 7
+      "cluster": 5
     },
     {
       "Id": 15762461618503,
       "Title": "D polyomino puzzle",
-      "cluster": 7
+      "cluster": 5
     },
     {
       "Id": 15762461618513,
       "Title": "Exploratory modeling with collaborative design spaces",
-      "cluster": 7
+      "cluster": 5
     },
     {
       "Id": 15762461618517,
       "Title": "Modeling spatial and temporal variation in motion data",
-      "cluster": 7
+      "cluster": 5
     },
     {
       "Id": 18333491778773,
       "Title": "Interactive onsurface signal deformation",
-      "cluster": 7
+      "cluster": 5
     },
     {
       "Id": 1833349177881,
       "Title": "Optimizing walking controllers for uncertain inputs and environmentsic sources in complex s",
-      "cluster": 7
+      "cluster": 5
     },
     {
       "Id": 18333491778815,
       "Title": "Controllable conformal maps for shape deformation and interpolation",
-      "cluster": 7
+      "cluster": 5
     },
     {
       "Id": 192161192167,
       "Title": "Evolving virtual creatures",
-      "cluster": 7
+      "cluster": 5
     },
     {
       "Id": 19216119222,
       "Title": "A generalized de Casteljau approach to D freeform deformation",
-      "cluster": 7
+      "cluster": 5
     },
     {
       "Id": 344779344981,
       "Title": "Pomegranate fully scalable graphics architecturenal agelingh to D",
-      "cluster": 7
+      "cluster": 5
     },
     {
       "Id": 383259383262,
       "Title": "Dynamic realtime deformations using space time adaptive sampling",
-      "cluster": 7
+      "cluster": 5
     },
     {
       "Id": 383259383263,
       "Title": "Optimizationbased animation",
-      "cluster": 7
+      "cluster": 5
     },
     {
       "Id": 383259383268,
       "Title": "Scanning physical interaction behavior of D objects",
-      "cluster": 7
+      "cluster": 5
     },
     {
       "Id": 383259383283,
       "Title": "Measuring and predicting visual fideli",
-      "cluster": 7
+      "cluster": 5
     },
     {
       "Id": 383259383299,
       "Title": "The randomized zbuffer algorithm interactive rendering of highly complex",
-      "cluster": 7
+      "cluster": 5
     },
     {
       "Id": 383259383314,
       "Title": "Project FEELEX adding haptic surface to graphicsbrushesery high reso",
-      "cluster": 7
+      "cluster": 5
     },
     {
       "Id": 566570566626,
       "Title": "Articulated body deformation from range scan data",
-      "cluster": 7
+      "cluster": 5
     },
     {
       "Id": 56657056663,
       "Title": "Physiological measures of presence in stressful virtual environmentstionrmation simulation",
-      "cluster": 7
+      "cluster": 5
     },
     {
       "Id": 1179352114193,
       "Title": "Interactive decal compositing with discrete exponential maps",
-      "cluster": 8
+      "cluster": 5
     },
     {
       "Id": 11793521141971,
       "Title": "Compression of motion capture databases",
-      "cluster": 8
+      "cluster": 5
     },
     {
       "Id": 1179352114198,
       "Title": "Generalized wavelet product integral for rendering dynamic glossy objectsquency illuminatio",
-      "cluster": 8
+      "cluster": 5
     },
     {
       "Id": 11865621015745,
       "Title": "Simulating water and smoke with an octree data structure",
-      "cluster": 8
+      "cluster": 5
     },
     {
       "Id": 11865621015746,
       "Title": "A method for animating viscoelastic fluids",
-      "cluster": 8
+      "cluster": 5
     },
     {
       "Id": 11865621015755,
       "Title": "Stylebased inverse kinematics",
-      "cluster": 8
+      "cluster": 5
     },
     {
       "Id": 11868221073247,
       "Title": "Efficient contentbased retrieval of motion capture data",
-      "cluster": 8
+      "cluster": 5
     },
     {
       "Id": 11868221073281,
       "Title": "Animating gases with hybrid meshes",
-      "cluster": 8
+      "cluster": 5
     },
     {
       "Id": 11868221073294,
       "Title": "Adaptive dynamics of articulated bodies",
-      "cluster": 8
+      "cluster": 5
     },
     {
       "Id": 11868221073295,
       "Title": "Fast frictional dynamics for rigid bodies",
-      "cluster": 8
+      "cluster": 5
     },
     {
       "Id": 11868221073298,
       "Title": "Animating sand as a fluid",
-      "cluster": 8
+      "cluster": 5
     },
     {
       "Id": 11868221073299,
       "Title": "Coupling water and smoke to thin deformable and rigid shell",
-      "cluster": 8
+      "cluster": 5
     },
     {
       "Id": 11868221073313,
       "Title": "Geostatistical motion interpolatio",
-      "cluster": 8
+      "cluster": 5
     },
     {
       "Id": 11868221073314,
       "Title": "Learning physicsbased motion style with nonlinear inverse optimizationons of freeform tri",
-      "cluster": 8
+      "cluster": 5
     },
     {
       "Id": 1201775882315,
       "Title": "Relighting with D incident light fields",
-      "cluster": 8
+      "cluster": 5
     },
     {
       "Id": 1201775882339,
       "Title": "Realtime rendering of aerodynamic sound using sound textures based on computational fluid dynamics",
-      "cluster": 8
+      "cluster": 5
     },
     {
       "Id": 122718122721,
       "Title": "Motion without movement",
-      "cluster": 8
+      "cluster": 5
     },
     {
       "Id": 12758081276421,
       "Title": "Practical motion capture in everyday surroundings",
-      "cluster": 8
+      "cluster": 5
     },
     {
       "Id": 12758081276435,
       "Title": "Curlnoise for procedural fluid flo",
-      "cluster": 8
+      "cluster": 5
     },
     {
       "Id": 12758081276437,
       "Title": "Adaptively sampled particle fluid",
-      "cluster": 8
+      "cluster": 5
     },
     {
       "Id": 12758081276469,
       "Title": "Key Point Subspace Acceleration and soft caching",
-      "cluster": 8
+      "cluster": 5
     },
     {
       "Id": 12758081276499,
       "Title": "Bubbling and frothing liquids",
-      "cluster": 8
+      "cluster": 5
     },
     {
       "Id": 12758081276502,
       "Title": "A fast variational framework for accurate solidfluid coupling",
-      "cluster": 8
+      "cluster": 5
     },
     {
       "Id": 13606121360645,
       "Title": "Twoway coupling of fluids to rigid and deformable solids and shellset synthesisseal hairst",
-      "cluster": 8
+      "cluster": 5
     },
     {
       "Id": 13606121360648,
       "Title": "Porous flow in particlebased fluid simulations",
-      "cluster": 8
+      "cluster": 5
     },
     {
       "Id": 13606121360649,
       "Title": "Wavelet turbulence for fluid simulation",
-      "cluster": 8
+      "cluster": 5
     },
     {
       "Id": 13606121360693,
       "Title": "Feedback control of cumuliform cloud formation based on computational fluid dynamics",
-      "cluster": 8
+      "cluster": 5
     },
     {
       "Id": 14090601409063,
       "Title": "Spacetime surface reconstruction using incompressible flow",
-      "cluster": 8
+      "cluster": 5
     },
     {
       "Id": 14090601409103,
       "Title": "Superimposing dynamic range",
-      "cluster": 8
+      "cluster": 5
     },
     {
       "Id": 14090601409115,
       "Title": "Magnets in motion",
-      "cluster": 8
+      "cluster": 5
     },
     {
       "Id": 1576246153134,
       "Title": "Variational harmonic maps for space deformation",
-      "cluster": 8
+      "cluster": 5
     },
     {
       "Id": 15762461531341,
       "Title": "Jointaware manipulation of deformable models",
-      "cluster": 8
+      "cluster": 5
     },
     {
       "Id": 15762461531343,
       "Title": "Harmonic fluids",
-      "cluster": 8
+      "cluster": 5
     },
     {
       "Id": 15762461531344,
       "Title": "Energypreserving integrators for fluid animation",
-      "cluster": 8
+      "cluster": 5
     },
     {
       "Id": 15762461531345,
       "Title": "Modular bases for fluid dynamics",
-      "cluster": 8
+      "cluster": 5
     },
     {
       "Id": 15762461531385,
       "Title": "Synchronized multicharacter motion editing",
-      "cluster": 8
+      "cluster": 5
     },
     {
       "Id": 15762461618456,
       "Title": "Motion field texture synthesis",
-      "cluster": 8
+      "cluster": 5
     },
     {
       "Id": 15762461618466,
       "Title": "Stretching and wiggling liquids",
-      "cluster": 8
+      "cluster": 5
     },
     {
       "Id": 15762461618469,
       "Title": "Skipping steps in deformable simulation with online model reduction",
-      "cluster": 8
+      "cluster": 5
     },
     {
       "Id": 15762461618479,
       "Title": "Allfrequency rendering of dynamic",
-      "cluster": 8
+      "cluster": 5
     },
     {
       "Id": 15762461618514,
       "Title": "Optimizing walking controllers",
-      "cluster": 8
+      "cluster": 5
     },
     {
       "Id": 18333491778776,
       "Title": "Unified simulation of elastic rods",
-      "cluster": 8
+      "cluster": 5
     },
     {
       "Id": 18333491778784,
       "Title": "Matching fluid simulation elements to surface geometry and topology",
-      "cluster": 8
+      "cluster": 5
     },
     {
       "Id": 18333491778787,
       "Title": "Physicsinspired topology changes for thin fluid features",
-      "cluster": 8
+      "cluster": 5
     },
     {
       "Id": 183334917788,
       "Title": "Design and fabrication of materials with desired deformation behaviorng structure monocular",
-      "cluster": 8
+      "cluster": 5
     },
     {
       "Id": 18333491778806,
       "Title": "Rigidbody fracture sound with precomputed soundbanks",
-      "cluster": 8
+      "cluster": 5
     },
     {
       "Id": 18333491778808,
       "Title": "Robust physicsbased locomotion using lowdimensional planning",
-      "cluster": 8
+      "cluster": 5
     },
     {
       "Id": 18333491778813,
       "Title": "A multilayered display with water drops",
-      "cluster": 8
+      "cluster": 5
     },
     {
       "Id": 18333491778828,
       "Title": "Seeing is believingbody motion dominates in multisensory conversation",
-      "cluster": 8
+      "cluster": 5
     },
     {
       "Id": 18333491778829,
       "Title": "Simulating virtual environments within virtual environments as the basis for a psychophysics of presenc",
-      "cluster": 8
+      "cluster": 5
     },
     {
       "Id": 18333491778845,
       "Title": "A deformation transformer for realtime cloth animation",
-      "cluster": 8
+      "cluster": 5
     },
     {
       "Id": 18333491778865,
       "Title": "Samplingbased contactrich motion control",
-      "cluster": 8
+      "cluster": 5
     },
     {
       "Id": 192161192168,
       "Title": "Fast contact force computation for nonpenetrating rigid bodies",
-      "cluster": 8
+      "cluster": 5
     },
     {
       "Id": 192161192198,
       "Title": "Accelerated MPEG compression of dynamic polygonal scenes",
-      "cluster": 8
+      "cluster": 5
     },
     {
       "Id": 192161192266,
       "Title": "Planning motions with intentions",
-      "cluster": 8
+      "cluster": 5
     },
     {
       "Id": 344779344859,
       "Title": "Asrigiaspossible shape interpolation",
-      "cluster": 8
+      "cluster": 5
     },
     {
       "Id": 344779344865,
       "Title": "Style machines",
-      "cluster": 8
+      "cluster": 5
     },
     {
       "Id": 34477934488,
       "Title": "Interactive manipulation of rigid body simulations",
-      "cluster": 8
+      "cluster": 5
     },
     {
       "Id": 383259383261,
       "Title": "Practical animation of liquids",
-      "cluster": 8
+      "cluster": 5
     },
     {
       "Id": 383259383265,
       "Title": "Feature sensitive surface extraction from volume data",
-      "cluster": 8
+      "cluster": 5
     },
     {
       "Id": 383259383307,
       "Title": "Texture mapping progressive meshe",
-      "cluster": 8
+      "cluster": 5
     },
     {
       "Id": 566570566578,
       "Title": "CHARMSa simple framework for adaptive simulation",
-      "cluster": 8
+      "cluster": 5
     },
     {
       "Id": 566570566584,
       "Title": "Pointshopan interactive system for pointbased surface editing",
-      "cluster": 8
+      "cluster": 5
     },
     {
       "Id": 566570566585,
       "Title": "Level set surface editing operators",
-      "cluster": 8
+      "cluster": 5
     },
     {
       "Id": 566570566586,
       "Title": "Dual contouring of hermite data",
-      "cluster": 8
+      "cluster": 5
     },
     {
       "Id": 56657056659,
       "Title": "Least squares conformal maps for automatic texture atlas generation",
-      "cluster": 8
+      "cluster": 5
     },
     {
       "Id": 566570566591,
       "Title": "Progressive lossless compression of arbitrary simplicial complexes",
-      "cluster": 8
+      "cluster": 5
     },
     {
       "Id": 566570566622,
       "Title": "Interactive skeletondriven dynamic deformations",
-      "cluster": 8
+      "cluster": 5
     },
     {
       "Id": 9787997907,
       "Title": "Strength guided motio",
-      "cluster": 8
+      "cluster": 5
     },
     {
       "Id": 9787997918,
       "Title": "Rendering and animation of gaseous phenomena by combining fast volume and scanline buffer technique",
-      "cluster": 8
+      "cluster": 5
     },
     {
       "Id": 978799792,
       "Title": "Lightwater interaction using backward beam tracing",
-      "cluster": 8
+      "cluster": 5
     },
     {
       "Id": 1179352114192,
       "Title": "Image deformation using moving least squares",
-      "cluster": 9
+      "cluster": 6
     },
     {
       "Id": 11793521141925,
       "Title": "Reassembling fractured objects by geometric matching",
-      "cluster": 9
+      "cluster": 6
     },
     {
       "Id": 11793521141928,
       "Title": "SmoothSketchD freeform shapes from complex sketches",
-      "cluster": 9
+      "cluster": 6
     },
     {
       "Id": 11793521141941,
       "Title": "Geometric modeling with conical meshes and developable surfaces",
-      "cluster": 9
+      "cluster": 6
     },
     {
       "Id": 11793521141951,
       "Title": "Appearance manifolds for modeling time appearance of materials",
-      "cluster": 9
+      "cluster": 6
     },
     {
       "Id": 11793521141962,
       "Title": "Model reduction for realtime fluid",
-      "cluster": 9
+      "cluster": 6
     },
     {
       "Id": 11793521141972,
       "Title": "Motion patchesbuilding blocks for virtual environments annotated with motion data",
-      "cluster": 9
+      "cluster": 6
     },
     {
       "Id": 11793521141981,
       "Title": "Allfrequency precomputed radiance transfer using spherical radial basis functions and clustered tensor approximation",
-      "cluster": 9
+      "cluster": 6
     },
     {
       "Id": 11793521142002,
       "Title": "Vector field based shape deformation",
-      "cluster": 9
+      "cluster": 6
     },
     {
       "Id": 11793521142003,
       "Title": "Subspace gradient domain mesh deformation",
-      "cluster": 9
+      "cluster": 6
     },
     {
       "Id": 11865621015715,
       "Title": "Tspline simplification and local refinement",
-      "cluster": 9
+      "cluster": 6
     },
     {
       "Id": 11865621015734,
       "Title": "A virtual node algorithm for changing mesh topology during simulationgid bodies and fluidut",
-      "cluster": 9
+      "cluster": 6
     },
     {
       "Id": 11865621015735,
       "Title": "BDtreeoutputsensitive collision detection for reduced deformable models",
-      "cluster": 9
+      "cluster": 6
     },
     {
       "Id": 11865621015739,
       "Title": "VisualIDsautomatic distinctive icons for desktop interfacesosensing",
-      "cluster": 9
+      "cluster": 6
     },
     {
       "Id": 11865621015758,
       "Title": "Pitching a baseballracking highspeed motion with multiexposure",
-      "cluster": 9
+      "cluster": 6
     },
     {
       "Id": 11865621015768,
       "Title": "Ridgevalley lines on meshes via implicit surface fitting",
-      "cluster": 9
+      "cluster": 6
     },
     {
       "Id": 11865621015769,
       "Title": "Fair morse functions for extracting the topological structure of a surface mesh animation i",
-      "cluster": 9
+      "cluster": 6
     },
     {
       "Id": 1186562101577,
       "Title": "Shape matching and anisotropy",
-      "cluster": 9
+      "cluster": 6
     },
     {
       "Id": 11865621015773,
       "Title": "Interactive modeling of topologically complex geometric detail",
-      "cluster": 9
+      "cluster": 6
     },
     {
       "Id": 11865621015775,
       "Title": "Modeling by example",
-      "cluster": 9
+      "cluster": 6
     },
     {
       "Id": 11865621015799,
       "Title": "Geometry clipmapsterrain rendering using nested regular grids",
-      "cluster": 9
+      "cluster": 6
     },
     {
       "Id": 11865621015812,
       "Title": "Intersurface mapping",
-      "cluster": 9
+      "cluster": 6
     },
     {
       "Id": 11865621015815,
       "Title": "Robust repair of polygonal models",
-      "cluster": 9
+      "cluster": 6
     },
     {
       "Id": 11865621015816,
       "Title": "Interpolating and approximating implicit surfaces from polygon soup",
-      "cluster": 9
+      "cluster": 6
     },
     {
       "Id": 11868221073226,
       "Title": "Efficiently combining positions and normals for precise D geometry",
-      "cluster": 9
+      "cluster": 6
     },
     {
       "Id": 11868221073236,
       "Title": "Surface compression with geometric bandelets",
-      "cluster": 9
+      "cluster": 6
     },
     {
       "Id": 11868221073237,
       "Title": "Geometryguided progressive lossless D mesh coding with octree  decompositionomputerc",
-      "cluster": 9
+      "cluster": 6
     },
     {
       "Id": 11868221073238,
       "Title": "Variational tetrahedral meshing",
-      "cluster": 9
+      "cluster": 6
     },
     {
       "Id": 11868221073239,
       "Title": "Shell maps",
-      "cluster": 9
+      "cluster": 6
     },
     {
       "Id": 11868221073246,
       "Title": "Action synopsispose selection and illustrationycompositionomputer",
-      "cluster": 9
+      "cluster": 6
     },
     {
       "Id": 11868221073254,
       "Title": "Measuring and modeling the appearance of finished wood",
-      "cluster": 9
+      "cluster": 6
     },
     {
       "Id": 11868221073287,
       "Title": "Multifinger gestural interaction with D volumetric display",
-      "cluster": 9
+      "cluster": 6
     },
     {
       "Id": 11868221073291,
       "Title": "Sketching mesh deformations",
-      "cluster": 9
+      "cluster": 6
     },
     {
       "Id": 11868221073292,
       "Title": "Realtime relief mapping on arbitrary polygonal surfaces",
-      "cluster": 9
+      "cluster": 6
     },
     {
       "Id": 11868221073296,
       "Title": "Meshless animation of fracturing solids",
-      "cluster": 9
+      "cluster": 6
     },
     {
       "Id": 11868221073301,
       "Title": "Interactive collision detection between deformable models using chromatic decomposition exp",
-      "cluster": 9
+      "cluster": 6
     },
     {
       "Id": 1201775882291,
       "Title": "TreeJuxtaposerscalable tree comparison using FocusContext with guaranteed visibility",
-      "cluster": 9
+      "cluster": 6
     },
     {
       "Id": 1201775882296,
       "Title": "Anisotropic polygonal remeshing",
-      "cluster": 9
+      "cluster": 6
     },
     {
       "Id": 1201775882307,
       "Title": "Reanimating the deadreconstruction of expressive faces from skull data",
-      "cluster": 9
+      "cluster": 6
     },
     {
       "Id": 1201775882319,
       "Title": "Shape modeling with pointsampled geometry",
-      "cluster": 9
+      "cluster": 6
     },
     {
       "Id": 1201775882354,
       "Title": "Suggestive contours for conveying shape",
-      "cluster": 9
+      "cluster": 6
     },
     {
       "Id": 1201775882366,
       "Title": "Outofcore compression for gigantic polygon meshes",
-      "cluster": 9
+      "cluster": 6
     },
     {
       "Id": 122718122742,
       "Title": "Geometrically deformed modelsa method for extracting closed geometric models form volume data",
-      "cluster": 9
+      "cluster": 6
     },
     {
       "Id": 122718122743,
       "Title": "Volumetric shape description of range data using Blobby Modelg closed geometr",
-      "cluster": 9
+      "cluster": 6
     },
     {
       "Id": 122718122747,
       "Title": "Sculptingan interactive volumetric modeling techniqueclosed geometr",
-      "cluster": 9
+      "cluster": 6
     },
     {
       "Id": 122718122758,
       "Title": "A coherent projection approach for direct volume rendering",
-      "cluster": 9
+      "cluster": 6
     },
     {
       "Id": 12758081276396,
       "Title": "Continuous collision detection for articulated models using Taylor models and temporal",
-      "cluster": 9
+      "cluster": 6
     },
     {
       "Id": 12758081276446,
       "Title": "Rotational symmetry field design on surfaces",
-      "cluster": 9
+      "cluster": 6
     },
     {
       "Id": 12758081276457,
       "Title": "Geometric modeling in shape space",
-      "cluster": 9
+      "cluster": 6
     },
     {
       "Id": 1275808127648,
       "Title": "FastLSMfast lattice shape matching for robust real-time deformation",
-      "cluster": 9
+      "cluster": 6
     },
     {
       "Id": 13606121360621,
       "Title": "Spline joints for multibody dynamics",
-      "cluster": 9
+      "cluster": 6
     },
     {
       "Id": 13606121360622,
       "Title": "Robust treatment of simultaneous collisions",
-      "cluster": 9
+      "cluster": 6
     },
     {
       "Id": 13606121360642,
       "Title": "Discovering structural regularity in d geometry",
-      "cluster": 9
+      "cluster": 6
     },
     {
       "Id": 13606121360683,
       "Title": "A system for highvolume acquisition and matching of fresco fragments",
-      "cluster": 9
+      "cluster": 6
     },
     {
       "Id": 13606121360684,
       "Title": "points congruent sets for robust pairwise surface registration",
-      "cluster": 9
+      "cluster": 6
     },
     {
       "Id": 14090601409065,
       "Title": "Animating responsive characters with dynamic constraints in nearunactuated coordinates",
-      "cluster": 9
+      "cluster": 6
     },
     {
       "Id": 14090601409078,
       "Title": "Laughing out loud control for modeling anatomically inspired laughter using audio",
-      "cluster": 9
+      "cluster": 6
     },
     {
       "Id": 14090601409109,
       "Title": "Lineart illustration of dynamic and specular surfaces",
-      "cluster": 9
+      "cluster": 6
     },
     {
       "Id": 15762461531334,
       "Title": "How well do line drawings depict shape",
-      "cluster": 9
+      "cluster": 6
     },
     {
       "Id": 15762461531362,
       "Title": "Examplebased hair geometry synthesi",
-      "cluster": 9
+      "cluster": 6
     },
     {
       "Id": 15762461618457,
       "Title": "Interactive design of urban spaces using geometrical and behavioral modelingol maps for non",
-      "cluster": 9
+      "cluster": 6
     },
     {
       "Id": 15762461618496,
       "Title": "DiagSplitparallel",
-      "cluster": 9
+      "cluster": 6
     },
     {
       "Id": 15762461618518,
       "Title": "Realtime prosodydriven synthesis of body language",
-      "cluster": 9
+      "cluster": 6
     },
     {
       "Id": 15762461618521,
       "Title": "Robust singleview geometry and motion reconstruction",
-      "cluster": 9
+      "cluster": 6
     },
     {
       "Id": 18333491778775,
       "Title": "A simple geometric model for elastic deformations",
-      "cluster": 9
+      "cluster": 6
     },
     {
       "Id": 18333491778809,
       "Title": "Terrain adaptive bipedal locomotion control",
-      "cluster": 9
+      "cluster": 6
     },
     {
       "Id": 18333491778823,
       "Title": "Vector solid textures",
-      "cluster": 9
+      "cluster": 6
     },
     {
       "Id": 18333491778838,
       "Title": "Discrete scale axis representations for D geometry",
-      "cluster": 9
+      "cluster": 6
     },
     {
       "Id": 18333491778846,
       "Title": "D modeling with silhouettes",
-      "cluster": 9
+      "cluster": 6
     },
     {
       "Id": 192161192197,
       "Title": "D position",
-      "cluster": 9
+      "cluster": 6
     },
     {
       "Id": 192161192223,
       "Title": "Multiresolution curves",
-      "cluster": 9
+      "cluster": 6
     },
     {
       "Id": 344779344862,
       "Title": "Pose space deformation a unified approach to shape interpolation and skeletondriven deformation",
-      "cluster": 9
+      "cluster": 6
     },
     {
       "Id": 344779344882,
       "Title": "Sampling plausible solutions to multi body constraint problems",
-      "cluster": 9
+      "cluster": 6
     },
     {
       "Id": 344779344922,
       "Title": "Progressive geometry compression",
-      "cluster": 9
+      "cluster": 6
     },
     {
       "Id": 344779344924,
       "Title": "Spectral compression of mesh geometry",
-      "cluster": 9
+      "cluster": 6
     },
     {
       "Id": 344779345075,
       "Title": "Non photorealistic virtual environments",
-      "cluster": 9
+      "cluster": 6
     },
     {
       "Id": 383259383286,
       "Title": "Rendering effective route mapimproving usability through generalization",
-      "cluster": 9
+      "cluster": 6
     },
     {
       "Id": 383259383291,
       "Title": "The use of positional information in the modeling of plants",
-      "cluster": 9
+      "cluster": 6
     },
     {
       "Id": 383259383292,
       "Title": "Procedural modeling of cities",
-      "cluster": 9
+      "cluster": 6
     },
     {
       "Id": 383259383313,
       "Title": "DABinteractive haptic painting with D virtual brushesery high reso",
-      "cluster": 9
+      "cluster": 6
     },
     {
       "Id": 56657056658,
       "Title": "Creating models of truss structures with optimization",
-      "cluster": 9
+      "cluster": 6
     },
     {
       "Id": 566570566588,
       "Title": "Interactive geometry remeshing",
-      "cluster": 9
+      "cluster": 6
     },
     {
       "Id": 566570566623,
       "Title": "Robust treatment of collisions",
-      "cluster": 9
+      "cluster": 6
     },
     {
       "Id": 9787997883,
       "Title": "Geometric collisions for timedependent parametric surfaces",
-      "cluster": 9
+      "cluster": 6
     },
     {
       "Id": 9787997885,
       "Title": "Conespheres",
-      "cluster": 9
+      "cluster": 6
     },
     {
       "Id": 97879979,
       "Title": "Extended freeform deformationa sculpturing tool for D geometric modeling with compact m",
-      "cluster": 9
+      "cluster": 6
     },
     {
       "Id": 11793521141947,
       "Title": "The Direct system",
-      "cluster": 10
+      "cluster": 7
     },
     {
       "Id": 11793521142005,
       "Title": "Locally adapted hierarchical basis preconditioning",
-      "cluster": 10
+      "cluster": 7
     },
     {
       "Id": 11865621015754,
       "Title": "Synthesizing physically realistic human motion in low dimensional",
-      "cluster": 10
+      "cluster": 7
     },
     {
       "Id": 11865621015783,
       "Title": "Eyes for relighting",
-      "cluster": 10
+      "cluster": 7
     },
     {
       "Id": 11865621015784,
       "Title": "Capture of hair geometry from multiple images ",
-      "cluster": 10
+      "cluster": 7
     },
     {
       "Id": 11868221073242,
       "Title": "Evaluation of tone mapping operators using a High Dynamic Range displaycompositionomputer c",
-      "cluster": 10
+      "cluster": 7
     },
     {
       "Id": 11868221073269,
       "Title": "Removing photography artifacts using gradient projection and flash exposure samplingtioning",
-      "cluster": 10
+      "cluster": 7
     },
     {
       "Id": 1201775882298,
       "Title": "Shadow matting and compositing",
-      "cluster": 10
+      "cluster": 7
     },
     {
       "Id": 1201775882299,
       "Title": "Interactive shadow generation in complex environments",
-      "cluster": 10
+      "cluster": 7
     },
     {
       "Id": 12017758823,
       "Title": "A geometrybased soft shadow volume algorithm using graphics hardwareFocusContext with gua",
-      "cluster": 10
+      "cluster": 7
     },
     {
       "Id": 1201775882301,
       "Title": "Shadow silhouette maps",
-      "cluster": 10
+      "cluster": 7
     },
     {
       "Id": 12758081276417,
       "Title": "Digital basrelief from D scenes",
-      "cluster": 10
+      "cluster": 7
     },
     {
       "Id": 12758081276436,
       "Title": "Wrinkled flames and cellular patterns",
-      "cluster": 10
+      "cluster": 7
     },
     {
       "Id": 13606121360613,
       "Title": "Factoring repeated content within and among images a",
-      "cluster": 10
+      "cluster": 7
     },
     {
       "Id": 13606121360629,
       "Title": "Hair photoboothgeometric and photometric acquisition of real hairstyles",
-      "cluster": 10
+      "cluster": 7
     },
     {
       "Id": 13606121360636,
       "Title": "A meshless hierarchical representation for light transport",
-      "cluster": 10
+      "cluster": 13
     },
     {
       "Id": 13606121360681,
       "Title": "Interactive simulation of stylized human locomotion",
-      "cluster": 10
+      "cluster": 7
     },
     {
       "Id": 13606121360687,
       "Title": "Where do people draw lines",
-      "cluster": 10
+      "cluster": 14
     },
     {
       "Id": 13606121360694,
       "Title": "Shadingbased surface editing",
-      "cluster": 10
+      "cluster": 7
     },
     {
       "Id": 14090601409082,
       "Title": "Imperfect shadow maps for efficient computation of indirect illuminationmationpired laughte",
-      "cluster": 10
+      "cluster": 7
     },
     {
       "Id": 14090601409095,
       "Title": "Subdivision shading",
-      "cluster": 10
+      "cluster": 7
     },
     {
       "Id": 15762461531371,
       "Title": "The UnMousePadan interpolating multitouch forcesensing input pads",
-      "cluster": 10
+      "cluster": 7
     },
     {
       "Id": 15762461531395,
       "Title": "Capture and modeling of non linear heterogeneous soft tissue",
-      "cluster": 10
+      "cluster": 7
     },
     {
       "Id": 15762461618483,
       "Title": "Abstraction of manmade shapes",
-      "cluster": 10
+      "cluster": 7
     },
     {
       "Id": 15762461618502,
       "Title": "Shadow art",
-      "cluster": 10
+      "cluster": 7
     },
     {
       "Id": 1576246161851,
       "Title": "coloring",
-      "cluster": 10
+      "cluster": 7
     },
     {
       "Id": 18333491778794,
       "Title": "Programmable motion effects",
-      "cluster": 10
+      "cluster": 7
     },
     {
       "Id": 18333491778859,
       "Title": "Learning behavior styles with inverse reinforcement learning",
-      "cluster": 10
+      "cluster": 7
     },
     {
       "Id": 192161192169,
       "Title": "Hierarchical spacetime control",
-      "cluster": 10
+      "cluster": 7
     },
     {
       "Id": 192161192184,
       "Title": "Computergenerated penandink illustration",
-      "cluster": 10
+      "cluster": 7
     },
     {
       "Id": 192161192185,
       "Title": "Interactive penandink illustratio",
-      "cluster": 10
+      "cluster": 7
     },
     {
       "Id": 192161192207,
       "Title": "A fast shadow algorithm for area light sources using backprojection",
-      "cluster": 10
+      "cluster": 7
     },
     {
       "Id": 344779344844,
       "Title": "Environment matting extensionstowards higher accuracy and realtime captur",
-      "cluster": 10
+      "cluster": 7
     },
     {
       "Id": 344779344933,
       "Title": "An autostereoscopic display",
-      "cluster": 10
+      "cluster": 7
     },
     {
       "Id": 344779344958,
       "Title": "Deep shadow maps",
-      "cluster": 10
+      "cluster": 7
     },
     {
       "Id": 344779352172,
       "Title": "The EMOTE model for effort and shap",
-      "cluster": 10
+      "cluster": 7
     },
     {
       "Id": 383259383288,
       "Title": "Automating gait generation",
-      "cluster": 10
+      "cluster": 7
     },
     {
       "Id": 38325938329,
       "Title": "Expression cloning",
-      "cluster": 10
+      "cluster": 7
     },
     {
       "Id": 383259383302,
       "Title": "Adaptive shadow maps",
-      "cluster": 10
+      "cluster": 7
     },
     {
       "Id": 383259383315,
       "Title": "BEATthe Behavior Expression Animation Toolkitcsbrushesery high reso",
-      "cluster": 10
+      "cluster": 7
     },
     {
       "Id": 566570566594,
       "Title": "Trainable videorealistic speech animatio",
-      "cluster": 10
+      "cluster": 7
     },
     {
       "Id": 566570566595,
       "Title": "Turning to the mastersmotion capturing cartoonsed surface editing",
-      "cluster": 10
+      "cluster": 7
     },
     {
       "Id": 566570566596,
       "Title": "Synthesis of complex dynamic character motion from simple animationsonsed surface editing",
-      "cluster": 10
+      "cluster": 7
     },
     {
       "Id": 566570566597,
       "Title": "Integrated learning for interactive synthetic characters",
-      "cluster": 10
+      "cluster": 7
     },
     {
       "Id": 566570566604,
       "Title": "Motion texturea two level statistical model for character motion synthesi",
-      "cluster": 10
+      "cluster": 7
     },
     {
       "Id": 566570566605,
       "Title": "Motion graphs",
-      "cluster": 10
+      "cluster": 7
     },
     {
       "Id": 566570566606,
       "Title": "Interactive motion generation from examples",
-      "cluster": 10
+      "cluster": 7
     },
     {
       "Id": 566570566607,
       "Title": "Interactive control of avatars animated with human motion data",
-      "cluster": 10
+      "cluster": 7
     },
     {
       "Id": 566570566616,
       "Title": "Perspective shadow maps",
-      "cluster": 10
+      "cluster": 7
     },
     {
       "Id": 566570566629,
       "Title": "Eyes alive",
-      "cluster": 10
+      "cluster": 7
     },
     {
       "Id": 566570566636,
       "Title": "Improving noise",
-      "cluster": 10
+      "cluster": 7
     },
     {
       "Id": 9787997911,
       "Title": "A language for shading and lighting calculations",
-      "cluster": 10
+      "cluster": 7
     },
     {
       "Id": 11793521141914,
       "Title": "Guided visibility sampling",
-      "cluster": 11
+      "cluster": 8
     },
     {
       "Id": 11793521141964,
       "Title": "Photo tourismexploring photo collections in De dimensional techniq",
-      "cluster": 11
+      "cluster": 8
     },
     {
       "Id": 11793521141965,
       "Title": "AutoCollage",
-      "cluster": 11
+      "cluster": 8
     },
     {
       "Id": 11793521141996,
       "Title": "Statistical acceleration for animated global illumination",
-      "cluster": 11
+      "cluster": 8
     },
     {
       "Id": 11793521141998,
       "Title": "Directtoindirect transfer for cinematic relighting",
-      "cluster": 11
+      "cluster": 8
     },
     {
       "Id": 11865621015778,
       "Title": "Flash photography enhancement via intrinsic relighting",
-      "cluster": 11
+      "cluster": 8
     },
     {
       "Id": 11868221073232,
       "Title": "Automatic photo popup",
-      "cluster": 11
+      "cluster": 8
     },
     {
       "Id": 11868221073241,
       "Title": "ColorGraypsaliencepreserving color removal",
-      "cluster": 11
+      "cluster": 8
     },
     {
       "Id": 11868221073256,
       "Title": "Fourier slice photography",
-      "cluster": 11
+      "cluster": 8
     },
     {
       "Id": 11868221073257,
       "Title": "Dual photography",
-      "cluster": 11
+      "cluster": 8
     },
     {
       "Id": 11868221073266,
       "Title": "Acquisition of timevarying participating media",
-      "cluster": 11
+      "cluster": 8
     },
     {
       "Id": 1201775882267,
       "Title": "Fragmentbased image completion",
-      "cluster": 11
+      "cluster": 8
     },
     {
       "Id": 122718122723,
       "Title": "Design and simulation of opera lighting and projection effects",
-      "cluster": 11
+      "cluster": 8
     },
     {
       "Id": 122718122732,
       "Title": "Automated generation of intentbased D Illustrations",
-      "cluster": 11
+      "cluster": 8
     },
     {
       "Id": 122718122752,
       "Title": "Artificial evolution for computer graphics",
-      "cluster": 11
+      "cluster": 8
     },
     {
       "Id": 122718122754,
       "Title": "Computer animation of knowledgebased human grasping",
-      "cluster": 11
+      "cluster": 8
     },
     {
       "Id": 12758081276381,
       "Title": "photographic tone reproduction for digital images",
-      "cluster": 11
+      "cluster": 8
     },
     {
       "Id": 12758081276382,
       "Title": "Scene completion using millions of photographs",
-      "cluster": 11
+      "cluster": 8
     },
     {
       "Id": 12758081276399,
       "Title": "Locally controllable stylized shadin",
-      "cluster": 11
+      "cluster": 8
     },
     {
       "Id": 127580812764,
       "Title": "Line drawings via abstracted shading",
-      "cluster": 11
+      "cluster": 8
     },
     {
       "Id": 12758081276401,
       "Title": "Apparent ridges for line drawing",
-      "cluster": 11
+      "cluster": 8
     },
     {
       "Id": 12758081276402,
       "Title": "Dynamic D patterns for shading D scenes",
-      "cluster": 11
+      "cluster": 8
     },
     {
       "Id": 12758081276422,
       "Title": "Prakashlighting aware motion capture using photosensing markers and multiplexed illuminators",
-      "cluster": 11
+      "cluster": 8
     },
     {
       "Id": 12758081276424,
       "Title": "Veiling glare in high dynamic range imaging",
-      "cluster": 11
+      "cluster": 8
     },
     {
       "Id": 12758081276432,
       "Title": "ShapePalettesinteractive normal transfer via sketching and photogra",
-      "cluster": 11
+      "cluster": 8
     },
     {
       "Id": 12758081276449,
       "Title": "Robust online computation of Reeb graphssimplicity and speed angle",
-      "cluster": 11
+      "cluster": 8
     },
     {
       "Id": 12758081276462,
       "Title": "Multiaperture photography",
-      "cluster": 11
+      "cluster": 8
     },
     {
       "Id": 12758081276463,
       "Title": "Dappled photographymask enhanced cameras for heterodyned light fields and coded aperture refocusing",
-      "cluster": 11
+      "cluster": 8
     },
     {
       "Id": 12758081276492,
       "Title": "PCUthe programmable culling unit",
-      "cluster": 11
+      "cluster": 8
     },
     {
       "Id": 13606121360654,
       "Title": "Programmable aperture photographymultiplexed light field acquisition",
-      "cluster": 11
+      "cluster": 8
     },
     {
       "Id": 1360612136067,
       "Title": "Motioninvariant photography",
-      "cluster": 11
+      "cluster": 8
     },
     {
       "Id": 13606121360675,
       "Title": "Freeform surfaces from single curved panels",
-      "cluster": 11
+      "cluster": 8
     },
     {
       "Id": 14090601409069,
       "Title": "Deep photomodelbased photograph enhancement and viewingdinates",
-      "cluster": 11
+      "cluster": 8
     },
     {
       "Id": 14090601409105,
       "Title": "Intrinsic colorization",
-      "cluster": 11
+      "cluster": 8
     },
     {
       "Id": 15762461531349,
       "Title": "Optimizing contentpreserving projections for wideangle images",
-      "cluster": 11
+      "cluster": 8
     },
     {
       "Id": 15762461531372,
       "Title": "Generating photo manipulation tutorials by demonstration",
-      "cluster": 11
+      "cluster": 8
     },
     {
       "Id": 15762461531374,
       "Title": "SkyFinderattributebased sky image search",
-      "cluster": 11
+      "cluster": 8
     },
     {
       "Id": 157624615314,
       "Title": "Adaptive global visibility sampling",
-      "cluster": 11
+      "cluster": 8
     },
     {
       "Id": 15762461531402,
       "Title": "Dark flash photography",
-      "cluster": 11
+      "cluster": 8
     },
     {
       "Id": 15762461618468,
       "Title": "Aggregate dynamics for dense crowd simulation",
-      "cluster": 11
+      "cluster": 8
     },
     {
       "Id": 15762461618476,
       "Title": "Userassisted intrinsic images",
-      "cluster": 11
+      "cluster": 8
     },
     {
       "Id": 15762461618488,
       "Title": "Automatic bounding of programmable shaders for efficient global illuminationom s",
-      "cluster": 11
+      "cluster": 8
     },
     {
       "Id": 15762461618491,
       "Title": "Fast motion deblurring",
-      "cluster": 11
+      "cluster": 8
     },
     {
       "Id": 15762461618509,
       "Title": "Emerging images",
-      "cluster": 11
+      "cluster": 8
     },
     {
       "Id": 18333491778766,
       "Title": "The Frankencameraan experimental platform for computational photograph",
-      "cluster": 11
+      "cluster": 8
     },
     {
       "Id": 18333491778768,
       "Title": "Diffusion coded photography for extended depth of field",
-      "cluster": 11
+      "cluster": 8
     },
     {
       "Id": 18333491778778,
       "Title": "High resolution passive facial performance capture",
-      "cluster": 11
+      "cluster": 8
     },
     {
       "Id": 18333491778788,
       "Title": "Camouflage image",
-      "cluster": 11
+      "cluster": 8
     },
     {
       "Id": 1833349177882,
       "Title": "RepFinderfinding approximately repeated scene elements for image",
-      "cluster": 11
+      "cluster": 8
     },
     {
       "Id": 18333491778833,
       "Title": "Street slidebrowsing street level imagery",
-      "cluster": 11
+      "cluster": 8
     },
     {
       "Id": 1833349177884,
       "Title": "Symmetry factored embedding and distance",
-      "cluster": 11
+      "cluster": 8
     },
     {
       "Id": 1833349177885,
       "Title": "Apparent display resolution enhancement for moving images",
-      "cluster": 11
+      "cluster": 8
     },
     {
       "Id": 18333491778864,
       "Title": "Image warps for artistic perspective manipulation",
-      "cluster": 11
+      "cluster": 8
     },
     {
       "Id": 19216119219,
       "Title": "Spreadsheets for images",
-      "cluster": 11
+      "cluster": 8
     },
     {
       "Id": 19216119221,
       "Title": "Fast computation of shadow boundaries using spatial coherence and backprojectionsoning text",
-      "cluster": 11
+      "cluster": 8
     },
     {
       "Id": 192161192248,
       "Title": "Low cost illumination computation using an approximation of light wavefrontstionsoning text",
-      "cluster": 11
+      "cluster": 8
     },
     {
       "Id": 19216119227,
       "Title": "Animating images with drawings",
-      "cluster": 11
+      "cluster": 8
     },
     {
       "Id": 344779344899,
       "Title": "Adaptively sampled distance fieldsa general representation of shape for computer graphic",
-      "cluster": 11
+      "cluster": 8
     },
     {
       "Id": 344779344925,
       "Title": "Surface light fields for D photography",
-      "cluster": 11
+      "cluster": 8
     },
     {
       "Id": 38325938326,
       "Title": "Visual simulation of",
-      "cluster": 11
+      "cluster": 8
     },
     {
       "Id": 383259383289,
       "Title": "Expressive expression mapping with ratio images",
-      "cluster": 11
+      "cluster": 8
     },
     {
       "Id": 383259383312,
       "Title": "Hybrid stereo cameraan IBR approach for synthesis of very high resolution stereoscopic image sequences",
-      "cluster": 11
+      "cluster": 8
     },
     {
       "Id": 566570566575,
       "Title": "Photographic tone reproduction for digital images",
-      "cluster": 11
+      "cluster": 8
     },
     {
       "Id": 566570566599,
       "Title": "Imagebased D photography using opacity hulls",
-      "cluster": 11
+      "cluster": 8
     },
     {
       "Id": 566570566614,
       "Title": "A lighting reproduction approach to liveaction compositing",
-      "cluster": 11
+      "cluster": 8
     },
     {
       "Id": 566570566635,
       "Title": "Hierarchical pattern mapping",
-      "cluster": 11
+      "cluster": 8
     },
     {
       "Id": 566570566651,
       "Title": "Objectbased image editing",
-      "cluster": 11
+      "cluster": 8
     },
     {
       "Id": 11793521141934,
       "Title": "Draganddrop pasting",
-      "cluster": 12
+      "cluster": 9
     },
     {
       "Id": 11793521141979,
       "Title": "Realtime BRDF editing in complex lighting",
-      "cluster": 12
+      "cluster": 9
     },
     {
       "Id": 11865621015751,
       "Title": "Efficient BRDF importance sampling using a factored representation",
-      "cluster": 12
+      "cluster": 9
     },
     {
       "Id": 11865621015804,
       "Title": "A stereo display prototype with multiple focal distances",
-      "cluster": 12
+      "cluster": 9
     },
     {
       "Id": 11868221073224,
       "Title": "Outofcore tensor approximation of multi dimensional matrices of visual datafor computer",
-      "cluster": 12
+      "cluster": 9
     },
     {
       "Id": 1201775882279,
       "Title": "Biscale radiance transfer",
-      "cluster": 12
+      "cluster": 9
     },
     {
       "Id": 120177588228,
       "Title": "Allfrequency shadows using nonlinear wavelet lighting approximationpsg graph cuts",
-      "cluster": 12
+      "cluster": 9
     },
     {
       "Id": 1201775882281,
       "Title": "Clustered principal components for precomputed radiance transfer",
-      "cluster": 12
+      "cluster": 9
     },
     {
       "Id": 1201775882338,
       "Title": "Flows on surfaces of arbitrary topology",
-      "cluster": 12
+      "cluster": 9
     },
     {
       "Id": 1201775882349,
       "Title": "iLampsgeometrically aware and selfconfiguring projectorsure for mo",
-      "cluster": 12
+      "cluster": 9
     },
     {
       "Id": 122718122731,
       "Title": "InkwelD animation system",
-      "cluster": 12
+      "cluster": 9
     },
     {
       "Id": 12758081276411,
       "Title": "Interactive relighting with dynamic BRDF",
-      "cluster": 12
+      "cluster": 9
     },
     {
       "Id": 12758081276416,
       "Title": "Interactive cutaway illustrations of complex D models",
-      "cluster": 12
+      "cluster": 9
     },
     {
       "Id": 12758081276433,
       "Title": "Plushiean interactive design system for plush toyshing and photogra",
-      "cluster": 12
+      "cluster": 9
     },
     {
       "Id": 12758081276439,
       "Title": "TRACKStoward directable thin shells",
-      "cluster": 12
+      "cluster": 9
     },
     {
       "Id": 12758081276458,
       "Title": "Geometry of multilayer freeform structures for architecture",
-      "cluster": 12
+      "cluster": 9
     },
     {
       "Id": 12758081276476,
       "Title": "Stochastic simplification of aggregate detail",
-      "cluster": 12
+      "cluster": 9
     },
     {
       "Id": 12758081276481,
       "Title": "Handleaware isolines for scalable shape editing",
-      "cluster": 12
+      "cluster": 9
     },
     {
       "Id": 13606121360652,
       "Title": "Lapped solid texturesfilling a model with anisotropic textures",
-      "cluster": 12
+      "cluster": 9
     },
     {
       "Id": 13606121360659,
       "Title": "Perception of complex aggregates",
-      "cluster": 12
+      "cluster": 9
     },
     {
       "Id": 13606121360667,
       "Title": "Display adaptive tone mapping",
-      "cluster": 12
+      "cluster": 9
     },
     {
       "Id": 13606121360688,
       "Title": "Structureaware halftoning",
-      "cluster": 12
+      "cluster": 9
     },
     {
       "Id": 14090601409064,
       "Title": "Nonhomogeneous resizing of complex models ",
-      "cluster": 12
+      "cluster": 9
     },
     {
       "Id": 15762461531336,
       "Title": "An empirical BSSRDF model ",
-      "cluster": 12
+      "cluster": 9
     },
     {
       "Id": 15762461531337,
       "Title": "SubEdita representation for editing measured heterogeneous subsurface scattering",
-      "cluster": 12
+      "cluster": 9
     },
     {
       "Id": 15762461531352,
       "Title": "NURBS with extraordinary pointshighdegree",
-      "cluster": 12
+      "cluster": 9
     },
     {
       "Id": 15762461531392,
       "Title": "Capacityconstrained point distribution a variant of Lloyds method",
-      "cluster": 12
+      "cluster": 9
     },
     {
       "Id": 15762461531403,
       "Title": "D frequency analysis of computational cameras for depth of field extensionf Lloyds method",
-      "cluster": 12
+      "cluster": 9
     },
     {
       "Id": 15762461618482,
       "Title": "Relief analysis and extraction",
-      "cluster": 12
+      "cluster": 9
     },
     {
       "Id": 15762461618505,
       "Title": "BiDi screen a thin",
-      "cluster": 12
+      "cluster": 9
     },
     {
       "Id": 1576246161852,
       "Title": "Dynamic shape capture using multiview photometric stereo",
-      "cluster": 12
+      "cluster": 9
     },
     {
       "Id": 18333491778796,
       "Title": "D cartoon models",
-      "cluster": 12
+      "cluster": 9
     },
     {
       "Id": 1833349177883,
       "Title": "SmartBoxes for interactive urban reconstruction",
-      "cluster": 12
+      "cluster": 9
     },
     {
       "Id": 18333491778835,
       "Title": "Manifold bootstrapping for SVBRDF capture",
-      "cluster": 12
+      "cluster": 9
     },
     {
       "Id": 192161192227,
       "Title": "Using particles to sample and control implicit surfaces",
-      "cluster": 12
+      "cluster": 9
     },
     {
       "Id": 19216119225,
       "Title": "The irradiance Jacobian for partially occluded polyhedral sources",
-      "cluster": 12
+      "cluster": 9
     },
     {
       "Id": 344779344814,
       "Title": "A microfacetbased BRDF generator",
-      "cluster": 12
+      "cluster": 9
     },
     {
       "Id": 383259383282,
       "Title": "Topology matching for fully automatic similarity estimation of D shapesfor PC clustersbles",
-      "cluster": 12
+      "cluster": 9
     },
     {
       "Id": 383259383316,
       "Title": "WordsEyean automatic texttoscene conversion systemesery high reso",
-      "cluster": 12
+      "cluster": 9
     },
     {
       "Id": 56657056661,
       "Title": "Homomorphic factorization of BRDFbased lighting computation",
-      "cluster": 12
+      "cluster": 9
     },
     {
       "Id": 11793521141954,
@@ -3803,2177 +3803,2177 @@
     {
       "Id": 1179352114197,
       "Title": "Capturing and animating skin deformation in human motion",
-      "cluster": 13
+      "cluster": 10
     },
     {
       "Id": 11793521141987,
       "Title": "Analysis of human faces using a measurementbased skin reflectance modelccurate sound gener",
-      "cluster": 13
+      "cluster": 10
     },
     {
       "Id": 11793521141988,
       "Title": "A statistical model for synthesis of detailed facial geometry",
-      "cluster": 13
+      "cluster": 10
     },
     {
       "Id": 11793521141995,
       "Title": "Simulating multiple scattering in hair using a photon mapping approachelccurate sound gener",
-      "cluster": 13
+      "cluster": 10
     },
     {
       "Id": 1179352114201,
       "Title": "The cartoon animation filter",
-      "cluster": 13
+      "cluster": 10
     },
     {
       "Id": 11865621015759,
       "Title": "Spacetime facehigh resolution capture for modeling and animation",
-      "cluster": 13
+      "cluster": 10
     },
     {
       "Id": 11865621015782,
       "Title": "Protected interactive D graphics via remote rendering",
-      "cluster": 13
+      "cluster": 10
     },
     {
       "Id": 11868221073208,
       "Title": "Automatic determination of facial muscle activations from sparse motion capture marker data",
-      "cluster": 13
+      "cluster": 10
     },
     {
       "Id": 11868221073209,
       "Title": "Face transfer with multilinear model",
-      "cluster": 13
+      "cluster": 10
     },
     {
       "Id": 11868221073243,
       "Title": "A photon accurate model of the human eye",
-      "cluster": 13
+      "cluster": 10
     },
     {
       "Id": 11868221073267,
       "Title": "Modeling hair from multiple views",
-      "cluster": 13
+      "cluster": 10
     },
     {
       "Id": 1201775882323,
       "Title": "Twistera spacewarp operator for the two handed editing of D shapes",
-      "cluster": 13
+      "cluster": 10
     },
     {
       "Id": 1201775882328,
       "Title": "Clothing manipulation",
-      "cluster": 13
+      "cluster": 10
     },
     {
       "Id": 1201775882345,
       "Title": "Light scattering from human hair fibers",
-      "cluster": 13
+      "cluster": 10
     },
     {
       "Id": 1201775882357,
       "Title": "Untangling cloth",
-      "cluster": 13
+      "cluster": 10
     },
     {
       "Id": 12758081276419,
       "Title": "Multiscale capture of facial geometry and motion",
-      "cluster": 13
+      "cluster": 10
     },
     {
       "Id": 1275808127642,
       "Title": "Capturing and animating occluded cloth",
-      "cluster": 13
+      "cluster": 10
     },
     {
       "Id": 12758081276438,
       "Title": "Efficient simulation of inextensible cloth",
-      "cluster": 13
+      "cluster": 10
     },
     {
       "Id": 12758081276442,
       "Title": "Postproduction facial performance relighting using reflectance transfernshing and photogra",
-      "cluster": 13
+      "cluster": 10
     },
     {
       "Id": 12758081276473,
       "Title": "The influence of shape on the perception of material reflectance",
-      "cluster": 13
+      "cluster": 10
     },
     {
       "Id": 12758081276484,
       "Title": "Imagebased procedural modeling of facades",
-      "cluster": 13
+      "cluster": 10
     },
     {
       "Id": 12758081276509,
       "Title": "SIMBICONsimple biped locomotion control",
-      "cluster": 13
+      "cluster": 10
     },
     {
       "Id": 13606121360628,
       "Title": "Examplebased dynamic skinning in real time",
-      "cluster": 13
+      "cluster": 10
     },
     {
       "Id": 13606121360637,
       "Title": "Datadriven enhancement of facial attractivenes",
-      "cluster": 13
+      "cluster": 10
     },
     {
       "Id": 13606121360638,
       "Title": "Face swappingautomatically replacing faces in photographs",
-      "cluster": 13
+      "cluster": 10
     },
     {
       "Id": 13606121360641,
       "Title": "Upright orientation of man made objects",
-      "cluster": 13
+      "cluster": 10
     },
     {
       "Id": 13606121360664,
       "Title": "Simulating knitted cloth at the yarn level",
-      "cluster": 13
+      "cluster": 10
     },
     {
       "Id": 13606121360685,
       "Title": "modeling by orthoimage generation from image sequences",
-      "cluster": 13
+      "cluster": 10
     },
     {
       "Id": 136061213607,
       "Title": "Automated generation of interactive D exploded view diagrams",
-      "cluster": 13
+      "cluster": 10
     },
     {
       "Id": 1409060140907,
       "Title": "Animating animal motion from still",
-      "cluster": 13
+      "cluster": 10
     },
     {
       "Id": 14090601409074,
       "Title": "Facial performance synthesis using deformationdriven polynomial displacement maps",
-      "cluster": 13
+      "cluster": 10
     },
     {
       "Id": 14090601409075,
       "Title": "Reusable skinning templates using cagebased deformations",
-      "cluster": 13
+      "cluster": 10
     },
     {
       "Id": 14090601409092,
       "Title": "Practical modeling and acquisition of layered facial reflectance",
-      "cluster": 13
+      "cluster": 10
     },
     {
       "Id": 14090601409112,
       "Title": "Interactive D architectural modeling from unordered photo collectionsreal environments",
-      "cluster": 13
+      "cluster": 10
     },
     {
       "Id": 15762461531333,
       "Title": "Modeling human color perception under extended luminance levels",
-      "cluster": 13
+      "cluster": 10
     },
     {
       "Id": 15762461531363,
       "Title": "Visiolizationgenerating novel facial imagesvariationegular maps",
-      "cluster": 13
+      "cluster": 10
     },
     {
       "Id": 15762461531365,
       "Title": "Dextrous manipulation from a grasping pose ",
-      "cluster": 13
+      "cluster": 10
     },
     {
       "Id": 15762461531366,
       "Title": "Optimal gait and form for animal locomotion",
-      "cluster": 13
+      "cluster": 10
     },
     {
       "Id": 15762461618455,
       "Title": "Continuity mapping for multichart textures",
-      "cluster": 13
+      "cluster": 10
     },
     {
       "Id": 15762461618464,
       "Title": "Efficient affinitybased edit propagation using KD tree",
-      "cluster": 13
+      "cluster": 10
     },
     {
       "Id": 15762461618494,
       "Title": "Structured annotations for D modeling ",
-      "cluster": 13
+      "cluster": 10
     },
     {
       "Id": 15762461618511,
       "Title": "A practical approach for photometric acquisition of hair color",
-      "cluster": 13
+      "cluster": 10
     },
     {
       "Id": 18333491778769,
       "Title": "Examplebased facial rigging",
-      "cluster": 13
+      "cluster": 10
     },
     {
       "Id": 18333491778777,
       "Title": "Highquality singleshot capture of facial geometry",
-      "cluster": 13
+      "cluster": 10
     },
     {
       "Id": 18333491778793,
       "Title": "An artist friendly hair shading system",
-      "cluster": 13
+      "cluster": 10
     },
     {
       "Id": 18333491778812,
       "Title": "Nonlinear disparity mapping for stereoscopic D",
-      "cluster": 13
+      "cluster": 10
     },
     {
       "Id": 18333491778818,
       "Title": "Subspace selfcollision culling",
-      "cluster": 13
+      "cluster": 10
     },
     {
       "Id": 18333491778842,
       "Title": "Efficient yarnbased cloth with adaptive contact linearization",
-      "cluster": 13
+      "cluster": 10
     },
     {
       "Id": 18333491778861,
       "Title": "Gesture controllers",
-      "cluster": 13
+      "cluster": 10
     },
     {
       "Id": 1921611922,
       "Title": "A virtual environment and model of the eye for surgical simulation",
-      "cluster": 13
+      "cluster": 10
     },
     {
       "Id": 192161192259,
       "Title": "Predicting the drape of woven cloth using interacting particles",
-      "cluster": 13
+      "cluster": 10
     },
     {
       "Id": 192161192262,
       "Title": "IRIS performera high performance multiprocessing toolkit for realtime D graphics ",
-      "cluster": 13
+      "cluster": 10
     },
     {
       "Id": 192161192272,
       "Title": "Animated conversationrulebased generation of facial expression",
-      "cluster": 13
+      "cluster": 10
     },
     {
       "Id": 344779344855,
       "Title": "Acquiring the reflectance field of a human face",
-      "cluster": 13
+      "cluster": 10
     },
     {
       "Id": 34477934496,
       "Title": "Tangible interaction  graphical interpretatio new approach to D modelin",
-      "cluster": 13
+      "cluster": 10
     },
     {
       "Id": 344779344964,
       "Title": "Accessible animation and customizable graphics via simplicial configuration modeling to D",
-      "cluster": 13
+      "cluster": 10
     },
     {
       "Id": 344779345073,
       "Title": "Shadows for cel animation",
-      "cluster": 13
+      "cluster": 10
     },
     {
       "Id": 344779345074,
       "Title": "Illustrating smooth surfaces",
-      "cluster": 13
+      "cluster": 10
     },
     {
       "Id": 383259383275,
       "Title": "A realtime procedural shading system for programmable graphics hardwarefor PC clustersbles",
-      "cluster": 13
+      "cluster": 10
     },
     {
       "Id": 38325938328,
       "Title": "Approximate Boolean operations on freeform solids",
-      "cluster": 13
+      "cluster": 10
     },
     {
       "Id": 383259383308,
       "Title": "Constrained texture mapping for polygonal meshes",
-      "cluster": 13
+      "cluster": 10
     },
     {
       "Id": 383259383309,
       "Title": "Unstructured lumigraph rendering",
-      "cluster": 13
+      "cluster": 10
     },
     {
       "Id": 383259383311,
       "Title": "Plenoptic stitchinga scalable method for reconstructing D interactive walk through",
-      "cluster": 13
+      "cluster": 10
     },
     {
       "Id": 383259383317,
       "Title": "An efficient representation for irradiance environment maps",
-      "cluster": 13
+      "cluster": 10
     },
     {
       "Id": 383259383321,
       "Title": "Synthesizing sounds from physically based motion",
-      "cluster": 13
+      "cluster": 10
     },
     {
       "Id": 383259383323,
       "Title": "Modeling acoustics in virtual environments using the uniform theory of diffraction",
-      "cluster": 13
+      "cluster": 10
     },
     {
       "Id": 383259383327,
       "Title": "Simulating decorative mosaics",
-      "cluster": 13
+      "cluster": 10
     },
     {
       "Id": 566570566573,
       "Title": "Gradient domain high dynamic range compression",
-      "cluster": 13
+      "cluster": 10
     },
     {
       "Id": 566570566581,
       "Title": "A procedural approach to authoring solid models",
-      "cluster": 13
+      "cluster": 10
     },
     {
       "Id": 566570566583,
       "Title": "Cutandpaste editing of multiresolution surfaces",
-      "cluster": 13
+      "cluster": 10
     },
     {
       "Id": 566570566592,
       "Title": "Linear combination of transformation",
-      "cluster": 13
+      "cluster": 10
     },
     {
       "Id": 5665705666,
       "Title": "Realtime D model acquisition",
-      "cluster": 13
+      "cluster": 10
     },
     {
       "Id": 566570566608,
       "Title": "Motion capture assisted animationtexturing and synthesis motion sy",
-      "cluster": 13
+      "cluster": 10
     },
     {
       "Id": 566570566624,
       "Title": "Stable but responsive cloth",
-      "cluster": 13
+      "cluster": 10
     },
     {
       "Id": 566570566627,
       "Title": "Interactive multiresolution hair modeling and editing",
-      "cluster": 13
+      "cluster": 10
     },
     {
       "Id": 566570566628,
       "Title": "Modeling and rendering of realistic feathers ",
-      "cluster": 13
+      "cluster": 10
     },
     {
       "Id": 566570566644,
       "Title": "Structural modeling of flames for a production environment",
-      "cluster": 13
+      "cluster": 10
     },
     {
       "Id": 566570566645,
       "Title": "Animation and rendering of complex water surfaces",
-      "cluster": 13
+      "cluster": 10
     },
     {
       "Id": 9787997898,
       "Title": "Rapid controlled movement through a virtual D workspace",
-      "cluster": 13
+      "cluster": 10
     },
     {
       "Id": 9787997906,
       "Title": "Performancedriven facial animation",
-      "cluster": 13
+      "cluster": 10
     },
     {
       "Id": 11793521141913,
       "Title": "Ray tracing animated scenes using coherent grid traversal",
-      "cluster": 14
+      "cluster": 5
     },
     {
       "Id": 11793521141931,
       "Title": "Procedural modeling of buildings",
-      "cluster": 14
+      "cluster": 5
     },
     {
       "Id": 11793521141976,
       "Title": "Light field microscopy",
-      "cluster": 14
+      "cluster": 5
     },
     {
       "Id": 11865621015723,
       "Title": "Volumetric illustrationdesigning D models with internal texturesut",
-      "cluster": 14
+      "cluster": 5
     },
     {
       "Id": 11865621015738,
       "Title": "RFIG lampsinteracting with a selfdescribing world via photosensing wireless tags and projectors",
-      "cluster": 14
+      "cluster": 5
     },
     {
       "Id": 1186562101574,
       "Title": "Motion doodlesan interface for sketching character motionesosensing",
-      "cluster": 14
+      "cluster": 5
     },
     {
       "Id": 11865621015772,
       "Title": "An intuitive framework for realtime freeform modeling",
-      "cluster": 14
+      "cluster": 5
     },
     {
       "Id": 11865621015807,
       "Title": "DISCOacquisition of translucent objects",
-      "cluster": 14
+      "cluster": 5
     },
     {
       "Id": 11868221073217,
       "Title": "Linear rotationinvariant coordinates for meshes",
-      "cluster": 14
+      "cluster": 5
     },
     {
       "Id": 11868221073218,
       "Title": "Meshbased inverse kinematics",
-      "cluster": 14
+      "cluster": 10
     },
     {
       "Id": 11868221073219,
       "Title": "Large mesh deformation using the volumetric graph Laplacian",
-      "cluster": 14
+      "cluster": 10
     },
     {
       "Id": 11868221073248,
       "Title": "Performance animation from low dimensional control signals",
-      "cluster": 14
+      "cluster": 5
     },
     {
       "Id": 11868221073249,
       "Title": "Dynamic response for motion capture animation",
-      "cluster": 14
+      "cluster": 5
     },
     {
       "Id": 11868221073258,
       "Title": "Performance relighting and reflectance transformation with timemultiplexed illuminationing",
-      "cluster": 14
+      "cluster": 5
     },
     {
       "Id": 11868221073273,
       "Title": "Animating pictures with stochastic motion textures",
-      "cluster": 14
+      "cluster": 5
     },
     {
       "Id": 1186822107332,
       "Title": "A frequency analysis of light transport",
-      "cluster": 14
+      "cluster": 5
     },
     {
       "Id": 1201775882283,
       "Title": "Rhythmicmotion synthesis based on motionbeat analysis",
-      "cluster": 14
+      "cluster": 5
     },
     {
       "Id": 1201775882284,
       "Title": "Motion synthesis from annotation",
-      "cluster": 14
+      "cluster": 5
     },
     {
       "Id": 1201775882285,
       "Title": "Layered acting for character animation",
-      "cluster": 14
+      "cluster": 5
     },
     {
       "Id": 1201775882294,
       "Title": "Progressive encoding of complex isosurfaces",
-      "cluster": 14
+      "cluster": 5
     },
     {
       "Id": 1201775882304,
       "Title": "Perceptual metrics for character animationsensitivity to errors in ballistic motion",
-      "cluster": 14
+      "cluster": 5
     },
     {
       "Id": 1201775882329,
       "Title": "Boom chameleonsimultaneous capture of D viewpoint",
-      "cluster": 14
+      "cluster": 5
     },
     {
       "Id": 1201775882358,
       "Title": "Nonconvex rigid bodies with stacking",
-      "cluster": 14
+      "cluster": 5
     },
     {
       "Id": 122718122719,
       "Title": "Animation aerodynamics",
-      "cluster": 14
+      "cluster": 5
     },
     {
       "Id": 122718122722,
       "Title": "Coping with friction for nonpenetrating rigid body simulation",
-      "cluster": 14
+      "cluster": 5
     },
     {
       "Id": 122718122757,
       "Title": "Convolution surfaces",
-      "cluster": 14
+      "cluster": 5
     },
     {
       "Id": 12758081276386,
       "Title": "Nearoptimal character animation with continuous control",
-      "cluster": 14
+      "cluster": 5
     },
     {
       "Id": 12758081276394,
       "Title": "Volume conserving finite element simulations of deformable models",
-      "cluster": 14
+      "cluster": 5
     },
     {
       "Id": 12758081276395,
       "Title": "Manyworlds browsing for control of multibody dynamics",
-      "cluster": 14
+      "cluster": 5
     },
     {
       "Id": 12758081276412,
       "Title": "Frequency domain normal map filtering",
-      "cluster": 14
+      "cluster": 5
     },
     {
       "Id": 12758081276448,
       "Title": "Isosurface stuffinfast tetrahedral meshes with good dihedral angles",
-      "cluster": 14
+      "cluster": 5
     },
     {
       "Id": 12758081276453,
       "Title": "Implicit visibility and antiradiance for interactive global illumination theory",
-      "cluster": 14
+      "cluster": 5
     },
     {
       "Id": 12758081276466,
       "Title": "Harmonic coordinates for character articulation",
-      "cluster": 14
+      "cluster": 5
     },
     {
       "Id": 12758081276467,
       "Title": "Automatic rigging and animation of D characters",
-      "cluster": 14
+      "cluster": 5
     },
     {
       "Id": 12758081276475,
       "Title": "Sampling with polyominoes ",
-      "cluster": 14
+      "cluster": 5
     },
     {
       "Id": 1275808127649,
       "Title": "A hardware architecture for surface splatting ",
-      "cluster": 14
+      "cluster": 5
     },
     {
       "Id": 127580812765,
       "Title": "Simulation of bubbles in foam with the volume control method",
-      "cluster": 14
+      "cluster": 5
     },
     {
       "Id": 12758081276511,
       "Title": "Simulating biped behaviors from human motion data",
-      "cluster": 14
+      "cluster": 5
     },
     {
       "Id": 1360612136063,
       "Title": "Efficient multiple scattering in hair using spherical harmonics",
-      "cluster": 14
+      "cluster": 5
     },
     {
       "Id": 13606121360634,
       "Title": "Interactive relighting of dynamic refractive objects",
-      "cluster": 14
+      "cluster": 5
     },
     {
       "Id": 13606121360658,
       "Title": "A perceptually validated model for surface depth hallucination",
-      "cluster": 14
+      "cluster": 5
     },
     {
       "Id": 13606121360672,
       "Title": "Highquality motion deblurring from a single image",
-      "cluster": 14
+      "cluster": 5
     },
     {
       "Id": 13606121360679,
       "Title": "Group motion editing",
-      "cluster": 14
+      "cluster": 5
     },
     {
       "Id": 1360612136068,
       "Title": "Continuation methods for adapting simulated skills",
-      "cluster": 14
+      "cluster": 5
     },
     {
       "Id": 14090601409067,
       "Title": "Interaction patches for multcharacter animation",
-      "cluster": 14
+      "cluster": 5
     },
     {
       "Id": 14090601409076,
       "Title": "Accelerometerbased user interfaces for the control of a physically simulated character",
-      "cluster": 14
+      "cluster": 5
     },
     {
       "Id": 14090601409087,
       "Title": "Extracting depth and matte using a colorfiltered aperture",
-      "cluster": 14
+      "cluster": 5
     },
     {
       "Id": 14090601409102,
       "Title": "A virtual restoration stage for realworld objects",
-      "cluster": 14
+      "cluster": 5
     },
     {
       "Id": 14090601409111,
       "Title": "Continuous model synthesis ",
-      "cluster": 14
+      "cluster": 5
     },
     {
       "Id": 14090601409116,
       "Title": "Realtime control of physically based simulations using gentle forcessreal environment",
-      "cluster": 14
+      "cluster": 5
     },
     {
       "Id": 15762461531331,
       "Title": "Light warping for enhanced surface depiction ",
-      "cluster": 14
+      "cluster": 5
     },
     {
       "Id": 15762461531357,
       "Title": "Numerical coarsening of inhomogeneous elastic materials",
-      "cluster": 14
+      "cluster": 5
     },
     {
       "Id": 15762461531367,
       "Title": "Performancebased control interface for character animation",
-      "cluster": 14
+      "cluster": 5
     },
     {
       "Id": 15762461531368,
       "Title": "Detail preserving continuum simulation of straight hair",
-      "cluster": 14
+      "cluster": 5
     },
     {
       "Id": 15762461531378,
       "Title": "Ms voting for surface correspondence ",
-      "cluster": 14
+      "cluster": 5
     },
     {
       "Id": 15762461531387,
       "Title": "Contactware nonlinear control of dynamic characters",
-      "cluster": 14
+      "cluster": 5
     },
     {
       "Id": 15762461531388,
       "Title": "Linear Bellman combination for control of character animatio",
-      "cluster": 14
+      "cluster": 5
     },
     {
       "Id": 15762461531394,
       "Title": "Interactive simulation of surgical needle insertion",
-      "cluster": 14
+      "cluster": 5
     },
     {
       "Id": 15762461618481,
       "Title": "Amortized supersampling",
-      "cluster": 14
+      "cluster": 5
     },
     {
       "Id": 15762461618486,
       "Title": "Adaptive wavelet rendering ",
-      "cluster": 14
+      "cluster": 5
     },
     {
       "Id": 15762461618489,
       "Title": "Virtual spherical lights for manylight rendering of glossy scenes",
-      "cluster": 14
+      "cluster": 5
     },
     {
       "Id": 15762461618515,
       "Title": "Compact character controllers",
-      "cluster": 14
+      "cluster": 5
     },
     {
       "Id": 15762461618516,
       "Title": "Robust taskbased control policies for physicsbased characters",
-      "cluster": 14
+      "cluster": 5
     },
     {
       "Id": 15762461618522,
       "Title": "Consolidation of unorganized point clouds for surface reconstructionnsteraction using light",
-      "cluster": 14
+      "cluster": 5
     },
     {
       "Id": 1833349177877,
       "Title": "Spatial relationship preserving character motion adaptation",
-      "cluster": 14
+      "cluster": 5
     },
     {
       "Id": 11865621015711,
       "Title": "Geodesic patterns",
-      "cluster": 14
+      "cluster": 5
     },
     {
       "Id": 18333491778786,
       "Title": "Dynamic local remeshing for elastoplastic simulation",
-      "cluster": 14
+      "cluster": 5
     },
     {
       "Id": 18333491778798,
       "Title": "Physical reproduction of materials with specified subsurface scattering structure monocular",
-      "cluster": 14
+      "cluster": 5
     },
     {
       "Id": 18333491778807,
       "Title": "A practical simulation of dispersed bubble flow",
-      "cluster": 14
+      "cluster": 5
     },
     {
       "Id": 18333491778811,
       "Title": "Optimal feedback control for character animation using an abstract modelources in complex",
-      "cluster": 14
+      "cluster": 5
     },
     {
       "Id": 18333491778831,
       "Title": "Nonlocal scan consolidation for D urban scenes",
-      "cluster": 14
+      "cluster": 5
     },
     {
       "Id": 18333491778834,
       "Title": "Acquisition and analysis of bispectral bidirectional reflectance and reradiation distribution",
-      "cluster": 14
+      "cluster": 5
     },
     {
       "Id": 18333491778844,
       "Title": "Examplebased wrinkle synthesis for clothing animation",
-      "cluster": 14
+      "cluster": 5
     },
     {
       "Id": 18333491781157,
       "Title": "Featurebased locomotion controller",
-      "cluster": 14
+      "cluster": 5
     },
     {
       "Id": 192161192256,
       "Title": "Visual simulation of lightning",
-      "cluster": 14
+      "cluster": 5
     },
     {
       "Id": 192161192283,
       "Title": "Fast volume rendering using a shearwarp factorization of the viewing transformation",
-      "cluster": 14
+      "cluster": 5
     },
     {
       "Id": 344779344866,
       "Title": "Timewarp rigid body simulation",
-      "cluster": 14
+      "cluster": 5
     },
     {
       "Id": 344779344876,
       "Title": "Interactive control for physicallybased animation",
-      "cluster": 14
+      "cluster": 5
     },
     {
       "Id": 344779344936,
       "Title": "Surfelssurface elements as rendering primitivesrtiestation of shape",
-      "cluster": 14
+      "cluster": 5
     },
     {
       "Id": 383259383264,
       "Title": "Kizamua system for sculpting digital characters",
-      "cluster": 14
+      "cluster": 5
     },
     {
       "Id": 383259383287,
       "Title": "Composable controllers for physicsbased character animation",
-      "cluster": 14
+      "cluster": 5
     },
     {
       "Id": 383259383322,
       "Title": "FoleyAutomaticphysicallybased sound effects for interactive simulation and animation",
-      "cluster": 14
+      "cluster": 5
     },
     {
       "Id": 383259383325,
       "Title": "Imagebased motion blur for stop motion animation",
-      "cluster": 14
+      "cluster": 5
     },
     {
       "Id": 566570566643,
       "Title": "Physically based modeling and animation of fire",
-      "cluster": 14
+      "cluster": 5
     },
     {
       "Id": 9787956565,
       "Title": "Fast animation and control of nonrigid structures",
-      "cluster": 14
+      "cluster": 5
     },
     {
       "Id": 9787997881,
       "Title": "Curved surfaces and coherence for nonpenetrating rigid body simulation",
-      "cluster": 14
+      "cluster": 5
     },
     {
       "Id": 9787997904,
       "Title": "Reusable motion synthesis using statespace controllers",
-      "cluster": 14
+      "cluster": 5
     },
     {
       "Id": 9787997914,
       "Title": "High speed high quality antialiased vector generation",
-      "cluster": 14
+      "cluster":5
     },
     {
       "Id": 9787997922,
       "Title": "A lighting model aiming at drive simulators",
-      "cluster": 14
+      "cluster": 5
     },
     {
       "Id": 9787997923,
       "Title": "Particle animation and rendering using data parallel computation",
-      "cluster": 14
+      "cluster": 5
     },
     {
       "Id": 118656210158,
       "Title": "Brook for GPUstream computing on graphics hardwareular grids",
-      "cluster": 15
+      "cluster": 11
     },
     {
       "Id": 11868221073228,
       "Title": "Fast exact and approximate geodesics on meshes ",
-      "cluster": 15
+      "cluster": 11
     },
     {
       "Id": 11868221073304,
       "Title": "A realtime GPU subdivision kerne",
-      "cluster": 15
+      "cluster": 11
     },
     {
       "Id": 11868221073327,
       "Title": "Soft shadow volumes for ray tracing",
-      "cluster": 15
+      "cluster": 11
     },
     {
       "Id": 1201775882289,
       "Title": "Improving midtone quality of variablecoefficient error diffusion using threshold modulatio",
-      "cluster": 15
+      "cluster": 11
     },
     {
       "Id": 1201775882295,
       "Title": "Tsplines and TNURCC",
-      "cluster": 15
+      "cluster": 11
     },
     {
       "Id": 1201775882333,
       "Title": "Snaptogether motionassembling runtime animationstsvoice and gestu",
-      "cluster": 15
+      "cluster": 11
     },
     {
       "Id": 1201775882341,
       "Title": "Measuring bidirectional texture reflectance with a kaleidoscope",
-      "cluster": 15
+      "cluster": 11
     },
     {
       "Id": 1201775882348,
       "Title": "Graphics for the massesa hardware rasterization architecture for mobile phones",
-      "cluster": 15
+      "cluster": 11
     },
     {
       "Id": 1201775882353,
       "Title": "Adaptive gridbased document layou",
-      "cluster": 15
+      "cluster": 11
     },
     {
       "Id": 1201775882355,
       "Title": "Coherent stylized silhouettes",
-      "cluster": 15
+      "cluster": 11
     },
     {
       "Id": 1201775882362,
       "Title": "Cga system for programming graphics hardware in a Clike languagere",
-      "cluster": 15
+      "cluster": 11
     },
     {
       "Id": 1201775882364,
       "Title": "Sparse matrix solvers on the GPUconjugate gradients and multigridre",
-      "cluster": 15
+      "cluster": 11
     },
     {
       "Id": 12758081276405,
       "Title": "Parameterizationfree projection for geometry reconstruction",
-      "cluster": 15
+      "cluster": 11
     },
     {
       "Id": 12758081276407,
       "Title": "Direct visibility of point sets",
-      "cluster": 15
+      "cluster": 11
     },
     {
       "Id": 12758081276425,
       "Title": "Do HDR displays support LDR contenta psychophysical evaluation and",
-      "cluster": 15
+      "cluster": 11
     },
     {
       "Id": 12758081276444,
       "Title": "AppWandediting measured materials using appearancedriven optimizatio",
-      "cluster": 15
+      "cluster": 11
     },
     {
       "Id": 13606121360623,
       "Title": "Fast modal sounds with scalable frequencydomain synthesis",
-      "cluster": 15
+      "cluster": 11
     },
     {
       "Id": 13606121360627,
       "Title": "Animating oscillatory motion with overlap",
-      "cluster": 15
+      "cluster": 11
     },
     {
       "Id": 11868221073303,
       "Title": "Resolution independent curve rendering using programmable graphics hardwareecomposition exp",
-      "cluster": 15
+      "cluster": 11
     },
     {
       "Id": 13606121360666,
       "Title": "Edgepreserving decompositions for multi tone and detail manipulation asymmetric patt",
-      "cluster": 15
+      "cluster": 11
     },
     {
       "Id": 13606121360678,
       "Title": "Watertight trimmed NURB",
-      "cluster": 15
+      "cluster": 11
     },
     {
       "Id": 13606121360689,
       "Title": "D unsharp masking for scene coherent enhancement",
-      "cluster": 15
+      "cluster": 11
     },
     {
       "Id": 14090601409079,
       "Title": "Realtime Ktree construction on graphics hardwarea",
-      "cluster": 15
+      "cluster": 11
     },
     {
       "Id": 15762461531353,
       "Title": "Direct trimming of NURBS surfaces on the GPU ",
-      "cluster": 15
+      "cluster": 11
     },
     {
       "Id": 15762461531369,
       "Title": "Realtime handtracking with a color glove ",
-      "cluster": 15
+      "cluster": 11
     },
     {
       "Id": 15762461531397,
       "Title": "An efficient GPUbased approach for interactive global illumination",
-      "cluster": 15
+      "cluster": 11
     },
     {
       "Id": 15762461618465,
       "Title": "Harmonic shella practical nonlinear sound model for nearrigid thin shells",
-      "cluster": 15
+      "cluster": 11
     },
     {
       "Id": 15762461618485,
       "Title": "Packing circles and spheres on surfaces",
-      "cluster": 15
+      "cluster": 11
     },
     {
       "Id": 15762461618497,
       "Title": "Approximating subdivision surfaces with Gregory patches for hardware tessellationmicropolyg",
-      "cluster": 15
+      "cluster": 11
     },
     {
       "Id": 18333491778805,
       "Title": "Precomputed wave simulation for realtime sound propagation of dynamic sources in complex scenes",
-      "cluster": 15
+      "cluster": 11
     },
     {
       "Id": 18333491778849,
       "Title": "Effects of global illumination approximations on material appearanceodelssurface reflectanc",
-      "cluster": 15
+      "cluster": 11
     },
     {
       "Id": 192161192176,
       "Title": "Bounds and error estimates for radiosity",
-      "cluster": 15
+      "cluster": 11
     },
     {
       "Id": 192161192193,
       "Title": "Reflection vector shading hardware",
-      "cluster": 15
+      "cluster": 11
     },
     {
       "Id": 192161192196,
       "Title": "Hardware accelerated rendering of CSG and transparency",
-      "cluster": 15
+      "cluster": 11
     },
     {
       "Id": 192161192261,
       "Title": "Method of displaying optical effects within water using accumulation bufferstionsoning text",
-      "cluster": 15
+      "cluster": 11
     },
     {
       "Id": 344779344809,
       "Title": "Computer modelling of fallen snow",
-      "cluster": 15
+      "cluster": 11
     },
     {
       "Id": 344779344938,
       "Title": "A fast relighting engine for interactive cinematic lighting design",
-      "cluster": 15
+      "cluster": 11
     },
     {
       "Id": 9787997913,
       "Title": "The accumulation buffer hardware support for highquality renderingmodeling with compact",
-      "cluster": 15
+      "cluster": 11
     },
     {
       "Id": 11793521141939,
       "Title": "Real  time GPU rendering of piecewise algebraic surfaces",
-      "cluster": 16
+      "cluster": 11
     },
     {
       "Id": 1186562101571,
       "Title": "Perceptual audio rendering of complex virtual environments",
-      "cluster": 16
+      "cluster": 11
     },
     {
       "Id": 11865621015716,
       "Title": "Energyminimizing splines in manifolds",
-      "cluster": 16
+      "cluster": 11
     },
     {
       "Id": 11865621015748,
       "Title": "An approximate global illumination system for computer generated filmsnd exploration of mat",
-      "cluster": 16
+      "cluster": 11
     },
     {
       "Id": 11865621015774,
       "Title": "Mesh editing with poissonbased gradient field manipulation",
-      "cluster": 16
+      "cluster": 11
     },
     {
       "Id": 11865621015788,
       "Title": "VisionWand interaction techniques for large displays using a passive wand tracked in D",
-      "cluster": 16
+      "cluster": 11
     },
     {
       "Id": 11865621015805,
       "Title": "a scalable system for realtime acquisition",
-      "cluster": 16
+      "cluster": 11
     },
     {
       "Id": 11868221073211,
       "Title": "RPU a programmable ray processing unit for realtime ray tracing data",
-      "cluster": 16
+      "cluster": 11
     },
     {
       "Id": 11868221073227,
       "Title": "Robust moving least squares fitting with sharp features",
-      "cluster": 16
+      "cluster": 11
     },
     {
       "Id": 11868221073305,
       "Title": "GPUbased trimming and tessellation of NURBS and TSpline surfaces",
-      "cluster": 16
+      "cluster": 11
     },
     {
       "Id": 11868221073306,
       "Title": "Blister GPU based rendering of Boolean combinations of free form triangulated shapes",
-      "cluster": 16
+      "cluster": 11
     },
     {
       "Id": 1201775882305,
       "Title": "Sensation preserving simplification for haptic rendering",
-      "cluster": 16
+      "cluster": 11
     },
     {
       "Id": 1201775882313,
       "Title": "Ray space factorization for fromregion visibility",
-      "cluster": 16
+      "cluster": 11
     },
     {
       "Id": 1201775882316,
       "Title": "Accurate light source acquisition and rendering",
-      "cluster": 16
+      "cluster": 11
     },
     {
       "Id": 1201775882363,
       "Title": "Linear algebra operators for GPU implementation of numerical algorithms a Clike language",
-      "cluster": 16
+      "cluster": 11
     },
     {
       "Id": 122718122728,
       "Title": "Efficient antialiased rendering of D linear fractals",
-      "cluster": 16
+      "cluster": 11
     },
     {
       "Id": 122718122748,
       "Title": "Hierarchical splatting a progressive refinement algorithm for volume rendering",
-      "cluster": 16
+      "cluster": 11
     },
     {
       "Id": 12758081276409,
       "Title": "The lightspeed automatic interactive lighting preview system",
-      "cluster": 16
+      "cluster": 11
     },
     {
       "Id": 12758081276415,
       "Title": "Dynamic planar map illustration",
-      "cluster": 16
+      "cluster": 11
     },
     {
       "Id": 12758081276426,
       "Title": "LdrHdronthefly reverse tone mapping of legacy video and photograph",
-      "cluster": 16
+      "cluster": 11
     },
     {
       "Id": 12758081276427,
       "Title": "Rendering for an interactive  light field display",
-      "cluster": 16
+      "cluster": 11
     },
     {
       "Id": 12758081276491,
       "Title": "Direct manipulation of subdivision surfaces on GPU",
-      "cluster": 16
+      "cluster": 11
     },
     {
       "Id": 1275808127651,
       "Title": "Construction and optimal search of interpolated motion graph",
-      "cluster": 16
+      "cluster": 11
     },
     {
       "Id": 13606121360618,
       "Title": "BSGPbulksynchronous GPU programming",
-      "cluster": 16
+      "cluster": 11
     },
     {
       "Id": 13606121360632,
       "Title": "Multidimensional adaptive sampling and reconstruction for ray tracingisition of real hairst",
-      "cluster": 16
+      "cluster": 11
     },
     {
       "Id": 13606121360635,
       "Title": "Realtime smoke rendering using compensated ray marching",
-      "cluster": 16
+      "cluster": 11
     },
     {
       "Id": 13606121360653,
       "Title": "Anisotropic noise",
-      "cluster": 16
+      "cluster": 11
     },
     {
       "Id": 13606121360669,
       "Title": "Light mixture estimation for spatially varying white balance",
-      "cluster": 16
+      "cluster": 11
     },
     {
       "Id": 14090601409107,
       "Title": "Adaptive cutaways for comprehensible rendering of polygonal scenes",
-      "cluster": 16
+      "cluster": 11
     },
     {
       "Id": 15762461531332,
       "Title": "Toward evaluating lighting design interface paradigms for novice usersm for structural imag",
-      "cluster": 16
+      "cluster": 11
     },
     {
       "Id": 15762461531391,
       "Title": "Automatic and topologypreserving gradient mesh generation for image vectorizationron mesh",
-      "cluster": 16
+      "cluster": 11
     },
     {
       "Id": 15762461531399,
       "Title": "Frequency analysis and sheared reconstruction for rendering motion blurnt of Lloyds method",
-      "cluster": 16
+      "cluster": 11
     },
     {
       "Id": 15762461618462,
       "Title": "A GPU Laplacian solver for diffusion curves and Poisson image editingignmentol maps for non",
-      "cluster": 16
+      "cluster": 11
     },
     {
       "Id": 15762461618463,
       "Title": "Rendering surface details with diffusion curves",
-      "cluster": 16
+      "cluster": 11
     },
     {
       "Id": 15762461618478,
       "Title": "Microrendering for scalable",
-      "cluster": 16
+      "cluster": 11
     },
     {
       "Id": 1576246161848,
       "Title": "Depthoffield rendering with multiview synthesis",
-      "cluster": 16
+      "cluster": 11
     },
     {
       "Id": 15762461618498,
       "Title": "Ray casting of multiple volumetric datasets with polyhedral boundaries on manycore GPUsolyg",
-      "cluster": 16
+      "cluster": 11
     },
     {
       "Id": 15762461618499,
       "Title": "Debugging GPU stream programs through automatic dataflow recording and visualizationPUsolyg",
-      "cluster": 16
+      "cluster": 11
     },
     {
       "Id": 15762461618501,
       "Title": "RenderAntinteractive Reyes rendering on GPUs visualization",
-      "cluster": 16
+      "cluster": 11
     },
     {
       "Id": 192161192173,
       "Title": "Errorbounded antialiased rendering of complex environments",
-      "cluster": 16
+      "cluster": 11
     },
     {
       "Id": 192161192192,
       "Title": "Priority rendering with a virtual reality address recalculation pipelinetal halftoning text",
-      "cluster": 16
+      "cluster": 11
     },
     {
       "Id": 192161192195,
       "Title": "Frameless renderingdouble buffering considered harmfullftoning text",
-      "cluster": 16
+      "cluster": 11
     },
     {
       "Id": 192161192204,
       "Title": "Polarization and birefringency considerations in rendering",
-      "cluster": 16
+      "cluster": 11
     },
     {
       "Id": 192161192277,
       "Title": "A clustering algorithm for radiosity in complex environments",
-      "cluster": 16
+      "cluster": 11
     },
     {
       "Id": 192161192279,
       "Title": "Partitioning and ordering large radiosity computations",
-      "cluster": 16
+      "cluster": 11
     },
     {
       "Id": 192161192286,
       "Title": "The RADIANCE lighting simulation and rendering system",
-      "cluster": 16
+      "cluster": 11
     },
     {
       "Id": 344779344886,
       "Title": "Conservative volumetric visibility with occluder fusion",
-      "cluster": 16
+      "cluster": 11
     },
     {
       "Id": 344779344932,
       "Title": "Plenoptic sampling",
-      "cluster": 16
+      "cluster": 11
     },
     {
       "Id": 34477934494,
       "Title": "QSplata multiresolution point rendering system for large mesheshape",
-      "cluster": 16
+      "cluster": 11
     },
     {
       "Id": 344779344954,
       "Title": "Efficient imagebased methods for rendering soft shadows",
-      "cluster": 16
+      "cluster": 11
     },
     {
       "Id": 344779344976,
       "Title": "Interactive multipass programmable shading",
-      "cluster": 16
+      "cluster": 11
     },
     {
       "Id": 566570566612,
       "Title": "Precomputed radiance transfer for realtime rendering in dynamic",
-      "cluster": 16
+      "cluster": 11
     },
     {
       "Id": 566570566619,
       "Title": "A rapid hierarchical rendering technique for translucent materials",
-      "cluster": 16
+      "cluster": 11
     },
     {
       "Id": 566570566648,
       "Title": "WYSIWYG NPRdrawing strokes directly on D modelsctive rendering on",
-      "cluster": 16
+      "cluster": 11
     },
     {
       "Id": 9787997887,
       "Title": "Rendering CSG models with a ZZbuffer",
-      "cluster": 16
+      "cluster": 11
     },
     {
       "Id": 9787997894,
       "Title": "Incremental radiosity an extension of progressive radiosity to an interactive image synthesis system",
-      "cluster": 16
+      "cluster": 11
     },
     {
       "Id": 9787997895,
       "Title": "Adaptive radiosity textures for bidirectional ray tracing",
-      "cluster": 16
+      "cluster": 11
     },
     {
       "Id": 9787997901,
       "Title": "Comprehensible rendering of D shapes",
-      "cluster": 16
+      "cluster": 11
     },
     {
       "Id": 9787997908,
       "Title": "Accurate rendering technique based on colorimetric conception",
-      "cluster": 16
+      "cluster": 11
     },
     {
       "Id": 9787997912,
       "Title": "The rendering architecture of the DN",
-      "cluster": 16
+      "cluster": 11
     },
     {
       "Id": 9787997919,
       "Title": "Footprint evaluation for volume rendering ",
-      "cluster": 16
+      "cluster": 11
     },
     {
       "Id": 11793521141916,
       "Title": "Recursive Wang tiles for real time blue noise ",
-      "cluster": 17
+      "cluster": 12
     },
     {
       "Id": 11793521141921,
       "Title": "Appearancespace texture synthesi",
-      "cluster": 17
+      "cluster": 12
     },
     {
       "Id": 11793521141933,
       "Title": "Color harmonization",
-      "cluster": 17
+      "cluster": 12
     },
     {
       "Id": 11793521141942,
       "Title": "Mesh quilting for geometric texture synthesis",
-      "cluster": 17
+      "cluster": 12
     },
     {
       "Id": 11793521141944,
       "Title": "High dynamic range texture compression for graphics hardware",
-      "cluster": 17
+      "cluster": 12
     },
     {
       "Id": 11793521141945,
       "Title": "High dynamic range texture compression",
-      "cluster": 17
+      "cluster": 12
     },
     {
       "Id": 11793521141952,
       "Title": "Timevarying surface appearancacquisition",
-      "cluster": 17
+      "cluster": 12
     },
     {
       "Id": 11793521141956,
       "Title": "Removing camera shake from a single photograph",
-      "cluster": 17
+      "cluster": 12
     },
     {
       "Id": 11793521141957,
       "Title": "Coded exposure photographymotion deblurring using fluttered shutter",
-      "cluster": 17
+      "cluster": 12
     },
     {
       "Id": 11793521141969,
       "Title": "Interaction capture and synthesi",
-      "cluster": 17
+      "cluster": 12
     },
     {
       "Id": 11865621015708,
       "Title": "Graphics gems revisited:&nbsp;fast and physically based rendering of gemstone",
-      "cluster": 17
+      "cluster": 12
     },
     {
       "Id": 11865621015724,
       "Title": "Stereological techniques for solid textures",
-      "cluster": 17
+      "cluster": 12
     },
     {
       "Id": 11865621015728,
       "Title": "Textureshoptexture synthesis as a photograph editing tooltexturesut",
-      "cluster": 17
+      "cluster": 12
     },
     {
       "Id": 11865621015731,
       "Title": "Nearregular texture analysis and manipulation",
-      "cluster": 17
+      "cluster": 12
     },
     {
       "Id": 11868221073252,
       "Title": "Realtime rendering of plant leaves",
-      "cluster": 17
+      "cluster": 12
     },
     {
       "Id": 11868221073259,
       "Title": "High performance imaging using large camera arrays",
-      "cluster": 17
+      "cluster": 12
     },
     {
       "Id": 11868221073261,
       "Title": "Parallel controllable texture synthesis",
-      "cluster": 17
+      "cluster": 12
     },
     {
       "Id": 11868221073262,
       "Title": "Texture design using a simplicial complex of morphable textures",
-      "cluster": 17
+      "cluster": 12
     },
     {
       "Id": 11868221073263,
       "Title": "Texture optimization for examplebased synthesis",
-      "cluster": 17
+      "cluster": 12
     },
     {
       "Id": 1186822107331,
       "Title": "An approximate imagespace approach for interactive refraction",
-      "cluster": 17
+      "cluster": 12
     },
     {
       "Id": 11868221073325,
       "Title": "TextureMontage",
-      "cluster": 17
+      "cluster": 12
     },
     {
       "Id": 11868221073334,
       "Title": "Precomputed local radiance transfer for realtime lighting design",
-      "cluster": 17
+      "cluster": 12
     },
     {
       "Id": 1201775882271,
       "Title": "Matchmakerconstructing constrained texture mapsg graph cuts",
-      "cluster": 17
+      "cluster": 12
     },
     {
       "Id": 120177588229,
       "Title": "Discrete multiscale vector field decomposition\u001e",
-      "cluster": 17
+      "cluster": 12
     },
     {
       "Id": 1201775882325,
       "Title": "Simplifying complex environments using incremental textured depth meshesediting of D shape",
-      "cluster": 17
+      "cluster": 12
     },
     {
       "Id": 1201775882332,
       "Title": "Incorporating dynamic real objects into immersive virtual environmentsnmentsvoice and gestu",
-      "cluster": 17
+      "cluster": 12
     },
     {
       "Id": 1201775882344,
       "Title": "Imagebased skin color and texture analysissynthesis by extracting hemoglobin and melanin information in the skin",
-      "cluster": 17
+      "cluster": 12
     },
     {
       "Id": 122718122744,
       "Title": "Piecewise surface flattening for nondistorted texture mapping",
-      "cluster": 17
+      "cluster": 12
     },
     {
       "Id": 122718122749,
       "Title": "Generating textures on arbitrary surfaces using reactiondiffusion",
-      "cluster": 17
+      "cluster": 12
     },
     {
       "Id": 1275808127638,
       "Title": "Solid texture synthesis from",
-      "cluster": 17
+      "cluster": 12
     },
     {
       "Id": 12758081276414,
       "Title": "Imageguided maze construction",
-      "cluster": 17
+      "cluster": 12
     },
     {
       "Id": 12758081276443,
       "Title": "Interactive editing and modeling of bidirectional texture functions",
-      "cluster": 17
+      "cluster": 12
     },
     {
       "Id": 12758081276464,
       "Title": "Image and depth from a conventional camera with a coded aperture",
-      "cluster": 17
+      "cluster": 12
     },
     {
       "Id": 12758081276494,
       "Title": "Capturing and viewing gigapixel image",
-      "cluster": 17
+      "cluster": 12
     },
     {
       "Id": 12758081276506,
       "Title": "Realtime edgeaware image processing with the bilateral grid",
-      "cluster": 17
+      "cluster": 12
     },
     {
       "Id": 12758081276507,
       "Title": "Video watercolorization using bidirectional texture advection",
-      "cluster": 17
+      "cluster": 12
     },
     {
       "Id": 1360612136062,
       "Title": "Streaming multigrid for gradientdomain operations on large images",
-      "cluster": 17
+      "cluster": 12
     },
     {
       "Id": 13606121360633,
       "Title": "Realtime",
-      "cluster": 17
+      "cluster": 12
     },
     {
       "Id": 1360612136065,
       "Title": "Multiscale texture synthesis",
-      "cluster": 17
+      "cluster": 12
     },
     {
       "Id": 13606121360651,
       "Title": "Inverse texture synthesis",
-      "cluster": 17
+      "cluster": 12
     },
     {
       "Id": 13606121360661,
       "Title": "Selfanimating imagesillusory motion using repeated asymmetric patter",
-      "cluster": 17
+      "cluster": 12
     },
     {
       "Id": 13606121360671,
       "Title": "Single image dehazing",
-      "cluster": 17
+      "cluster": 12
     },
     {
       "Id": 14090601409071,
       "Title": "Optimized scaleandstretch for image resizing",
-      "cluster": 17
+      "cluster": 12
     },
     {
       "Id": 14090601409089,
       "Title": "Texture amendmentreducing texture distortion in constrained parameterization",
-      "cluster": 17
+      "cluster": 12
     },
     {
       "Id": 14090601409091,
       "Title": "A psychophysically validated metric for bidirectional texture data reductiontrained paramet",
-      "cluster": 17
+      "cluster": 12
     },
     {
       "Id": 14090601409108,
       "Title": "Richnesspreserving manga screening",
-      "cluster": 17
+      "cluster": 12
     },
     {
       "Id": 14090601409114,
       "Title": "Imagebased ade modeling",
-      "cluster": 17
+      "cluster": 12
     },
     {
       "Id": 15762461531348,
       "Title": "Moving gradients a pathbased method for plausible image interpolation",
-      "cluster": 17
+      "cluster": 12
     },
     {
       "Id": 15762461531351,
       "Title": "FlexiStickers photogrammetric texture mapping using casual images",
-      "cluster": 17
+      "cluster": 12
     },
     {
       "Id": 15762461531356,
       "Title": "Enrichment textures for detailed cutting of shells",
-      "cluster": 17
+      "cluster": 12
     },
     {
       "Id": 15762461618453,
       "Title": "Layered shape synthesis automatic generation of control maps for non stationary textures",
-      "cluster": 17
+      "cluster": 12
     },
     {
       "Id": 15762461618454,
       "Title": "Feature aligned shape texturing",
-      "cluster": 17
+      "cluster": 12
     },
     {
       "Id": 15762461618461,
       "Title": "Patch based image vectorization with automatic curvilinear feature alignmentol maps for non",
-      "cluster": 17
+      "cluster": 12
     },
     {
       "Id": 15762461618471,
       "Title": "Optimized image resizing using seam carving and scaling",
-      "cluster": 17
+      "cluster": 12
     },
     {
       "Id": 15762461618493,
       "Title": "Edge preserving multiscale image decomposition based on local extremase separatione lapse s",
-      "cluster": 17
+      "cluster": 12
     },
     {
       "Id": 18333491778802,
       "Title": "Realtime lens blur effects and focus control",
-      "cluster": 17
+      "cluster": 12
     },
     {
       "Id": 18333491778821,
       "Title": "Byexample synthesis of architectural textures",
-      "cluster": 17
+      "cluster": 12
     },
     {
       "Id": 18333491778843,
       "Title": "Stable spaces for realtime clothing",
-      "cluster": 17
+      "cluster": 12
     },
     {
       "Id": 192161192171,
       "Title": "Textures and radiositycontrolling emission and reflection with texture ma",
-      "cluster": 17
+      "cluster": 12
     },
     {
       "Id": 192161192187,
       "Title": "Efficient techniques for interactive texture placement",
-      "cluster": 17
+      "cluster": 12
     },
     {
       "Id": 192161192254,
       "Title": "Synthetic topiary",
-      "cluster": 17
+      "cluster": 12
     },
     {
       "Id": 34477934481,
       "Title": "Time dependent visual adaptation for fast realistic image display",
-      "cluster": 17
+      "cluster": 12
     },
     {
       "Id": 344779344812,
       "Title": "Toward a psychophysicallybased light reflection model for image synthesis",
-      "cluster": 17
+      "cluster": 12
     },
     {
       "Id": 344779344947,
       "Title": "Relief texture mapping",
-      "cluster": 17
+      "cluster": 12
     },
     {
       "Id": 344779344987,
       "Title": "Lapped textures",
-      "cluster": 17
+      "cluster": 12
     },
     {
       "Id": 34477934499,
       "Title": "Seamless texture mapping of subdivision surfaces by model pelting and texture blendingto D",
-      "cluster": 17
+      "cluster": 12
     },
     {
       "Id": 383259383269,
       "Title": "Synthesizing bidirectional texture functions for realworld surfaceswith two free variables",
-      "cluster": 17
+      "cluster": 12
     },
     {
       "Id": 383259383272,
       "Title": "WireGL a scalable graphics system for clusters single imagevariables",
-      "cluster": 17
+      "cluster": 12
     },
     {
       "Id": 383259383296,
       "Title": "Image quilting for texture synthesis and transfer",
-      "cluster": 17
+      "cluster": 12
     },
     {
       "Id": 383259383297,
       "Title": "Texture synthesis on surfaces",
-      "cluster": 17
+      "cluster": 12
     },
     {
       "Id": 383259383298,
       "Title": "Texture synthesis over arbitrary manifold surfaces",
-      "cluster": 17
+      "cluster": 12
     },
     {
       "Id": 38325938332,
       "Title": "Polynomial texture maps",
-      "cluster": 17
+      "cluster": 12
     },
     {
       "Id": 383259383328,
       "Title": "Realtime hatching",
-      "cluster": 17
+      "cluster": 12
     },
     {
       "Id": 566570566632,
       "Title": "Selfsimilarity based texture editing",
-      "cluster": 17
+      "cluster": 12
     },
     {
       "Id": 56657056665,
       "Title": "Stylization and abstraction of photographs",
-      "cluster": 17
+      "cluster": 12
     },
     {
       "Id": 566570566652,
       "Title": "Octree textures",
-      "cluster": 17
+      "cluster": 12
     },
     {
       "Id": 9787997886,
       "Title": "Particle transport and image synthesis",
-      "cluster": 17
+      "cluster": 10
     },
     {
       "Id": 9787997893,
       "Title": "An efficient radiosity solution for bump texture generation",
-      "cluster": 17
+      "cluster": 10
     },
     {
       "Id": 11793521141977,
       "Title": "Fast separation of direct and global components of a scene using high frequency illumination",
-      "cluster": 18
+      "cluster": 10
     },
     {
       "Id": 11793521142012,
       "Title": "Superhelices for predicting the dynamics of natural hair",
-      "cluster": 18
+      "cluster": 10
     },
     {
       "Id": 11793521142013,
       "Title": "Heads upbiomechanical modeling and neuromuscular control of the neck",
-      "cluster": 18
+      "cluster": 10
     },
     {
       "Id": 1186562101581,
       "Title": "PolyCubeMaps",
-      "cluster": 18
+      "cluster": 14
     },
     {
       "Id": 11868221073253,
       "Title": "Floral diagrams and inflorescences interactive flower modeling using botanical structural constraints",
-      "cluster": 18
+      "cluster": 10
     },
     {
       "Id": 11868221073278,
       "Title": "Cacheoblivious mesh layouts",
-      "cluster": 18
+      "cluster": 10
     },
     {
       "Id": 1201775882275,
       "Title": "Globally smooth parameterizations with low distortion",
-      "cluster": 18
+      "cluster": 10
     },
     {
       "Id": 1201775882276,
       "Title": "Fundamentals of spherical parameterization for D meshes",
-      "cluster": 18
+      "cluster": 10
     },
     {
       "Id": 1201775882277,
       "Title": "Dual domain extrapolation",
-      "cluster": 18
+      "cluster": 10
     },
     {
       "Id": 1201775882311,
       "Title": "The space of human body shapesreconstruction and parameterization from range scans",
-      "cluster": 18
+      "cluster": 10
     },
     {
       "Id": 120177588236,
       "Title": "Realistic modeling of bird flight animations",
-      "cluster": 18
+      "cluster": 10
     },
     {
       "Id": 122718122726,
       "Title": "Modelbased matching and hinting of fonts",
-      "cluster": 18
+      "cluster": 10
     },
     {
       "Id": 122718122733,
       "Title": "A new simple and efficient antialiasing with subpixel masks",
-      "cluster": 18
+      "cluster": 10
     },
     {
       "Id": 122718122734,
       "Title": "An efficient antialiasing technique",
-      "cluster": 18
+      "cluster": 10
     },
     {
       "Id": 122718122753,
       "Title": "Specifying gestures by example",
-      "cluster": 18
+      "cluster": 10
     },
     {
       "Id": 12758081276404,
       "Title": "Global non rigid alignment of D scans",
-      "cluster": 18
+      "cluster": 14
     },
     {
       "Id": 12758081276431,
       "Title": "Interactive topologyaware surface reconstruction",
-      "cluster": 18
+      "cluster": 14
     },
     {
       "Id": 12758081276468,
       "Title": "Realtime enveloping with rotational regression",
-      "cluster": 18
+      "cluster": 14
     },
     {
       "Id": 13606121360639,
       "Title": "AppPropallpairs appearancespace edit propagationographseal hairst",
-      "cluster": 18
+      "cluster": 10
     },
     {
       "Id": 1360612136064,
       "Title": "Modeling anisotropic surface reflectance with examplebased microfacet synthesisseal hairst",
-      "cluster": 18
+      "cluster": 10
     },
     {
       "Id": 13606121360692,
       "Title": "Realtime gradientdomain painting",
-      "cluster": 18
+      "cluster": 10
     },
     {
       "Id": 1409060140911,
       "Title": "Demarcating curves for shape illustratin",
-      "cluster": 18
+      "cluster": 10
     },
     {
       "Id": 15762461531338,
       "Title": "Fabricating microgeometry for custom surface reflectance",
-      "cluster": 18
+      "cluster": 10
     },
     {
       "Id": 15762461531375,
       "Title": "Paint selection",
-      "cluster": 18
+      "cluster": 14
     },
     {
       "Id": 15762461618477,
       "Title": "Webcam clip art appearance and illuminant transfer from time lapse sequences",
-      "cluster": 18
+      "cluster": 10
     },
     {
       "Id": 15762461618507,
       "Title": "Robust colortogray via nonlinear global mapping",
-      "cluster": 18
+      "cluster": 10
     },
     {
       "Id": 18333491778822,
       "Title": "Synthesizing structured image hybrid",
-      "cluster": 18
+      "cluster": 10
     },
     {
       "Id": 18333491778857,
       "Title": "Parameterizing subdivision surfaces",
-      "cluster": 18
+      "cluster": 10
     },
     {
       "Id": 18333491778858,
       "Title": "A multi resolution approach to heat kernels on discrete surfaces",
-      "cluster": 18
+      "cluster": 10
     },
     {
       "Id": 18333491778863,
       "Title": "Parametric reshaping of human bodies in images",
-      "cluster": 18
+      "cluster": 10
     },
     {
       "Id": 192161192181,
       "Title": "Multiresolution painting and compositin",
-      "cluster": 18
+      "cluster": 10
     },
     {
       "Id": 344779344792,
       "Title": "Computer generated peandink illustration of trees",
-      "cluster": 18
+      "cluster": 14
     },
     {
       "Id": 344779344929,
       "Title": "Dynamically reparameterized light fields",
-      "cluster": 18
+      "cluster": 10
     },
     {
       "Id": 344779344935,
       "Title": "Silhouette clipping",
-      "cluster": 18
+      "cluster": 10
     },
     {
       "Id": 566570566649,
       "Title": "Painting and rendering textures on unparameterized models",
-      "cluster": 18
+      "cluster": 10
     },
     {
       "Id": 11793521141918,
       "Title": "Fast median and bilateral filtering",
-      "cluster": 19
+      "cluster": 14
     },
     {
       "Id": 1179352114194,
       "Title": "Point sampled cell complexes",
-      "cluster": 19
+      "cluster": 14
     },
     {
       "Id": 11793521141959,
       "Title": "Efficient simulation of large bodies of water by coupling two and three dimensional technique",
-      "cluster": 19
+      "cluster": 10
     },
     {
       "Id": 11793521141961,
       "Title": "Fluid animation with dynamic meshes",
-      "cluster": 19
+      "cluster": 13
     },
     {
       "Id": 11793521141997,
       "Title": "Multidimensional lightcuts",
-      "cluster": 19
+      "cluster": 13
     },
     {
       "Id": 11793521142001,
       "Title": "A fast multigrid algorithm for mesh deformation",
-      "cluster": 19
+      "cluster": 13
     },
     {
       "Id": 11865621015711,
       "Title": "Making papercraft toys from meshes using strip based approximate unfoldingendering of gemst",
-      "cluster": 19
+      "cluster": 13
     },
     {
       "Id": 11865621015811,
       "Title": "Cross parameterization and compatible remeshing of D model",
-      "cluster": 19
+      "cluster": 13
     },
     {
       "Id": 11868221073324,
       "Title": "A sketch based interface for detail preserving mesh editing",
-      "cluster": 19
+      "cluster": 13
     },
     {
       "Id": 1201775882274,
       "Title": "Spherical parametrization and remeshing",
-      "cluster": 19
+      "cluster": 13
     },
     {
       "Id": 1201775882368,
       "Title": "Bilateral mesh denoising",
-      "cluster": 19
+      "cluster": 13
     },
     {
       "Id": 1201775882369,
       "Title": "Hierarchical mesh decomposition using fuzzy clustering and cuts",
-      "cluster": 19
+      "cluster": 13
     },
     {
       "Id": 122718122724,
       "Title": "Making radiosity usableautomatic preprocessing and meshing techniques for the generation of accurate radiosity solutions",
-      "cluster": 19
+      "cluster": 13
     },
     {
       "Id": 122718122729,
       "Title": "Trichromatic approximation for computer graphics illumination modelsng and meshing techniqu",
-      "cluster": 19
+      "cluster": 13
     },
     {
       "Id": 12758081276429,
       "Title": "FiberMeshdesigning freeform surfaces with D curvesdeo and photogra",
-      "cluster": 19
+      "cluster": 13
     },
     {
       "Id": 12758081276479,
       "Title": "Mesh puppetry cascading optimization of mesh deformation with inverse kinematic ",
-      "cluster": 19
+      "cluster": 13
     },
     {
       "Id": 13606121360626,
       "Title": "Real time motion retargeting to highly varied user created morphologies computin",
-      "cluster": 19
+      "cluster": 13
     },
     {
       "Id": 13606121360643,
       "Title": "Skeleton extraction by mesh contraction",
-      "cluster": 19
+      "cluster": 13
     },
     {
       "Id": 13606121360696,
       "Title": "Articulated mesh animation from multi view silhouettes",
-      "cluster": 19
+      "cluster": 13
     },
     {
       "Id": 14090601409097,
       "Title": "Efficient traversal of mesh edges using adjacency primitive",
-      "cluster": 19
+      "cluster": 13
     },
     {
       "Id": 14090601409098,
       "Title": "Randomized cuts for D mesh analysis",
-      "cluster": 19
+      "cluster": 13
     },
     {
       "Id": 14090601409101,
       "Title": "Quadrilateral mesh simplification",
-      "cluster": 19
+      "cluster": 13
     },
     {
       "Id": 15762461531327,
       "Title": "Gaussian KDtrees for fast high dimensional filtering",
-      "cluster": 19
+      "cluster": 13
     },
     {
       "Id": 15762461531379,
-      "Title": "A benchmark for D mesh segmentatio",
-      "cluster": 19
+      "Title": "A benchmark for D mesh segmentation",
+      "cluster": 13
     },
     {
       "Id": 15762461531381,
       "Title": "Interleaving Delaunay refinement and optimization for practical isotropic tetrahedron mesh generation",
-      "cluster": 19
+      "cluster": 13
     },
     {
       "Id": 15762461531389,
       "Title": "A visibility algorithm for converting D meshes into editable D vector graphicsedron mesh",
-      "cluster": 19
+      "cluster": 13
     },
     {
       "Id": 15762461618512,
       "Title": "Hair meshes",
-      "cluster": 19
+      "cluster": 13
     },
     {
       "Id": 15762461618519,
       "Title": "Outofcore multigrid solver for streaming meshes",
-      "cluster": 19
+      "cluster": 13
     },
     {
       "Id": 18333491778785,
       "Title": "A multiscale approach to mesh based surface tension flows",
-      "cluster": 19
+      "cluster": 13
     },
     {
       "Id": 18333491778839,
       "Title": "Learning D mesh segmentation and labeling",
-      "cluster": 19
+      "cluster": 13
     },
     {
       "Id": 18333491778854,
       "Title": "Feature aligned T meshes",
-      "cluster": 19
+      "cluster": 13
     },
     {
       "Id": 192161192238,
       "Title": "Smooth spline surfaces over irregular meshes",
-      "cluster": 19
+      "cluster": 13
     },
     {
       "Id": 192161192241,
       "Title": "Zippered polygon meshes from range images",
-      "cluster": 19
+      "cluster": 13
     },
     {
       "Id": 344779344908,
       "Title": "Patching Catmull Clark meshes",
-      "cluster": 19
+      "cluster": 13
     },
     {
       "Id": 344779344912,
       "Title": "Outofcore simplification of large polygonal models",
-      "cluster": 19
+      "cluster": 13
     },
     {
       "Id": 344779344919,
       "Title": "Face fixer compressing polygon meshes with propertiestation of shape",
-      "cluster": 19
+      "cluster": 13
     },
     {
       "Id": 344779344979,
       "Title": "The WarpEngine an architecture for the postpolygonal agelingh to D",
-      "cluster": 19
+      "cluster": 13
     },
     {
       "Id": 383259383277,
       "Title": "Consistent mesh parameterizations",
-      "cluster": 19
+      "cluster": 13
     },
     {
       "Id": 383259383281,
       "Title": "Progressive compression for lossless transmission of triangle mesheswarefor PC clustersbles",
-      "cluster": 19
+      "cluster": 13
     },
     {
       "Id": 9787997882,
       "Title": "Dynamic simulation of autonomous legged locomotion",
-      "cluster": 19
+      "cluster": 7
     },
     {
       "Id": 9787997892,
       "Title": "Merging BSP trees yields polyhedral set operations",
-      "cluster": 19
+      "cluster": 13
     },
     {
       "Id": 9787997896,
       "Title": "Adaptive mesh generation for global diffuse illumination",
-      "cluster": 19
+      "cluster": 13
     },
     {
       "Id": 13606121360674,
       "Title": "Curved folding",
-      "cluster": 19
+      "cluster": 13
     },
     {
       "Id": 13606121360698,
       "Title": "Markerless garment capture ",
-      "cluster": 19
+      "cluster": 14
     },
     {
       "Id": 13606121360701,
       "Title": "Interactive visual editing of grammars for procedural architecture",
-      "cluster": 19
+      "cluster": 14
     },
     {
       "Id": 13606121360702,
       "Title": "Interactive procedural street modeling",
-      "cluster": 19
+      "cluster": 14
     },
     {
       "Id": 14090601409093,
       "Title": "A layered",
-      "cluster": 19
+      "cluster": 14
     },
     {
       "Id": 14090601409094,
       "Title": "Phong Tessellation",
-      "cluster": 19
+      "cluster": 14
     },
     {
       "Id": 14090601409099,
       "Title": "Deducing interpolating subdivision schemes from approximating subdivision schemesed paramet",
-      "cluster": 19
+      "cluster": 13
     },
     {
       "Id": 14090601409113,
       "Title": "Interactive example based urban layout synthesis",
-      "cluster": 19
+      "cluster": 14
     },
     {
       "Id": 15762461531347,
       "Title": "Directable",
-      "cluster": 19
+      "cluster": 14
     },
     {
       "Id": 1576246153139,
       "Title": "Local layering",
-      "cluster": 19
+      "cluster": 14
     }
   ],
   "link": [
